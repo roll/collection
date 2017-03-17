@@ -14,19 +14,19 @@
   "item_height": 9.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015763",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1015763",
   "provenance_text": "Bernard Danenberg Galleries, Inc., New York",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115038&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=115038&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/d7d38d22-cde8-48f1-adf0-215f19bea834",
       "party_type": "Person",
-      "full_name": "Charles Ephraim  Burchfield",
+      "full_name": "Charles Ephraim Burchfield",
       "cited_name": "Burchfield, Charles E.",
       "role": null,
       "nationality": "American",

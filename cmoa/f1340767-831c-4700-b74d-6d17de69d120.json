@@ -14,15 +14,15 @@
   "item_height": 18.125,
   "item_depth": 1.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91911",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=91911",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118838&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118838&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100655&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100655&size=Medium"
     }
   ],
   "creator": [

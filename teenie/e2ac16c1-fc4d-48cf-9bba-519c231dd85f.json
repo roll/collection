@@ -1,8 +1,8 @@
 {
-  "title": "Two bishops presenting rolled document to a man in a church interior",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "title": "Rev. Howard Mather of Order of Antioch facing man in doctoral robes in Calvary Methodist Episcopal (United Methodist) Church, 971 Beech Avenue, Northside",
+  "creation_date": "July 1945",
+  "creation_date_earliest": "1945-07-01",
+  "creation_date_latest": "1945-07-28",
   "medium": "black and white: Ansco Safety Film",
   "accession_number": "2001.35.4205",
   "id": "cmoa:things/e2ac16c1-fc4d-48cf-9bba-519c231dd85f",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3902",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=3902",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18756&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=18756&size=ZoomLarge"
     }
   ],
   "creator": [

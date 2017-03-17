@@ -14,7 +14,7 @@
   "item_height": 40.0,
   "item_depth": 0.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011018",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011018",
   "provenance_text": "Rose Fried, New York, NY",
   "classification": "paintings",
   "images": [
@@ -29,7 +29,7 @@
       "role": null,
       "nationality": "American",
       "birth_date": "1910-01-01",
-      "death_date": null,
+      "death_date": "1982-01-01",
       "birth_place": null,
       "death_place": null
     }

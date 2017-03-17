@@ -1,9 +1,9 @@
 {
-  "title": "Amida Falls on the Kiso Highway",
+  "title": "The Amida Falls in the Far Reaches of the Kisokaidô Road (Kisoji no oku Amida-ga-taki)",
   "creation_date": "1831-1832",
   "creation_date_earliest": "1831-01-01",
   "creation_date_latest": "1832-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.394",
   "id": "cmoa:things/f57da8c3-78a8-44fe-be01-49be9d11041f",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 14.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028135",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1028135",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105810&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105810&size=Medium"
     }
   ],
   "creator": [

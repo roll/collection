@@ -14,15 +14,15 @@
   "item_height": 115.25,
   "item_depth": 2.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003434",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003434",
   "provenance_text": "Galerie Michael Werner, Koln, Germany",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21959&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=21959&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57644&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=57644&size=Medium"
     }
   ],
   "creator": [
@@ -35,7 +35,7 @@
       "nationality": "German",
       "birth_date": "1938-01-01",
       "death_date": null,
-      "birth_place": "Deutschbaselitz, Saxony",
+      "birth_place": "Deutschbaselitz (Saxony, Germany)",
       "death_place": null
     }
   ]

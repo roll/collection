@@ -14,18 +14,18 @@
   "item_height": 35.5,
   "item_depth": 144.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6549",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=6549",
   "provenance_text": "George Sugarman Foundation, New York",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146843&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146843&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146835&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146835&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146832&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146832&size=Medium"
     }
   ],
   "creator": [

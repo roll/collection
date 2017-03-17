@@ -10,19 +10,19 @@
   "date_acquired": "1996-05-02",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 64.0,
-  "item_height": 24.0,
-  "item_depth": 22.5,
+  "item_width": 63.0,
+  "item_height": 25.0,
+  "item_depth": 21.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002098",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002098",
   "provenance_text": "Barry Friedman Ltd., New York City, New York",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96444&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96444&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96446&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96446&size=Medium"
     }
   ],
   "creator": [

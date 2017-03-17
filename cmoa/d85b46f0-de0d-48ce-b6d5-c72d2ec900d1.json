@@ -10,16 +10,16 @@
   "date_acquired": "1976-02-12",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 23.438,
-  "item_height": 4.5,
-  "item_depth": 4.125,
+  "item_width": 24.0,
+  "item_height": 4.375,
+  "item_depth": 4.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017844",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1017844",
   "provenance_text": "Gift of Jay C. Leff, Uniontown, PA, 1976.",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101703&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101703&size=Medium"
     }
   ],
   "creator": [

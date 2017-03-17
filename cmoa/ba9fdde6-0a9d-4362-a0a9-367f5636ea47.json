@@ -10,16 +10,16 @@
   "date_acquired": "2013-02-14",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 28.0,
-  "item_height": 24.0,
+  "item_width": 24.0,
+  "item_height": 18.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93572",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=93572",
   "provenance_text": "The Heinz Endowments Downtown Now Photography Project",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106582&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=106582&size=Medium"
     }
   ],
   "creator": [

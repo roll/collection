@@ -10,16 +10,16 @@
   "date_acquired": "1956-03-14",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 30.0,
-  "item_height": 25.0,
-  "item_depth": 0.0,
+  "item_width": 29.0,
+  "item_height": 24.0,
+  "item_depth": 3.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009619",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009619",
   "provenance_text": "Estate of the artist; Kraushaar Galleries, New York, by 1946; Patrons Art Fund, 1956",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121150&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=121150&size=Medium"
     }
   ],
   "creator": [

@@ -14,15 +14,15 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001253",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1001253",
   "provenance_text": "F. Meder, New York",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102143&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=102143&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102144&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=102144&size=Medium"
     }
   ],
   "creator": [

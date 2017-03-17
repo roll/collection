@@ -10,16 +10,16 @@
   "date_acquired": "1992-04-02",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 75.5,
-  "item_height": 30.0,
+  "item_width": 75.75,
+  "item_height": 29.75,
   "item_depth": 37.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030183",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1030183",
   "provenance_text": "S. Bernard Pare & Associates, Montreal, Quebec, Canada",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90158&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=90158&size=Medium"
     }
   ],
   "creator": [

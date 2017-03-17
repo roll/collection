@@ -1,8 +1,8 @@
 {
   "title": "Hedy Lamarr",
-  "creation_date": "c. 1930",
-  "creation_date_earliest": "1925-01-01",
-  "creation_date_latest": "1935-01-01",
+  "creation_date": "1938, printed 1979",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
   "medium": "gelatin silver print",
   "accession_number": "84.84.7",
   "id": "cmoa:things/7cb53984-9d4b-4147-9cfd-c8fe1c8cf59a",
@@ -14,12 +14,12 @@
   "item_height": 19.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025214",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1025214",
   "provenance_text": "The Martin S. Ackerman Foundation, New York",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13041&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=13041&size=Medium"
     }
   ],
   "creator": [

@@ -14,15 +14,15 @@
   "item_height": 19.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005023",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1005023",
   "provenance_text": "Fitzroy Carrington",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105243&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105243&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105244&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105244&size=Medium"
     }
   ],
   "creator": [

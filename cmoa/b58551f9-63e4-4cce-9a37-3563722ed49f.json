@@ -11,15 +11,15 @@
   "department": "Heinz Architectural Center",
   "physical_location": "Not on View",
   "item_width": 6.5,
-  "item_height": 6.875,
-  "item_depth": 0.0,
+  "item_height": 6.187,
+  "item_depth": 1.875,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032997",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1032997",
   "provenance_text": "Hirschl and Adler Galleries, New York, NY",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9889&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9889&size=Medium"
     }
   ],
   "creator": [

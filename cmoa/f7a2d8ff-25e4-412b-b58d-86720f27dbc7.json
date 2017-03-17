@@ -1,8 +1,8 @@
 {
-  "title": "Les Défricheurs",
-  "creation_date": null,
-  "creation_date_earliest": "1921-01-01",
-  "creation_date_latest": "1956-01-01",
+  "title": "The Tillers (Les Défricheurs)",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
   "medium": "lithograph on paper",
   "accession_number": "56.21.2",
   "id": "cmoa:things/f7a2d8ff-25e4-412b-b58d-86720f27dbc7",
@@ -14,7 +14,7 @@
   "item_height": 25.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009668",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009668",
   "provenance_text": "L'Oeuvre Gravee, Zurich, Switzerland",
   "classification": "prints",
   "images": [

@@ -14,12 +14,15 @@
   "item_height": 68.25,
   "item_depth": 84.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015816",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1015816",
   "provenance_text": "Marlborough Gallery, Inc., NYC thru 1970 International",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100680&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100680&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126438&size=Medium"
     }
   ],
   "creator": [

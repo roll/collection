@@ -14,15 +14,15 @@
   "item_height": 18.0,
   "item_depth": 5.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93197",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=93197",
   "provenance_text": null,
-  "classification": "Metals",
+  "classification": "lighting devices",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105552&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105552&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105553&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105553&size=Medium"
     }
   ],
   "creator": [

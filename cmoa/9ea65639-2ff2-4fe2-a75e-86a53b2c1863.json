@@ -14,12 +14,12 @@
   "item_height": 24.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34472",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=34472",
   "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39634&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=39634&size=Medium"
     }
   ],
   "creator": [
@@ -29,7 +29,7 @@
       "full_name": "James Ward",
       "cited_name": "Ward, James",
       "role": "printmaker",
-      "nationality": "English",
+      "nationality": "British",
       "birth_date": "1769-01-01",
       "death_date": "1859-01-01",
       "birth_place": "London, England",

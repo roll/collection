@@ -3,7 +3,7 @@
   "creation_date": "March 1943",
   "creation_date_earliest": "1943-01-01",
   "creation_date_latest": "1943-01-01",
-  "medium": "Woodcut",
+  "medium": "woodblock print",
   "accession_number": "89.28.210",
   "id": "cmoa:things/e4c551db-c76d-470f-b7b0-8fdf8afdf881",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,7 +14,7 @@
   "item_height": 10.5,
   "item_depth": 0.188,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027726",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027726",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Roger Keyes, San Francisco, 4/3/1971.",
   "classification": "prints",
   "images": [

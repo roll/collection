@@ -14,15 +14,15 @@
   "item_height": 15.0,
   "item_depth": 8.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=70013",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=70013",
   "provenance_text": null,
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=70355&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=70355&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=70356&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=70356&size=Medium"
     }
   ],
   "creator": [

@@ -8,21 +8,21 @@
   "id": "cmoa:things/c3574131-6ce5-414f-a13f-100056edb848",
   "credit_line": "The Henry L. Hillman Fund",
   "date_acquired": "2002-10-03",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 47.875,
   "item_height": 72.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=333",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=333",
   "provenance_text": "Pace/MacGill Gallery, New York",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94517&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=94517&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94518&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=94518&size=Medium"
     }
   ],
   "creator": [

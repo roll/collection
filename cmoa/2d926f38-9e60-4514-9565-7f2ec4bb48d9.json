@@ -11,18 +11,18 @@
   "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 6.25,
-  "item_height": 9.375,
+  "item_height": 9.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=17429",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=17429",
   "provenance_text": "Estate of John W. Beatty until 1924\nEstate of Mrs. John W. Beatty until ca. 1945\nAcquired by Morton B. Katz of Toronto, Canada, 2004",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99974&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99974&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47736&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=47736&size=Medium"
     }
   ],
   "creator": [

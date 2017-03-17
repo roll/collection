@@ -11,27 +11,27 @@
   "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 9.0,
-  "item_height": 12.25,
-  "item_depth": 0.0,
+  "item_height": 12.0,
+  "item_depth": 1.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=89382",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=89382",
   "provenance_text": "George Ebbs",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56118&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=56118&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111031&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111031&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111029&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111029&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111030&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111030&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111032&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111032&size=Medium"
     }
   ],
   "creator": [

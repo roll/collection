@@ -10,19 +10,19 @@
   "date_acquired": "1999-10-07",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 10.5,
-  "item_height": 3.0,
-  "item_depth": 9.0,
+  "item_width": 10.75,
+  "item_height": 3.75,
+  "item_depth": 8.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003895",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003895",
   "provenance_text": "The artist, Marcia Lewis, Long Beach, CA; gift to museum, October 1999",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5544&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5544&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2963&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2963&size=Medium"
     }
   ],
   "creator": [

@@ -14,18 +14,18 @@
   "item_height": 13.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008779",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1008779",
   "provenance_text": "Frank K. M. Rehn, Inc",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101022&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101022&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101023&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101023&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99307&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99307&size=Medium"
     }
   ],
   "creator": [

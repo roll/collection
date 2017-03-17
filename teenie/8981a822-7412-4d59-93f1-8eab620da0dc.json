@@ -1,8 +1,8 @@
 {
   "title": "Portrait of young man with camera around neck, leaning against car",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1930-1946",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1946-01-01",
   "medium": "black and white: possibly nitrate film",
   "accession_number": "2001.35.1256",
   "id": "cmoa:things/8981a822-7412-4d59-93f1-8eab620da0dc",
@@ -14,12 +14,12 @@
   "item_height": 3.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2653",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=2653",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=15576&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=15576&size=ZoomLarge"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "2004-04-01",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 78.0,
-  "item_height": 50.875,
+  "item_width": 48.0,
+  "item_height": 61.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8427",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=8427",
   "provenance_text": "The Modern Institute, Glasgow, Scotland",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48617&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=48617&size=Medium"
     }
   ],
   "creator": [

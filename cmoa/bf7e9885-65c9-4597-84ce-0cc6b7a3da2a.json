@@ -10,16 +10,16 @@
   "date_acquired": "1997-02-06",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 4.0,
+  "item_width": 3.875,
   "item_height": 3.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002964",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002964",
   "provenance_text": "Pittsburgh Courier Photographic Archives, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13433&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=13433&size=Medium"
     }
   ],
   "creator": [

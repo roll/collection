@@ -14,12 +14,12 @@
   "item_height": 20.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34354",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=34354",
   "provenance_text": "Rolf and Magda Loeber, by February 2007; gift to Carnegie Museum of Art, February 2007.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39284&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=39284&size=Medium"
     }
   ],
   "creator": [
@@ -44,8 +44,8 @@
       "nationality": "British",
       "birth_date": "1745-01-01",
       "death_date": "1806-01-01",
-      "birth_place": null,
-      "death_place": null
+      "birth_place": "Guildford (Surrey, England, United Kingdom)",
+      "death_place": "Kingston-Upon-Hull (Kingston upon Hull, England, United Kingdom)"
     }
   ]
 }

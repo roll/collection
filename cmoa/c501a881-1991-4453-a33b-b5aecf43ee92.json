@@ -3,7 +3,7 @@
   "creation_date": "1957",
   "creation_date_earliest": "1957-01-01",
   "creation_date_latest": "1957-01-01",
-  "medium": "paper on paper",
+  "medium": "paper collage",
   "accession_number": "59.18.1",
   "id": "cmoa:things/c501a881-1991-4453-a33b-b5aecf43ee92",
   "credit_line": "Leisser Art Fund",
@@ -14,15 +14,12 @@
   "item_height": 14.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010959",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1010959",
   "provenance_text": "Bertha Schaefer Galleries, New York City, New York",
   "classification": "collages",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99614&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99317&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99614&size=Medium"
     }
   ],
   "creator": [

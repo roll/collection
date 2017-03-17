@@ -10,16 +10,16 @@
   "date_acquired": "1980-05-08",
   "department": "Contemporary Art",
   "physical_location": "Gallery 15, Scaife Galleries",
-  "item_width": 0.0,
+  "item_width": 34.0,
   "item_height": 34.0,
-  "item_depth": 0.0,
+  "item_depth": 24.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021099",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021099",
   "provenance_text": "Xavier Fourcade, Inc. NYC",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117054&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=117054&size=Medium"
     }
   ],
   "creator": [

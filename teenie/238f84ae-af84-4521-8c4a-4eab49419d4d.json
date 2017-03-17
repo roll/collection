@@ -1,8 +1,8 @@
 {
   "title": "Woman vocalist performing with band in club",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1948-1960",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1960-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.3459",
   "id": "cmoa:things/238f84ae-af84-4521-8c4a-4eab49419d4d",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5558",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=5558",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18057&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=18057&size=ZoomLarge"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1989-12-07",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 21.25,
-  "item_height": 33.75,
+  "item_width": 21.375,
+  "item_height": 33.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026946",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026946",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from the Kaigado Galerie Arai, Tokyo, Japan; March 1965.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34965&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34965&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "2006-06-01",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 11.0,
-  "item_height": 14.0,
+  "item_width": 11.063,
+  "item_height": 13.938,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26276",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=26276",
   "provenance_text": "Clyde Hare, Allison Park, PA.",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=40122&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=40122&size=Medium"
     }
   ],
   "creator": [

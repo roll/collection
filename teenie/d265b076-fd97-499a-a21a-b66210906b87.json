@@ -1,8 +1,8 @@
 {
-  "title": "Exterior of Cohen's clothing store with children's clothing in window in foreground",
-  "creation_date": "c. 1930-1950",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1950-01-01",
+  "title": "Cohen's clothing store with children's clothing in window in foreground, 2168 Centre Avenue, Hill District",
+  "creation_date": "c. 1940-1946",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1946-01-01",
   "medium": "black and white: Agfa Safety Film",
   "accession_number": "2001.35.10312",
   "id": "cmoa:things/d265b076-fd97-499a-a21a-b66210906b87",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=19063",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=19063",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26233&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=26233&size=ZoomLarge"
     }
   ],
   "creator": [

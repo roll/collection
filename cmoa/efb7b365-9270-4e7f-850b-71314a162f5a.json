@@ -14,15 +14,15 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026614",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026614",
   "provenance_text": "The Golden Calf, Pittsburgh",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102678&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=102678&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102679&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=102679&size=Medium"
     }
   ],
   "creator": [
@@ -31,12 +31,24 @@
       "party_type": "Person",
       "full_name": "Jean Bérain the Elder",
       "cited_name": "Bérain, Jean, the elder",
-      "role": null,
+      "role": "engraver",
       "nationality": "French",
       "birth_date": "1640-01-01",
       "death_date": "1711-01-01",
       "birth_place": "Saint-Mihiel (Meuse, Lorraine, France)",
       "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/53d7d839-8e9b-4e36-89b9-5444c058c31d",
+      "party_type": "Person",
+      "full_name": "Gérard Jean-Baptiste Scotin",
+      "cited_name": "Scotin, Gérard Jean-Baptiste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1671-01-01",
+      "death_date": "1716-01-01",
+      "birth_place": null,
+      "death_place": null
     }
   ]
 }

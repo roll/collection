@@ -10,16 +10,16 @@
   "date_acquired": "1992-06-04",
   "department": "Decorative Arts and Design",
   "physical_location": "Gallery 7, Scaife Galleries",
-  "item_width": 66.0,
+  "item_width": 68.25,
   "item_height": 72.0,
-  "item_depth": 2.75,
+  "item_depth": 22.125,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032271",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1032271",
   "provenance_text": "Simon Tracy Gallery, London, England",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135569&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=135569&size=Medium"
     }
   ],
   "creator": [

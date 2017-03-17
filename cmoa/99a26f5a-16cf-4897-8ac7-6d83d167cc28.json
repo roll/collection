@@ -14,15 +14,15 @@
   "item_height": 2.688,
   "item_depth": 0.188,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005635",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1005635",
   "provenance_text": "Unknown source, Boston, MA; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, October 8, 1917; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73633&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=73633&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73634&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=73634&size=Medium"
     }
   ],
   "creator": [
@@ -33,7 +33,7 @@
       "cited_name": "Degault, Charles",
       "role": null,
       "nationality": "French",
-      "birth_date": null,
+      "birth_date": "1800-01-01",
       "death_date": null,
       "birth_place": null,
       "death_place": null

@@ -10,16 +10,16 @@
   "date_acquired": "1999-04-08",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 8.375,
+  "item_width": 8.25,
   "item_height": 8.375,
   "item_depth": 6.625,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003846",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003846",
   "provenance_text": "John B Jackson\nto\nMary Louisa Jackson\nto \nJohn Jackson Bissell\nto \nMr. And Mrs. G. William Bissell, Pittsburgh, PA",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8505&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=8505&size=Medium"
     }
   ],
   "creator": [

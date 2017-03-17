@@ -14,15 +14,15 @@
   "item_height": 19.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000168",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1000168",
   "provenance_text": "New York Cooperative Society; Andrew Carnegie Fund",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84824&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=84824&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48043&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=48043&size=Medium"
     }
   ],
   "creator": [

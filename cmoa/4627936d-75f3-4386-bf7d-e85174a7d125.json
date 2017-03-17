@@ -8,21 +8,21 @@
   "id": "cmoa:things/4627936d-75f3-4386-bf7d-e85174a7d125",
   "credit_line": "Purchase: gift of her family in honor of Aaronel de Roy Gruber",
   "date_acquired": "2003-10-02",
-  "department": "Contemporary Art",
-  "physical_location": "Not on View",
+  "department": "Photography",
+  "physical_location": "Forum Gallery",
   "item_width": 62.75,
   "item_height": 49.875,
   "item_depth": 2.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5943",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=5943",
   "provenance_text": "Janet Borden, Inc., New York",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98111&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=98111&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84828&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=84828&size=Medium"
     }
   ],
   "creator": [

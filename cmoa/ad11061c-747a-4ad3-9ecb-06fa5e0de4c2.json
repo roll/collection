@@ -10,16 +10,16 @@
   "date_acquired": "1999-12-02",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 14.25,
+  "item_width": 14.0,
   "item_height": 9.25,
-  "item_depth": 4.875,
+  "item_depth": 4.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003939",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003939",
   "provenance_text": "Keith Lo Bue, Pittsburgh, PA",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3132&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=3132&size=Medium"
     }
   ],
   "creator": [

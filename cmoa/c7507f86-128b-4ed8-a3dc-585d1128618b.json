@@ -9,17 +9,17 @@
   "credit_line": "Gift of Jane Haskell",
   "date_acquired": "1998-02-05",
   "department": "Heinz Architectural Center",
-  "physical_location": "Gallery One",
+  "physical_location": "Not on View",
   "item_width": 20.75,
   "item_height": 15.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003585",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003585",
   "provenance_text": "The Donor, Pittsburgh, PA",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98909&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=98909&size=Medium"
     }
   ],
   "creator": [

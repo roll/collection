@@ -14,15 +14,15 @@
   "item_height": 27.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011480",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011480",
   "provenance_text": "Ferdinand Roten, Inc., Baltimore, Maryland",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101289&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101289&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101290&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101290&size=Medium"
     }
   ],
   "creator": [
@@ -31,12 +31,24 @@
       "party_type": "Person",
       "full_name": "George Grosz",
       "cited_name": "Grosz, George",
-      "role": null,
+      "role": "publisher",
       "nationality": "German",
       "birth_date": "1893-01-01",
       "death_date": "1959-01-01",
       "birth_place": "Berlin, Germany",
       "death_place": "Berlin, Germany"
+    },
+    {
+      "artist_id": "cmoa:parties/c213ab19-56d6-42e3-8ba8-0c56774cc135",
+      "party_type": "Organization",
+      "full_name": "Malik-Verlag",
+      "cited_name": "Malik-Verlag",
+      "role": null,
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": "Berlin",
+      "death_place": null
     }
   ]
 }

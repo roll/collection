@@ -11,15 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 5.375,
-  "item_height": 5.375,
-  "item_depth": 0.688,
+  "item_height": 5.25,
+  "item_depth": 0.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008742",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1008742",
   "provenance_text": null,
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1668&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1668&size=Medium"
     }
   ],
   "creator": [

@@ -14,15 +14,15 @@
   "item_height": 17.75,
   "item_depth": 7.562,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025816",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1025816",
   "provenance_text": "Brand Inglis, Ltd., England, London",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28766&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=28766&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5116&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5116&size=Medium"
     }
   ],
   "creator": [
@@ -30,7 +30,7 @@
       "artist_id": "cmoa:parties/f004b630-dd92-4f4e-987d-ec24db389f46",
       "party_type": "Collaboration",
       "full_name": "Daniel Smith and Robert Sharp",
-      "cited_name": "Smith, Daniel and Sharp, Robert",
+      "cited_name": "Smith, Daniel and Robert Sharp",
       "role": "silversmiths",
       "nationality": "British",
       "birth_date": "1763-01-01",

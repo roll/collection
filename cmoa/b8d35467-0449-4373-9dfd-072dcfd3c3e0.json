@@ -12,17 +12,17 @@
   "physical_location": "Not on View",
   "item_width": 32.25,
   "item_height": 27.75,
-  "item_depth": 2.188,
+  "item_depth": 20.125,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013921",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1013921",
   "provenance_text": null,
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54169&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=54169&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54193&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=54193&size=Medium"
     }
   ],
   "creator": [

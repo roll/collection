@@ -8,18 +8,18 @@
   "id": "cmoa:things/83d8cef0-352b-442e-9199-093a202d6097",
   "credit_line": "Patrons Art Fund",
   "date_acquired": "1989-10-05",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 20.625,
   "item_height": 20.625,
   "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026587",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026587",
   "provenance_text": "Karl Gernot Kuehn",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149705&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=149705&size=Medium"
     }
   ],
   "creator": [

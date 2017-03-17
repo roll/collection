@@ -14,15 +14,15 @@
   "item_height": 6.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49108",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=49108",
   "provenance_text": "Phillips (5/5/87)\nGeorge Ebbs",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99921&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99921&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56074&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=56074&size=Medium"
     }
   ],
   "creator": [

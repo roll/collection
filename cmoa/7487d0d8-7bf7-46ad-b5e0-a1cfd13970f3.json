@@ -10,22 +10,22 @@
   "date_acquired": "2001-04-05",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 1.875,
-  "item_depth": 0.0,
-  "item_diameter": 2.875,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004189",
+  "item_width": 2.875,
+  "item_height": 1.75,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1004189",
   "provenance_text": "Monsieur And Madame Plateau, St. Denis, France",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4387&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4387&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4129&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4129&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4386&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4386&size=Medium"
     }
   ],
   "creator": [

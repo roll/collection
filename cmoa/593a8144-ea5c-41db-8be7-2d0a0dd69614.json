@@ -3,7 +3,7 @@
   "creation_date": "1804",
   "creation_date_earliest": "1804-01-01",
   "creation_date_latest": "1804-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.1438",
   "id": "cmoa:things/593a8144-ea5c-41db-8be7-2d0a0dd69614",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027346",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027346",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104512&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=104512&size=Medium"
     }
   ],
   "creator": [
@@ -30,7 +30,7 @@
       "cited_name": "Utamaro Kitagawa",
       "role": null,
       "nationality": "Japanese",
-      "birth_date": "1754-01-01",
+      "birth_date": "1753-01-01",
       "death_date": "1806-01-01",
       "birth_place": "Kawagoe (Saitama prefecture, Kanto, Japan)",
       "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"

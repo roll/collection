@@ -1,8 +1,8 @@
 {
   "title": "Portrait of male performer kneeling with arms outstretched in interior",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1950-1965",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1965-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.2008",
   "id": "cmoa:things/e9e1c7bf-71b5-435b-ac22-481eb7a76c8f",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3459",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=3459",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16260&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=16260&size=ZoomLarge"
     }
   ],
   "creator": [

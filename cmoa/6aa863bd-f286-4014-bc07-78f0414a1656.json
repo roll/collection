@@ -14,15 +14,15 @@
   "item_height": 14.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001851",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1001851",
   "provenance_text": "Arthur H. Hahlo and Company, New York City, New York",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105229&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105229&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105230&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105230&size=Medium"
     }
   ],
   "creator": [

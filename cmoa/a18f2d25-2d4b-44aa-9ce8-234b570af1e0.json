@@ -12,14 +12,14 @@
   "physical_location": "Gallery 3, Scaife Galleries",
   "item_width": 18.375,
   "item_height": 15.0,
-  "item_depth": 0.0,
+  "item_depth": 2.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011052",
-  "provenance_text": "Johanna K. W. Hailman [1871-1958], Pittsburgh; bequest to Museum, September 1960.",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011052",
+  "provenance_text": "Johanna K. W. Hailman [1871-1958], Pittsburgh, PA; bequest to Museum, March 1959.\n\nUnder review by CGK",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38142&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=38142&size=Medium"
     }
   ],
   "creator": [

@@ -14,24 +14,24 @@
   "item_height": 2.375,
   "item_depth": 0.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005589",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1005589",
   "provenance_text": "(Sold at American Art Association, New York, NY); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, April 2, 1924; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73539&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=73539&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73540&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=73540&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/467e7a77-bc6c-473a-8d60-f7c0d464d251",
       "party_type": "Person",
-      "full_name": "Attributed to Thomas Officer or William Shey",
-      "cited_name": "Officer, Thomas or Shey, William (Attributed To)",
-      "role": null,
+      "full_name": "Thomas Officer or William Shey",
+      "cited_name": "Officer, Thomas, or William Shey",
+      "role": "attributed to",
       "nationality": "American",
       "birth_date": null,
       "death_date": null,

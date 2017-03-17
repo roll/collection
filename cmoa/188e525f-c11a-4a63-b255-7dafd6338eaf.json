@@ -12,20 +12,20 @@
   "physical_location": "Not on View",
   "item_width": 107.25,
   "item_height": 70.0,
-  "item_depth": 0.0,
+  "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=362",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=362",
   "provenance_text": null,
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119271&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=119271&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48327&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=48327&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57640&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=57640&size=Medium"
     }
   ],
   "creator": [
@@ -36,10 +36,10 @@
       "cited_name": "Kelly, Ellsworth",
       "role": null,
       "nationality": "American",
-      "birth_date": "1923-01-01",
+      "birth_date": "1923-05-31",
       "death_date": "2015-12-27",
       "birth_place": "Newburgh (Orange county, New York state, United States)",
-      "death_place": "Spencertown, NY"
+      "death_place": "Spencertown, New York"
     }
   ]
 }

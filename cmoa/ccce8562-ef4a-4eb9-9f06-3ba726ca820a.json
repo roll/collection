@@ -14,12 +14,12 @@
   "item_height": 119.0,
   "item_depth": 1.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020122",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1020122",
   "provenance_text": "Lefebre Gallery, New York, NY",
-  "classification": "drawings and watercolors",
+  "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8215&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=8215&size=Medium"
     }
   ],
   "creator": [

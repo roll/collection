@@ -10,16 +10,16 @@
   "date_acquired": "1992-01-23",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.0,
+  "item_width": 5.25,
+  "item_height": 7.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030069",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1030069",
   "provenance_text": "Dr. And Mrs. Leonard Schwartz, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113576&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113576&size=Medium"
     }
   ],
   "creator": [

@@ -14,12 +14,12 @@
   "item_height": 4.062,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033835",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1033835",
   "provenance_text": "Stephen Neal Dennis, Washington, DC",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98938&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=98938&size=Medium"
     }
   ],
   "creator": [
@@ -27,7 +27,7 @@
       "artist_id": "cmoa:parties/11b8d9d5-946c-4566-921a-70cf37e5af21",
       "party_type": "Person",
       "full_name": "Mrs. A. F. Johnston",
-      "cited_name": "Johnston, A. F.",
+      "cited_name": "Johnston, Mrs. A. F.",
       "role": null,
       "nationality": "American",
       "birth_date": null,

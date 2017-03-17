@@ -10,16 +10,16 @@
   "date_acquired": "1965-06-14",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 56.75,
-  "item_height": 44.0,
-  "item_depth": 2.5,
+  "item_width": 49.0,
+  "item_height": 36.0,
+  "item_depth": 2.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011914",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011914",
   "provenance_text": "Harry Eichleay, Pittsburgh; Carnegie Institute, Pittsburgh, 1956; gift to Museum, October 1956.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116041&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=116041&size=Medium"
     }
   ],
   "creator": [

@@ -14,12 +14,12 @@
   "item_height": 6.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016136",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016136",
   "provenance_text": "Mary Helen Arthur, New Wilmington, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107534&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=107534&size=Medium"
     }
   ],
   "creator": [
@@ -30,10 +30,10 @@
       "cited_name": "Kough, C. C.",
       "role": null,
       "nationality": "American",
-      "birth_date": "1912-01-01",
-      "death_date": null,
-      "birth_place": "Uniontown, Pa.",
-      "death_place": null
+      "birth_date": "1866-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": "Uniontown, Pennsylvania",
+      "death_place": "Pasadena, California"
     }
   ]
 }

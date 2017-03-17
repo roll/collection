@@ -3,7 +3,7 @@
   "creation_date": "2002",
   "creation_date_earliest": "2002-01-01",
   "creation_date_latest": "2002-01-01",
-  "medium": "wood, polystyrene, cement, acrylic, porcelain figurine, and pyrite",
+  "medium": "wood, polystyrene, cement, acrylic, wheels, porcelain figurine, and pyrite",
   "accession_number": "2002.37",
   "id": "cmoa:things/d58f34ca-693b-464e-817a-f034e9a29b7a",
   "credit_line": "Oxford Development Fund",
@@ -14,18 +14,18 @@
   "item_height": 80.0,
   "item_depth": 38.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=337",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=337",
   "provenance_text": "Greene Naftali Gallery, New York",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112681&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=112681&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112682&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=112682&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129313&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=129313&size=Medium"
     }
   ],
   "creator": [

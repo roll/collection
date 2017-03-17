@@ -9,17 +9,17 @@
   "credit_line": "Gift of the children of Judge Thomas Mellon",
   "date_acquired": "1933-02-09",
   "department": "Fine Arts",
-  "physical_location": "Not on View",
-  "item_width": 50.25,
-  "item_height": 61.25,
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 35.375,
+  "item_height": 46.0,
   "item_depth": 7.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006741",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1006741",
   "provenance_text": "James R. Mellon, Pittsburgh; gift to Museum, February 1933.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8020&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=8020&size=Medium"
     }
   ],
   "creator": [

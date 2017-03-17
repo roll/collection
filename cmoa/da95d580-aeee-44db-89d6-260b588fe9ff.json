@@ -14,12 +14,12 @@
   "item_height": 45.0,
   "item_depth": 2.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009692",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009692",
   "provenance_text": "Midtown Galleries, NYC",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126327&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126327&size=Medium"
     }
   ],
   "creator": [

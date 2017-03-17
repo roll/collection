@@ -1,9 +1,9 @@
 {
-  "title": "Death of Hektor: Land Rise",
+  "title": "Land Rise",
   "creation_date": "1979",
   "creation_date_earliest": "1979-01-01",
   "creation_date_latest": "1979-01-01",
-  "medium": "Engraving",
+  "medium": "engraving",
   "accession_number": "80.92.3",
   "id": "cmoa:things/6e2df508-af23-4123-9aa0-32e8232312c5",
   "credit_line": "Gift of Robert Ford",
@@ -14,7 +14,7 @@
   "item_height": 15.375,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021422",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021422",
   "provenance_text": "The Martin S. Ackerman Foundation, NYC",
   "classification": "prints",
   "images": [

@@ -10,19 +10,19 @@
   "date_acquired": "1959-05-28",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 17.25,
+  "item_width": 16.5,
   "item_height": 10.25,
-  "item_depth": 9.625,
+  "item_depth": 9.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010992",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1010992",
   "provenance_text": "J.J. Klejman Galleries, NY, New York",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11748&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11748&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10047&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=10047&size=Medium"
     }
   ],
   "creator": [

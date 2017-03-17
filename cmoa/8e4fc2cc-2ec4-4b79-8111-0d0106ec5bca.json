@@ -14,12 +14,12 @@
   "item_height": 10.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104214",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=104214",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129217&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=129217&size=Medium"
     }
   ],
   "creator": [
@@ -32,8 +32,8 @@
       "nationality": "Hungarian",
       "birth_date": "1901-09-14",
       "death_date": "1999-03-29",
-      "birth_place": "Érsekújvár, Austria-Hungary",
-      "death_place": "Waltham, Massachusetts"
+      "birth_place": "Érsekújvár, Austria-Hungary (Europe)",
+      "death_place": "Waltham (Middlesex county, Massachusetts, United States)"
     }
   ]
 }

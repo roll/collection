@@ -14,18 +14,18 @@
   "item_height": 13.25,
   "item_depth": 7.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61615",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=61615",
   "provenance_text": "Purchased from the Littleton Gallery DC 1/8/90",
-  "classification": "Glass",
+  "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97738&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97738&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97741&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97741&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97742&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97742&size=Medium"
     }
   ],
   "creator": [

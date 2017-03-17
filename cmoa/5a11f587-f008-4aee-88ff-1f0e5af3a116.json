@@ -10,16 +10,16 @@
   "date_acquired": "1969-12-17",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 3.0,
-  "item_height": 57.0,
+  "item_width": 4.625,
+  "item_height": 56.375,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012634",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012634",
   "provenance_text": "Ex-collection;  Mrs. Mary Thaw Thompson (Mrs. William Reed Thompson) per Mrs. Barnes, her granddaughter\nMary D. Barnes and Other Descendents, Pittsburgh, PA",
   "classification": "Textiles",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=103&size=Medium"
     }
   ],
   "creator": [

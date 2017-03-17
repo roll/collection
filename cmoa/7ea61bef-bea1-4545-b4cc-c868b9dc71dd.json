@@ -14,12 +14,12 @@
   "item_height": 28.5,
   "item_depth": 1.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021664",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021664",
   "provenance_text": "The Martin S. Ackerman Foundation, NYC",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118897&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118897&size=Medium"
     }
   ],
   "creator": [
@@ -29,11 +29,11 @@
       "full_name": "Richard Smith",
       "cited_name": "Smith, Richard",
       "role": null,
-      "nationality": "English",
+      "nationality": "British",
       "birth_date": "1931-01-01",
-      "death_date": null,
+      "death_date": "2016-01-01",
       "birth_place": "Letchworth (Hertfordshire, England, United Kingdom)",
-      "death_place": null
+      "death_place": "Patchogue (Suffolk county, New York state, United States)"
     }
   ]
 }

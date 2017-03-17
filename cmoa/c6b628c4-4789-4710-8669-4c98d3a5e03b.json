@@ -14,15 +14,15 @@
   "item_height": 9.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007571",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1007571",
   "provenance_text": "Kennedy & Co",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100545&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100545&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100544&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100544&size=Medium"
     }
   ],
   "creator": [

@@ -1,5 +1,5 @@
 {
-  "title": "Portrait of woman wearing overcoat, and dark belted dress with light colored collar, holding handbag, and standing in front of tree, with stone building in background",
+  "title": "Portrait of woman wearing overcoat, dark belted dress, holding handbag, and standing in front of tree, with University of Pittsburgh Falk School in background",
   "creation_date": "c. 1950-1965",
   "creation_date_earliest": "1950-01-01",
   "creation_date_latest": "1965-01-01",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=29100",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=29100",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34898&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34898&size=ZoomLarge"
     }
   ],
   "creator": [

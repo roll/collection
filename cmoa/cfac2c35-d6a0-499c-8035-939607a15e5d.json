@@ -8,18 +8,18 @@
   "id": "cmoa:things/cfac2c35-d6a0-499c-8035-939607a15e5d",
   "credit_line": "Gift of the artist",
   "date_acquired": "1981-02-05",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 10.875,
   "item_height": 14.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021321",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021321",
   "provenance_text": "Harry Wilks, New York, NY",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112766&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=112766&size=Medium"
     }
   ],
   "creator": [

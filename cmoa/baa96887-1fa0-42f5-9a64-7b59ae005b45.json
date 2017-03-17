@@ -14,7 +14,7 @@
   "item_height": 22.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=414",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=414",
   "provenance_text": "Robert Lekewa, Greensburg, PA",
   "classification": "drawings and watercolors",
   "images": null,
@@ -62,7 +62,7 @@
       "cited_name": "QA Architectural Arts",
       "role": null,
       "nationality": null,
-      "birth_date": null,
+      "birth_date": "1900-01-01",
       "death_date": null,
       "birth_place": null,
       "death_place": null

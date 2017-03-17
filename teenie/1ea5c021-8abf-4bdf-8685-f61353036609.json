@@ -1,8 +1,8 @@
 {
   "title": "Rear of Miller Radio storefront with Miller Radio and Television vehicle in front, 1915 Forbes Street [Avenue], Soho",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1945-1960",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1960-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.5980",
   "id": "cmoa:things/1ea5c021-8abf-4bdf-8685-f61353036609",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=11706",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=11706",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21623&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=21623&size=ZoomLarge"
     }
   ],
   "creator": [

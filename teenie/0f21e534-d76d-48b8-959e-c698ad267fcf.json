@@ -1,8 +1,8 @@
 {
   "title": "Portrait of Charles A. \"Little Teenie\" Harris wearing moustache, suit with wide lapels, and diagonally striped tie, posed on wooden bench in Harris Studio in front of light background with dark curtain on left",
-  "creation_date": "c. 1945-1955",
-  "creation_date_earliest": "1940-01-01",
-  "creation_date_latest": "1958-01-01",
+  "creation_date": "c. 1946-1953",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1953-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.24892",
   "id": "cmoa:things/0f21e534-d76d-48b8-959e-c698ad267fcf",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=37246",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=37246",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=43430&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=43430&size=ZoomLarge"
     }
   ],
   "creator": [

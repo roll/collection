@@ -14,10 +14,12 @@
   "item_height": 2.0,
   "item_depth": 1.875,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5809",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=5809",
   "provenance_text": null,
   "classification": "Metals",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",

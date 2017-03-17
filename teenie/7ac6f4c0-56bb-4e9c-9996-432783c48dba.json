@@ -1,8 +1,8 @@
 {
-  "title": "Bishop Appleyard and Bishop Thomas presenting rolled document to Henry Williams in a Catholic church interior",
-  "creation_date": "c. 1940-1945",
-  "creation_date_earliest": "1940-01-01",
-  "creation_date_latest": "1945-01-01",
+  "title": "Rev. Howard Mather of Order of Antioch facing man in Calvary Methodist Episcopal (United Methodist) Church, 971 Beech Avenue, Northside",
+  "creation_date": "July 1945",
+  "creation_date_earliest": "1945-07-01",
+  "creation_date_latest": "1945-07-28",
   "medium": "black and white: Ansco Safety Film",
   "accession_number": "2001.35.4203",
   "id": "cmoa:things/7ac6f4c0-56bb-4e9c-9996-432783c48dba",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3900",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=3900",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18754&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=18754&size=ZoomLarge"
     }
   ],
   "creator": [

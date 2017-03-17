@@ -10,16 +10,16 @@
   "date_acquired": "1968-12-17",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 23.062,
-  "item_height": 29.062,
+  "item_width": 29.25,
+  "item_height": 35.188,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012422",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012422",
   "provenance_text": "Gift of Russell G. Twiggs, Pittsburgh, PA, 1968.",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19593&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=19593&size=Medium"
     }
   ],
   "creator": [

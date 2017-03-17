@@ -1,9 +1,9 @@
 {
   "title": "Chiswick Mall",
-  "creation_date": null,
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1984-01-01",
-  "medium": "etching",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "etching and aquatint on paper",
   "accession_number": "84.100.48",
   "id": "cmoa:things/4fd56672-3a83-4da1-96c2-c306131395ba",
   "credit_line": "Gift of Dr. William B. Snyder",
@@ -14,7 +14,7 @@
   "item_height": 23.125,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024453",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1024453",
   "provenance_text": "The Martin S. Ackerman Foundation, New York",
   "classification": "prints",
   "images": [

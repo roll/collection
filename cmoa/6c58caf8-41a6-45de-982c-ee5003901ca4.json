@@ -8,21 +8,21 @@
   "id": "cmoa:things/6c58caf8-41a6-45de-982c-ee5003901ca4",
   "credit_line": "Gift of the George H. Ebbs Family",
   "date_acquired": "2007-10-04",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 15.0,
   "item_height": 18.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49618",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=49618",
   "provenance_text": "George Ebbs (Howard Greenberg Gallery)",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99926&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99926&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55919&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=55919&size=Medium"
     }
   ],
   "creator": [

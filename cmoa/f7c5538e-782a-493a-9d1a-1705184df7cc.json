@@ -3,7 +3,7 @@
   "creation_date": "1968",
   "creation_date_earliest": "1968-01-01",
   "creation_date_latest": "1968-01-01",
-  "medium": "Fourteen offset lithographs on paper",
+  "medium": "offset lithographs on paper",
   "accession_number": "2012.3.A-N",
   "id": "cmoa:things/f7c5538e-782a-493a-9d1a-1705184df7cc",
   "credit_line": "A. W. Mellon Acquistion Endowment Fund",
@@ -14,51 +14,51 @@
   "item_height": 11.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98325",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=98325",
   "provenance_text": null,
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113884&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113884&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113885&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113885&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113887&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113887&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113888&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113888&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113889&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113889&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113890&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113890&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113891&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113891&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113892&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113892&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113893&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113893&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113894&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113894&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113895&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113895&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113896&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113896&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113897&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113897&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113898&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113898&size=Medium"
     }
   ],
   "creator": [

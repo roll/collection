@@ -3,7 +3,7 @@
   "creation_date": "1931",
   "creation_date_earliest": "1931-01-01",
   "creation_date_latest": "1931-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.163",
   "id": "cmoa:things/7b9e4c49-f0dd-48cb-b332-6e9bec8932b6",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 24.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027632",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027632",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 10/14/1969.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33860&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=33860&size=Medium"
     }
   ],
   "creator": [

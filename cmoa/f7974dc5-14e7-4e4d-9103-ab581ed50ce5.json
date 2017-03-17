@@ -10,16 +10,16 @@
   "date_acquired": "1978-05-11",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 25.625,
-  "item_height": 21.312,
+  "item_width": 32.188,
+  "item_height": 27.75,
   "item_depth": 2.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019264",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1019264",
   "provenance_text": "Gift of Mr. and Mrs. Richard M. Scaife, Pittsburgh, PA, 1978.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125747&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=125747&size=Medium"
     }
   ],
   "creator": [

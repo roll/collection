@@ -14,7 +14,7 @@
   "item_height": 19.625,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003819",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003819",
   "provenance_text": "Anita F. Morganstern, Sarasota, FL",
   "classification": "drawings and watercolors",
   "images": [
@@ -29,9 +29,9 @@
       "role": null,
       "nationality": "French",
       "birth_date": "1921-01-01",
-      "death_date": null,
-      "birth_place": "Boulogne-sur-Mer",
-      "death_place": null
+      "death_date": "2012-01-01",
+      "birth_place": "Boulogne (Nord-Pas-de-Calais, France)",
+      "death_place": "Boulogne-Billancourt (Île-de-France, France)"
     }
   ]
 }

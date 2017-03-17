@@ -10,16 +10,16 @@
   "date_acquired": "1963-03-28",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 25.25,
-  "item_height": 34.75,
+  "item_width": 17.75,
+  "item_height": 27.125,
   "item_depth": 2.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011637",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011637",
   "provenance_text": "Mr. and Mrs. James H. Beal, Pittsburgh, by 1958; gift to museum, 1963",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=415&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=415&size=Medium"
     }
   ],
   "creator": [

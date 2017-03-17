@@ -11,15 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 4.0,
-  "item_height": 27.5,
+  "item_height": 25.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009246",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009246",
   "provenance_text": "Jose Weissberger, New York, NY",
   "classification": "Textiles",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2945&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2945&size=Medium"
     }
   ],
   "creator": [

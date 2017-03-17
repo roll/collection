@@ -9,20 +9,20 @@
   "credit_line": "Gift of the Andy Warhol Foundation For the Visual Arts",
   "date_acquired": "1988-06-02",
   "department": "Contemporary Art",
-  "physical_location": "Museum of Art Lobby",
+  "physical_location": "Not on View",
   "item_width": 79.0,
   "item_height": 98.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026452",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026452",
   "provenance_text": "The Andy Warhol Foundation for the Visual Arts, Inc",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104529&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=104529&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57293&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=57293&size=Medium"
     }
   ],
   "creator": [

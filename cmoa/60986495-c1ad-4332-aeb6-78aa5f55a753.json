@@ -11,15 +11,15 @@
   "department": "Contemporary Art",
   "physical_location": "Not on View",
   "item_width": 37.0,
-  "item_height": 24.75,
+  "item_height": 24.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026715",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026715",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin directly from the artist, 1975.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35305&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=35305&size=Medium"
     }
   ],
   "creator": [

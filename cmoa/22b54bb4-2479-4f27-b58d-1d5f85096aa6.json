@@ -14,12 +14,12 @@
   "item_height": 17.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000981",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1000981",
   "provenance_text": "Kennedy & Co",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111255&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111255&size=Medium"
     }
   ],
   "creator": [
@@ -38,7 +38,7 @@
     {
       "artist_id": "cmoa:parties/916eed1c-cd52-421e-914a-7a54a7c75715",
       "party_type": "Person",
-      "full_name": "Gerard ter Borch the younger",
+      "full_name": "Gerard ter Borch the Younger",
       "cited_name": "Borch, Gerard ter, the younger",
       "role": null,
       "nationality": "Dutch",

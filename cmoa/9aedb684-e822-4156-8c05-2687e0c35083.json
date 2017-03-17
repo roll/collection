@@ -10,16 +10,16 @@
   "date_acquired": "1983-06-09",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 4.187,
-  "item_height": 6.375,
+  "item_width": 6.438,
+  "item_height": 4.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023716",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1023716",
   "provenance_text": "Pennsylvania Department, Carnegie Library of Pittsburgh; transferred to museum, June 1983",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30424&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=30424&size=Medium"
     }
   ],
   "creator": [

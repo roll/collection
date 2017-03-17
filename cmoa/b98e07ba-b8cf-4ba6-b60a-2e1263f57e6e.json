@@ -14,12 +14,12 @@
   "item_height": 16.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012779",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012779",
   "provenance_text": "Harold Obernauer, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108118&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=108118&size=Medium"
     }
   ],
   "creator": [
@@ -30,8 +30,8 @@
       "cited_name": "MacLean, William",
       "role": null,
       "nationality": "American",
-      "birth_date": "1941-01-01",
-      "death_date": null,
+      "birth_date": "1897-01-01",
+      "death_date": "1977-01-01",
       "birth_place": null,
       "death_place": null
     }

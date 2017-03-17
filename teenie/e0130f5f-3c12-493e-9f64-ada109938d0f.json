@@ -1,8 +1,8 @@
 {
-  "title": "Crowd at political rally in large arena with signs reading \"16th Ward votes democrat, Adalai Estes,\" \"Stevenson\", \"West Mifflin stop Tricky Dicky,\" \"Adalai '56\"",
-  "creation_date": "1956",
-  "creation_date_earliest": "1956-01-01",
-  "creation_date_latest": "1956-01-01",
+  "title": "Crowd at political rally in large arena with signs reading \"16th Ward votes democrat, Adalai Estes,\" \"Stevenson,\" \"West Mifflin stop Tricky Dicky,\" \"Adalai '56\"",
+  "creation_date": "c.1956",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1961-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.6817",
   "id": "cmoa:things/e0130f5f-3c12-493e-9f64-ada109938d0f",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=13179",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=13179",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22776&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=22776&size=ZoomLarge"
     }
   ],
   "creator": [

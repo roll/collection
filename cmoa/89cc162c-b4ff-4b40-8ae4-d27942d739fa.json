@@ -14,12 +14,12 @@
   "item_height": 0.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004062",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1004062",
   "provenance_text": "Alexander and Bonin, New York; Matt's Gallery, London",
-  "classification": "Video installations",
+  "classification": "installations",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16028&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=16028&size=Medium"
     }
   ],
   "creator": [

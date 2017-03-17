@@ -9,17 +9,17 @@
   "credit_line": "Edward N. Haskell Family Acquisition Fund",
   "date_acquired": "2000-12-07",
   "department": "Fine Arts",
-  "physical_location": "Gallery One",
+  "physical_location": "Not on View",
   "item_width": 22.0,
   "item_height": 28.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004108",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1004108",
   "provenance_text": "Alice Adam Ltd., Chicago",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32177&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=32177&size=Medium"
     }
   ],
   "creator": [

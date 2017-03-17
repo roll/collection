@@ -14,7 +14,7 @@
   "item_height": 29.75,
   "item_depth": 1.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009255",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009255",
   "provenance_text": null,
   "classification": "prints",
   "images": [
@@ -27,11 +27,11 @@
       "full_name": "Antonio Frasconi",
       "cited_name": "Frasconi, Antonio",
       "role": null,
-      "nationality": "Uruguayan",
+      "nationality": "American",
       "birth_date": "1919-01-01",
-      "death_date": null,
-      "birth_place": "Buenos Aires (Distrito Federal, Argentina)",
-      "death_place": null
+      "death_date": "2013-01-01",
+      "birth_place": "Buenos Aires (Ciudad Autónoma de Buenos Aires, Argentina)",
+      "death_place": "Norwalk (Fairfield county, Connecticut, United States)"
     }
   ]
 }

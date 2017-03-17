@@ -9,20 +9,20 @@
   "credit_line": "A. W. Mellon Acquisition Endowment Fund",
   "date_acquired": "1991-10-03",
   "department": "Contemporary Art",
-  "physical_location": "The Heinz Architectural Center",
-  "item_width": 0.0,
-  "item_height": 0.0,
+  "physical_location": "Not on View",
+  "item_width": 8.375,
+  "item_height": 10.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029577",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1029577",
   "provenance_text": "Claes Oldenburg, New York, NY",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90174&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=90174&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11068&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11068&size=Medium"
     }
   ],
   "creator": [

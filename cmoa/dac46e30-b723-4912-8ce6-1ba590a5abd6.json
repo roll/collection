@@ -9,20 +9,20 @@
   "credit_line": "Purchase: gift of Mr. and Mrs. Edward N. Haskell in memory of Mary Haskell",
   "date_acquired": "1987-06-04",
   "department": "Contemporary Art",
-  "physical_location": "Gallery One",
+  "physical_location": "Not on View",
   "item_width": 18.0,
   "item_height": 24.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026281",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026281",
   "provenance_text": "Sam Berkovitz, Pittsburgh, PA",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99810&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99810&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65532&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=65532&size=Medium"
     }
   ],
   "creator": [

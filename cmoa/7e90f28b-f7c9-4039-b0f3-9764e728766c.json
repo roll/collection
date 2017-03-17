@@ -4,7 +4,7 @@
   "creation_date_earliest": "1936-01-01",
   "creation_date_latest": "1936-01-01",
   "medium": "painted wood",
-  "accession_number": "2014.68",
+  "accession_number": "2014.68.2",
   "id": "cmoa:things/7e90f28b-f7c9-4039-b0f3-9764e728766c",
   "credit_line": "Purchase: Women's Committee Fund for Architecture",
   "date_acquired": "2014-12-11",
@@ -14,15 +14,15 @@
   "item_height": 20.0,
   "item_depth": 14.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106293",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=106293",
   "provenance_text": null,
   "classification": "architectural models",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134329&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=134329&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134330&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=134330&size=Medium"
     }
   ],
   "creator": [

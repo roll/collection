@@ -14,15 +14,15 @@
   "item_height": 9.5,
   "item_depth": 16.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=44589",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=44589",
   "provenance_text": "Concept Art Gallery, Pittsburgh, which received the work directly from the artist.",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53574&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=53574&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49734&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=49734&size=Medium"
     }
   ],
   "creator": [

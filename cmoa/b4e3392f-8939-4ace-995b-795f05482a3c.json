@@ -10,16 +10,16 @@
   "date_acquired": "2009-02-05",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 20.0,
+  "item_width": 20.125,
   "item_height": 15.75,
-  "item_depth": 0.0,
+  "item_depth": 0.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=78865",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=78865",
   "provenance_text": "The artist, New York",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=88681&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=88681&size=Medium"
     }
   ],
   "creator": [

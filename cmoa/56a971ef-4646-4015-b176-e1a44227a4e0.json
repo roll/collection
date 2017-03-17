@@ -6,7 +6,7 @@
   "medium": "oil on paper mounted on wood",
   "accession_number": "1996.70.5",
   "id": "cmoa:things/56a971ef-4646-4015-b176-e1a44227a4e0",
-  "credit_line": "Museum Appropriation",
+  "credit_line": "Museum appropriation",
   "date_acquired": "1996-10-03",
   "department": "Fine Arts",
   "physical_location": "Not on View",
@@ -14,12 +14,12 @@
   "item_height": 6.25,
   "item_depth": 0.188,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002803",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002803",
   "provenance_text": "By conversion, to Carnegie Museum of Art, Pittsburgh, PA, October 3, 1996 [1]. \nNOTES: [1] Found in collections storage.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114740&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114740&size=Medium"
     }
   ],
   "creator": [

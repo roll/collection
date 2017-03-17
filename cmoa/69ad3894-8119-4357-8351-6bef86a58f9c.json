@@ -14,20 +14,20 @@
   "item_height": 20.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011092",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011092",
   "provenance_text": "Purchased by J. R. Mellon; bequest to Johanna K. W. Hailman [1871-1958], Pittsburgh, until 1958 [1]; bequest to Museum, 1959. \nNOTES:1. J. R. Mellon's bequest was that the work be returned to the artist. \n\n(see curatorial file, Pittsburgh Post Gazette annotated photograph)",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150233&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=150233&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/eaa0bbc2-5013-4c80-b484-f3029732c790",
       "party_type": "Person",
-      "full_name": "Johanna K. Hailman",
-      "cited_name": "Hailman, Johanna K.",
+      "full_name": "Johanna K. W. Hailman",
+      "cited_name": "Hailman, Johanna K. W.",
       "role": null,
       "nationality": "American",
       "birth_date": "1871-01-01",

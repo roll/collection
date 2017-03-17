@@ -14,12 +14,12 @@
   "item_height": 26.0,
   "item_depth": 9.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=391",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=391",
   "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
-  "classification": "Glass",
+  "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11368&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11368&size=Medium"
     }
   ],
   "creator": [

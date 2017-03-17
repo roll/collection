@@ -6,7 +6,7 @@
   "medium": "graphite with colored crayon (clothbound)",
   "accession_number": "95.100.3",
   "id": "cmoa:things/80819afa-d128-416e-8333-a2ea80f4b6dc",
-  "credit_line": "Museum Appropriation",
+  "credit_line": "Museum appropriation",
   "date_acquired": "1995-10-19",
   "department": "Fine Arts",
   "physical_location": "Not on View",
@@ -14,72 +14,72 @@
   "item_height": 5.25,
   "item_depth": 0.375,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035350",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1035350",
   "provenance_text": "Henry Ward Ranger [1858-1916]. By conversion, to Carnegie Museum of Art, Pittsburgh, PA, October 1995.",
   "classification": "books",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101594&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101594&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101595&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101595&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101596&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101596&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101597&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101597&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101598&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101598&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101599&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101599&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101600&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101600&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101601&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101601&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101602&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101602&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101603&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101603&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101604&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101604&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101605&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101605&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101606&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101606&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101607&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101607&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101608&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101608&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101609&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101609&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101610&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101610&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101611&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101611&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101612&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101612&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101613&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101613&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101614&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101614&size=Medium"
     }
   ],
   "creator": [

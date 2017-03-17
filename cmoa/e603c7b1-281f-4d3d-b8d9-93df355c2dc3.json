@@ -3,7 +3,7 @@
   "creation_date": "c. 1940 - 1969",
   "creation_date_earliest": "1935-01-01",
   "creation_date_latest": "1969-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "69.48.249",
   "id": "cmoa:things/e603c7b1-281f-4d3d-b8d9-93df355c2dc3",
   "credit_line": "Gift of Harold Obernauer",
@@ -14,12 +14,12 @@
   "item_height": 15.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012835",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012835",
   "provenance_text": "Harold Obernauer, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=45433&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=45433&size=Medium"
     }
   ],
   "creator": [

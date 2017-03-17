@@ -10,28 +10,28 @@
   "date_acquired": "2010-06-03",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 7.0,
-  "item_height": 5.0,
-  "item_depth": 0.0,
+  "item_width": 6.875,
+  "item_height": 4.875,
+  "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91823",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=91823",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100599&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100599&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100578&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100578&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100592&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100592&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100593&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100593&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100577&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100577&size=Medium"
     }
   ],
   "creator": [

@@ -1,8 +1,8 @@
 {
   "title": "Portrait of woman, possibly Betty Jean Thompson, wearing dark off the shoulder dress with v-neck and three strand beaded or pearl necklace, in Harris Studio",
-  "creation_date": "c. 1940-1960",
-  "creation_date_earliest": "1940-01-01",
-  "creation_date_latest": "1960-01-01",
+  "creation_date": "c. 1950-1953",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1953-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.22879",
   "id": "cmoa:things/5228ca1e-1d8c-4e4f-ba65-b13e97254a54",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=35207",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=35207",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=41379&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=41379&size=ZoomLarge"
     }
   ],
   "creator": [

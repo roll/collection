@@ -3,7 +3,7 @@
   "creation_date": "1880",
   "creation_date_earliest": "1880-01-01",
   "creation_date_latest": "1880-01-01",
-  "medium": "diptych woodcut",
+  "medium": "diptych woodblock print",
   "accession_number": "90.18.3.A-.B",
   "id": "cmoa:things/10aca60a-06b6-443d-a5fe-ac7851cb9702",
   "credit_line": "Gift of Mrs. Edith C. Thompson",
@@ -14,12 +14,12 @@
   "item_height": 8.125,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029346",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1029346",
   "provenance_text": "Mrs. Edith C. Thompson",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35397&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=35397&size=Medium"
     }
   ],
   "creator": [

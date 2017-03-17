@@ -14,15 +14,15 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000182",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1000182",
   "provenance_text": "Theodore Robinson [1852-1896]. Charles Scribner's Sons [1846-], New York, by 1906; purchased by Museum, 1906.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114952&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114952&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107633&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=107633&size=Medium"
     }
   ],
   "creator": [

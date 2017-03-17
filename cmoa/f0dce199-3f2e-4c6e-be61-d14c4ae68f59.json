@@ -10,16 +10,16 @@
   "date_acquired": "2007-10-04",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 6.75,
-  "item_height": 9.0,
+  "item_width": 6.625,
+  "item_height": 2.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49614",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=49614",
   "provenance_text": "George Ebbs (Howard Greenberg Gallery)",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55929&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=55929&size=Medium"
     }
   ],
   "creator": [

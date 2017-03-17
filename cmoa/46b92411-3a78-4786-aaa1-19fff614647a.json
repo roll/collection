@@ -10,16 +10,16 @@
   "date_acquired": "1979-05-10",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.75,
-  "item_height": 80.0,
+  "item_width": 0.875,
+  "item_height": 138.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020151",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1020151",
   "provenance_text": "Mr. and Mrs. G. Harton Singer, III",
   "classification": "Textiles",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4804&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4804&size=Medium"
     }
   ],
   "creator": [

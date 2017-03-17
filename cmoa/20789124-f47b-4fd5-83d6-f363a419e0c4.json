@@ -6,7 +6,7 @@
   "medium": "gelatin silver print",
   "accession_number": "1996.90.42",
   "id": "cmoa:things/20789124-f47b-4fd5-83d6-f363a419e0c4",
-  "credit_line": "Gift of Pittsburgh Courier Photographic Archives",
+  "credit_line": "Gift of the Estate of Charles \"Teenie\" Harris",
   "date_acquired": "1997-02-06",
   "department": "Photography",
   "physical_location": "Not on View",
@@ -14,12 +14,12 @@
   "item_height": 3.812,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002955",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002955",
   "provenance_text": "Pittsburgh Courier Photographic Archives, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11742&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11742&size=Medium"
     }
   ],
   "creator": [

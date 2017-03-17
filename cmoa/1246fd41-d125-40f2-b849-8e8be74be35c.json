@@ -14,15 +14,15 @@
   "item_height": 43.0,
   "item_depth": 32.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8219",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=8219",
   "provenance_text": "Barry Friedman Ltd., New York",
-  "classification": "Textiles",
+  "classification": "furniture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=81419&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=81419&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31762&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=31762&size=Medium"
     }
   ],
   "creator": [

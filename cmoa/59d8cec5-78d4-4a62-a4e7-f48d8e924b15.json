@@ -14,15 +14,15 @@
   "item_height": 16.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002080",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002080",
   "provenance_text": "James Tregaskis",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107790&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=107790&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54181&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=54181&size=Medium"
     }
   ],
   "creator": [
@@ -37,18 +37,6 @@
       "death_date": "1851-01-01",
       "birth_place": "London (Greater London, England, United Kingdom)",
       "death_place": "Chelsea (London, Greater London, England, United Kingdom)"
-    },
-    {
-      "artist_id": "cmoa:parties/41bd7dd9-1eda-4566-bdae-4e66a551f03a",
-      "party_type": "Person",
-      "full_name": "Henry Edward Dawe",
-      "cited_name": "Dawe, Henry Edward",
-      "role": "attributed to",
-      "nationality": "English",
-      "birth_date": "1790-01-01",
-      "death_date": "1848-01-01",
-      "birth_place": "Kentish Town (London, Greater London, England, United Kingdom)",
-      "death_place": "Windsor (England, United Kingdom)"
     }
   ]
 }

@@ -14,12 +14,12 @@
   "item_height": 8.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111486",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=111486",
   "provenance_text": "Multiples Inc., Marian Goodman Gallery, New York, NY",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112776&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=112776&size=Medium"
     }
   ],
   "creator": [
@@ -28,24 +28,12 @@
       "party_type": "Person",
       "full_name": "Sol LeWitt",
       "cited_name": "LeWitt, Sol",
-      "role": "publisher",
+      "role": null,
       "nationality": "American",
       "birth_date": "1928-01-01",
       "death_date": "2007-01-01",
       "birth_place": "Hartford (Hartford county, Connecticut, United States)",
       "death_place": "New York City (New York state, United States)"
-    },
-    {
-      "artist_id": "cmoa:parties/9796cb49-7442-4c1c-8ab4-9156750f860e",
-      "party_type": "Organization",
-      "full_name": "Galerie Watari",
-      "cited_name": "Galerie Watari",
-      "role": null,
-      "nationality": "Japanese",
-      "birth_date": null,
-      "death_date": null,
-      "birth_place": null,
-      "death_place": null
     }
   ]
 }

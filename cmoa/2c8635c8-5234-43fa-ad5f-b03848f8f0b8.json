@@ -14,7 +14,7 @@
   "item_height": 21.75,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48799",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=48799",
   "provenance_text": "Acquired by Mr Geroge Ebbs from Christie's on 05/04/1987 (Source: Donor's checklist)",
   "classification": "photographs",
   "images": [
@@ -24,14 +24,14 @@
     {
       "artist_id": "cmoa:parties/b3b57bb0-44aa-4525-98c7-fb347512022d",
       "party_type": "Person",
-      "full_name": "Aubrey A. Bodine",
-      "cited_name": "Bodine, Aubrey A.",
+      "full_name": "A. Aubrey Bodine",
+      "cited_name": "Bodine, A. Aubrey",
       "role": null,
       "nationality": "American",
       "birth_date": "1906-01-01",
       "death_date": "1970-01-01",
-      "birth_place": "Baltimore, Maryland",
-      "death_place": null
+      "birth_place": "Baltimore (Baltimore Independent City, Maryland, United States)",
+      "death_place": "Baltimore (Baltimore Independent City, Maryland, United States)"
     }
   ]
 }

@@ -14,12 +14,12 @@
   "item_height": 31.0,
   "item_depth": 21.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100666",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=100666",
   "provenance_text": null,
-  "classification": "Metals",
+  "classification": "furniture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118848&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118848&size=Medium"
     }
   ],
   "creator": [

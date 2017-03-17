@@ -10,16 +10,16 @@
   "date_acquired": "1960-09-21",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 31.75,
-  "item_height": 20.75,
+  "item_width": 35.25,
+  "item_height": 23.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011252",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011252",
   "provenance_text": "Estate of Robert D. Kaufmann; Bequest of the artist",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=239&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=239&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "2003-02-06",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
+  "item_width": 13.5,
   "item_height": 2.0,
-  "item_depth": 0.0,
-  "item_diameter": 13.375,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=551",
+  "item_depth": 13.5,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=551",
   "provenance_text": "Udo Schroder, Hamburg, Germany",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2162&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2162&size=Medium"
     }
   ],
   "creator": [

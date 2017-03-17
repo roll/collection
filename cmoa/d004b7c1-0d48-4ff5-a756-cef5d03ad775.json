@@ -14,15 +14,15 @@
   "item_height": 12.25,
   "item_depth": 1.875,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016338",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016338",
   "provenance_text": "The Sporting Gallery and Bookshop, Inc., New York; Robert S. Waters, Johnstown, Pennsylvania; bequest to Museum, May 1972.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36776&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=36776&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149684&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=149684&size=Medium"
     }
   ],
   "creator": [
@@ -30,13 +30,13 @@
       "artist_id": "cmoa:parties/09a53253-b42b-4e06-9205-9adc3954f23f",
       "party_type": "Person",
       "full_name": "David Dalby of York",
-      "cited_name": "Dalby of York, David",
+      "cited_name": "Dalby, David, of York",
       "role": null,
       "nationality": "British",
       "birth_date": "1794-01-01",
       "death_date": "1836-01-01",
       "birth_place": null,
-      "death_place": " Clifton (England, United Kingdom)"
+      "death_place": "Clifton (England, United Kingdom)"
     }
   ]
 }

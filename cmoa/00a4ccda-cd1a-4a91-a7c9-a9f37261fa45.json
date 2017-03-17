@@ -14,18 +14,18 @@
   "item_height": 30.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=19949",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=19949",
   "provenance_text": "Tanya Bonakdar Gallery, New York City",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146288&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146288&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146289&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146289&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146290&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146290&size=Medium"
     }
   ],
   "creator": [

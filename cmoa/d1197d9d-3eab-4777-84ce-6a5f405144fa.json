@@ -14,22 +14,34 @@
   "item_height": 1.75,
   "item_depth": 2.312,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005846",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1005846",
   "provenance_text": "Brayton C. Ives [1840-1914], New York, NY, until October 22, 1914; Estate of Brayton C. Ives, October 22, 1914 until April 1915; (sold at American Art Association, New York, NY, April 9, 1915) [1]; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, April 9, 1915; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] Lot 201.",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4133&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4133&size=Medium"
     }
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/b9102f06-d6bb-4fb1-90e8-81501242ef3a",
+      "artist_id": "cmoa:parties/c24b3081-12ab-4188-87a7-befc9d2e6c2d",
       "party_type": "Person",
-      "full_name": "unknown British or German",
-      "cited_name": "unknown British or German",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown British",
+      "cited_name": "unknown British",
+      "role": "possibly by",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db0f3f08-4336-4301-90ba-05d50ea6e3db",
+      "party_type": "Person",
+      "full_name": "unknown German",
+      "cited_name": "unknown German",
+      "role": "possibly by",
+      "nationality": "German",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

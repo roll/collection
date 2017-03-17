@@ -14,11 +14,13 @@
   "item_height": 45.688,
   "item_depth": 2.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018954",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1018954",
   "provenance_text": "Thomas G. Newman",
   "classification": "paintings",
   "images": [
-
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=151047&size=Medium"
+    }
   ],
   "creator": [
     {

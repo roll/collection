@@ -14,18 +14,18 @@
   "item_height": 6.125,
   "item_depth": 8.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033858",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1033858",
   "provenance_text": "Historical Design Collection, Inc., New York, NY",
-  "classification": "Metals",
+  "classification": "containers",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17736&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=17736&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4371&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4371&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129352&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=129352&size=Medium"
     }
   ],
   "creator": [

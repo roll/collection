@@ -14,15 +14,15 @@
   "item_height": 27.0,
   "item_depth": 25.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5946",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=5946",
   "provenance_text": "Lawrence Converso, Chicago, IL",
-  "classification": "Metals",
+  "classification": "furniture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10956&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=10956&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=171&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=171&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1973-02-07",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 6.375,
-  "item_depth": 0.0,
-  "item_diameter": 3.75,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016532",
+  "item_width": 3.75,
+  "item_height": 6.5,
+  "item_depth": 4.25,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016532",
   "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2434&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2434&size=Medium"
     }
   ],
   "creator": [

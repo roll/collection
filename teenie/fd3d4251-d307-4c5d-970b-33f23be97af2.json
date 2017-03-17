@@ -1,8 +1,8 @@
 {
   "title": "Male dancer in jungle costume posing in front of curtain",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1940-1950",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1950-01-01",
   "medium": "black and white: Ansco film",
   "accession_number": "2001.35.2103",
   "id": "cmoa:things/fd3d4251-d307-4c5d-970b-33f23be97af2",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3554",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=3554",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16313&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=16313&size=ZoomLarge"
     }
   ],
   "creator": [

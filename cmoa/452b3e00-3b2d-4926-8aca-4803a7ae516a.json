@@ -10,16 +10,16 @@
   "date_acquired": "1984-12-06",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 6.438,
+  "item_width": 6.375,
   "item_height": 4.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025265",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1025265",
   "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113501&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113501&size=Medium"
     }
   ],
   "creator": [

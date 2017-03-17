@@ -6,7 +6,7 @@
   "medium": "oak",
   "accession_number": "93.114",
   "id": "cmoa:things/d4157093-4981-4b0e-9027-1e8f48780152",
-  "credit_line": "Purchase: gift of Mr. and Mrs. Sylvester Damianos",
+  "credit_line": "Purchase with funds from Mr. and Mrs. Sylvester Damianos",
   "date_acquired": "1993-10-07",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
@@ -14,27 +14,27 @@
   "item_height": 29.0,
   "item_depth": 36.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032809",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1032809",
   "provenance_text": "Cathers & Dembrosky, NY, New York",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96877&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96877&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96879&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96879&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96878&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96878&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96876&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96876&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96880&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96880&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54620&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=54620&size=Medium"
     }
   ],
   "creator": [

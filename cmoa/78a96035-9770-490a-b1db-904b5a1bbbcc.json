@@ -10,16 +10,16 @@
   "date_acquired": "1954-03-03",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 2.563,
+  "item_width": 2.75,
   "item_height": 5.125,
-  "item_depth": 2.563,
+  "item_depth": 2.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009352",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009352",
   "provenance_text": "Allan Gerdau",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10018&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=10018&size=Medium"
     }
   ],
   "creator": [

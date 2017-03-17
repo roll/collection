@@ -10,19 +10,19 @@
   "date_acquired": "2002-10-03",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 16.5,
-  "item_height": 42.0,
-  "item_depth": 17.5,
+  "item_width": 17.0,
+  "item_height": 41.0,
+  "item_depth": 18.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=351",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=351",
   "provenance_text": "John Jesse, London,  England",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11270&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11270&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10117&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=10117&size=Medium"
     }
   ],
   "creator": [

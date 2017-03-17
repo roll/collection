@@ -14,15 +14,15 @@
   "item_height": 19.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007607",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1007607",
   "provenance_text": "Will Barnet",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100260&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100260&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100259&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100259&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1970-10-08",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 17.5,
-  "item_height": 6.0,
+  "item_width": 6.125,
+  "item_height": 18.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015810",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1015810",
   "provenance_text": "Ex-collection: Mrs. Mary Thaw Thompson (Mrs. William Reed Thompson) as per her daughter, Mrs. Henry H. Van Cleef.\nMrs. Henry H. Van Cleef, Watch Hill, Rhode Island",
   "classification": "Textiles",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9670&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9670&size=Medium"
     }
   ],
   "creator": [

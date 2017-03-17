@@ -14,20 +14,20 @@
   "item_height": 86.125,
   "item_depth": 16.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026338",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026338",
   "provenance_text": "Rosenberg and Stiebel, New York, NY",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11619&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11619&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/552b31f3-d7e1-4701-a817-c14333acf71b",
       "party_type": "Person",
-      "full_name": "Joseph de Saint Germain",
-      "cited_name": "Saint Germain, Joseph de",
+      "full_name": "Joseph de Saint-Germain",
+      "cited_name": "Saint-Germain, Joseph de",
       "role": null,
       "nationality": "French",
       "birth_date": null,

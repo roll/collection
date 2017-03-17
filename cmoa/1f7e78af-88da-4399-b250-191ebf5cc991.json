@@ -14,15 +14,15 @@
   "item_height": 25.0,
   "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025524",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1025524",
   "provenance_text": "Susanne Stephenson, Ann Arbor, MI",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11630&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11630&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4432&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4432&size=Medium"
     }
   ],
   "creator": [

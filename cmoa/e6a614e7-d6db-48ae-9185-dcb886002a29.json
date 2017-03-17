@@ -6,7 +6,7 @@
   "medium": "oil on canvas",
   "accession_number": "72.40",
   "id": "cmoa:things/e6a614e7-d6db-48ae-9185-dcb886002a29",
-  "credit_line": "By Appropriation",
+  "credit_line": "Museum appropriation",
   "date_acquired": "1972-10-12",
   "department": "Fine Arts",
   "physical_location": "Not on View",
@@ -14,12 +14,12 @@
   "item_height": 20.625,
   "item_depth": 1.875,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016425",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016425",
   "provenance_text": "Edward Duff Balken, Pittsburgh, PA (Lugt 843), by 1915, until 1935; Museum of Art, Carnegie Institute by appropriation, 1972.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=303&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=303&size=Medium"
     }
   ],
   "creator": [

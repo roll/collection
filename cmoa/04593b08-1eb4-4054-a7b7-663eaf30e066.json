@@ -3,7 +3,7 @@
   "creation_date": "1920",
   "creation_date_earliest": "1920-01-01",
   "creation_date_latest": "1920-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "87.37.1",
   "id": "cmoa:things/04593b08-1eb4-4054-a7b7-663eaf30e066",
   "credit_line": "Gift of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 15.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026359",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026359",
   "provenance_text": "Gift of Dr. James B. Austin, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34201&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34201&size=Medium"
     }
   ],
   "creator": [

@@ -14,30 +14,30 @@
   "item_height": 0.0,
   "item_depth": 0.0,
   "item_diameter": 22.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035007",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1035007",
   "provenance_text": "Wynyard Wilkinson, London, England",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97585&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97585&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97591&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97591&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97592&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97592&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97595&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97595&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97596&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97596&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97597&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97597&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6142&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=6142&size=Medium"
     }
   ],
   "creator": [
@@ -45,7 +45,7 @@
       "artist_id": "cmoa:parties/762c850a-9af1-4a44-bf66-c9765b71f09d",
       "party_type": "Person",
       "full_name": "William Pitts II",
-      "cited_name": "Pitts, William",
+      "cited_name": "Pitts, William, II",
       "role": "maker",
       "nationality": "English",
       "birth_date": "1790-01-01",

@@ -11,21 +11,21 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Gallery 19, Bruce Galleries",
   "item_width": 6.75,
-  "item_height": 19.0,
+  "item_height": 8.0,
   "item_depth": 3.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5831",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=5831",
   "provenance_text": "Michele Beiny Inc, New York",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12081&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=12081&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=619&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=619&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12080&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=12080&size=Medium"
     }
   ],
   "creator": [

@@ -10,28 +10,28 @@
   "date_acquired": "1976-02-12",
   "department": "Decorative Arts and Design",
   "physical_location": "Gallery 2, Scaife Galleries",
-  "item_width": 48.375,
+  "item_width": 48.75,
   "item_height": 41.375,
   "item_depth": 2.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017987",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1017987",
   "provenance_text": "Sotheby Parke Bernet, NY, sale 3834, 1/29-31/76, lot 849",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96696&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96696&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96697&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96697&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96698&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96698&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96699&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96699&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8214&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=8214&size=Medium"
     }
   ],
   "creator": [

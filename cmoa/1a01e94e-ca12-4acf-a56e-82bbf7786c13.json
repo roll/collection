@@ -9,20 +9,20 @@
   "credit_line": "Edward N. Haskell Family Acquisition Fund",
   "date_acquired": "2007-12-06",
   "department": "Fine Arts",
-  "physical_location": "Gallery One",
+  "physical_location": "Not on View",
   "item_width": 10.625,
   "item_height": 13.5,
   "item_depth": 0.375,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=60680",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=60680",
   "provenance_text": "private collection, Germany\nCharles M. Young, Fine Prints and Drawings LLC (Portland, CT)",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=64556&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=64556&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=64557&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=64557&size=Medium"
     }
   ],
   "creator": [

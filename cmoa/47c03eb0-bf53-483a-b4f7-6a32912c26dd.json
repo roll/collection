@@ -14,23 +14,23 @@
   "item_height": 41.25,
   "item_depth": 2.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011097",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011097",
   "provenance_text": "The artist, Johanna K. W. Hailman, Pittsburgh, until 1958; bequest to museum, 1959",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147683&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=147683&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147684&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=147684&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/eaa0bbc2-5013-4c80-b484-f3029732c790",
       "party_type": "Person",
-      "full_name": "Johanna K. Hailman",
-      "cited_name": "Hailman, Johanna K.",
+      "full_name": "Johanna K. W. Hailman",
+      "cited_name": "Hailman, Johanna K. W.",
       "role": null,
       "nationality": "American",
       "birth_date": "1871-01-01",

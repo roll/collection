@@ -8,21 +8,21 @@
   "id": "cmoa:things/cce3b370-2c64-4c02-8cad-406a6dbdab46",
   "credit_line": "Leisser Art Fund",
   "date_acquired": "1987-10-01",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 14.0,
   "item_height": 11.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026312",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026312",
   "provenance_text": "Richard Hurst, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82703&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=82703&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101333&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101333&size=Medium"
     }
   ],
   "creator": [

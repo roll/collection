@@ -10,16 +10,16 @@
   "date_acquired": "2008-10-02",
   "department": "Contemporary Art",
   "physical_location": "Gallery 16, Scaife Galleries",
-  "item_width": 10.75,
+  "item_width": 11.0,
   "item_height": 8.25,
   "item_depth": 10.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=68910",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=68910",
   "provenance_text": "The artist through Anton Kern Gallery",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76441&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=76441&size=Medium"
     }
   ],
   "creator": [

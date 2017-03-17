@@ -3,7 +3,7 @@
   "creation_date": "1928",
   "creation_date_earliest": "1928-01-01",
   "creation_date_latest": "1928-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.1072",
   "id": "cmoa:things/2ad5b4db-8735-4c56-877b-7a3552047a8f",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 10.063,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026798",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026798",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 1/5/1975.\nFrom the collection of Onchi Koshiro.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32611&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=32611&size=Medium"
     }
   ],
   "creator": [

@@ -12,14 +12,14 @@
   "physical_location": "Not on View",
   "item_width": 2.75,
   "item_height": 4.0,
-  "item_depth": 2.125,
+  "item_depth": 2.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016918",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016918",
   "provenance_text": "Gift of Mrs. David Y. Cooper, 1974.",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5040&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5040&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1994-02-03",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 8.5,
-  "item_height": 8.0,
+  "item_width": 8.875,
+  "item_height": 8.25,
   "item_depth": 4.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033201",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1033201",
   "provenance_text": "Dr. Frances L. Drew, Pittsburgh, PA",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8372&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=8372&size=Medium"
     }
   ],
   "creator": [

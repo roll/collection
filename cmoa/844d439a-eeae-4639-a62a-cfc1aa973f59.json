@@ -6,7 +6,7 @@
   "medium": "oil on canvas",
   "accession_number": "69.43.13",
   "id": "cmoa:things/844d439a-eeae-4639-a62a-cfc1aa973f59",
-  "credit_line": "By Appropriation",
+  "credit_line": "Museum appropriation",
   "date_acquired": "1969-12-17",
   "department": "Fine Arts",
   "physical_location": "Not on View",
@@ -14,12 +14,12 @@
   "item_height": 36.5,
   "item_depth": 2.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012586",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012586",
   "provenance_text": "Vigilan Fire Company, Pittsburgh; George Mashey, Pittsburgh, by 1879; in museum storage until accessioned, 1969; By appropriation, 1969",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19519&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=19519&size=Medium"
     }
   ],
   "creator": [

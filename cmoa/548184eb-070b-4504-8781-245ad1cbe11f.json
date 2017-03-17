@@ -8,21 +8,21 @@
   "id": "cmoa:things/548184eb-070b-4504-8781-245ad1cbe11f",
   "credit_line": "Gift of Three Rivers Arts Festival",
   "date_acquired": "1986-10-02",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 8.0,
   "item_height": 10.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026107",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026107",
   "provenance_text": "Three Rivers Arts Festival, Pittsburgh",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103220&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=103220&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82713&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=82713&size=Medium"
     }
   ],
   "creator": [
@@ -33,9 +33,9 @@
       "cited_name": "Eggleston, William",
       "role": null,
       "nationality": "American",
-      "birth_date": "1939-01-01",
+      "birth_date": "1939-07-27",
       "death_date": null,
-      "birth_place": "Memphis (Shelby county, Tennessee, United States)",
+      "birth_place": "Memphis, TN",
       "death_place": null
     }
   ]

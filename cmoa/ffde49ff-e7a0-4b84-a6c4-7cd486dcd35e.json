@@ -14,18 +14,18 @@
   "item_height": 9.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=45340",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=45340",
   "provenance_text": "Gift of Ruth and David Waterbury",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97735&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97735&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=50779&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=50779&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97895&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97895&size=Medium"
     }
   ],
   "creator": [

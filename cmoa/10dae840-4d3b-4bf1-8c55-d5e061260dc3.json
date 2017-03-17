@@ -1,5 +1,5 @@
 {
-  "title": "John (from American Portfolio, 1979)",
+  "title": "John",
   "creation_date": "1979",
   "creation_date_earliest": "1979-01-01",
   "creation_date_latest": "1979-01-01",
@@ -14,12 +14,12 @@
   "item_height": 27.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021308",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021308",
   "provenance_text": "The London Arts Group, Detroit, MI",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114340&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114340&size=Medium"
     }
   ],
   "creator": [

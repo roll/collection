@@ -14,15 +14,15 @@
   "item_height": 5.375,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004870",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1004870",
   "provenance_text": "Fitzroy Carrington, NYC",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100905&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100905&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100906&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100906&size=Medium"
     }
   ],
   "creator": [

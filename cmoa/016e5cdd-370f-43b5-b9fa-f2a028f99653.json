@@ -10,16 +10,16 @@
   "date_acquired": null,
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 5.062,
-  "item_height": 5.062,
-  "item_depth": 0.625,
+  "item_width": 5.0,
+  "item_height": 5.0,
+  "item_depth": 0.875,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008740",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1008740",
   "provenance_text": "John Barry",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1858&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1858&size=Medium"
     }
   ],
   "creator": [

@@ -12,17 +12,17 @@
   "physical_location": "Gallery 4, Scaife Galleries",
   "item_width": 23.625,
   "item_height": 57.063,
-  "item_depth": 0.0,
+  "item_depth": 20.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004370",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1004370",
   "provenance_text": "Private collection, Rouen; Charles Janoray, LLC, New York",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2929&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2929&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56853&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=56853&size=Medium"
     }
   ],
   "creator": [

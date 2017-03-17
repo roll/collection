@@ -14,24 +14,24 @@
   "item_height": 0.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7783",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=7783",
   "provenance_text": "Greene Naftali Gallery, New York",
   "classification": "installations",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11721&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11721&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11718&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11718&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11720&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11720&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9667&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9667&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9666&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9666&size=Medium"
     }
   ],
   "creator": [

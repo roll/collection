@@ -8,18 +8,18 @@
   "id": "cmoa:things/4e576752-522f-4c05-89bd-5cd5e266e52c",
   "credit_line": "Leisser Art Fund",
   "date_acquired": "1986-12-04",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 25.0,
   "item_height": 21.0,
   "item_depth": 1.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026120",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026120",
   "provenance_text": "Victor Landweber, Los Angeles",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106392&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=106392&size=Medium"
     }
   ],
   "creator": [

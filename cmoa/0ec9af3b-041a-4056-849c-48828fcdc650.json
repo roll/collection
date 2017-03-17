@@ -14,15 +14,15 @@
   "item_height": 12.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008439",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1008439",
   "provenance_text": "Arthur H. Harlow & Co., Inc",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100463&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100463&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100462&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100462&size=Medium"
     }
   ],
   "creator": [

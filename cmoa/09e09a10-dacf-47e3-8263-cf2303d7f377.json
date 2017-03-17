@@ -3,7 +3,7 @@
   "creation_date": null,
   "creation_date_earliest": "1944-01-01",
   "creation_date_latest": "1953-01-01",
-  "medium": "color lithograph",
+  "medium": "lithograph on paper",
   "accession_number": "53.16",
   "id": "cmoa:things/09e09a10-dacf-47e3-8263-cf2303d7f377",
   "credit_line": "Leisser Art Fund",
@@ -14,15 +14,15 @@
   "item_height": 16.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009139",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009139",
   "provenance_text": "Jerry Opper",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103748&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=103748&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75882&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=75882&size=Medium"
     }
   ],
   "creator": [

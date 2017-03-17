@@ -3,7 +3,7 @@
   "creation_date": null,
   "creation_date_earliest": "1940-01-01",
   "creation_date_latest": "1953-01-01",
-  "medium": "color lithograph",
+  "medium": "lithograph on paper",
   "accession_number": "53.17",
   "id": "cmoa:things/75d3153e-0abd-4b2e-aab2-ba11c0633dd4",
   "credit_line": "Leisser Art Fund",
@@ -14,15 +14,15 @@
   "item_height": 17.125,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009141",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009141",
   "provenance_text": "Jack Perlmutter",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103747&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=103747&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75881&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=75881&size=Medium"
     }
   ],
   "creator": [

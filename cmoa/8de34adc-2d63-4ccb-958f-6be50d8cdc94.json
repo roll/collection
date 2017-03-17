@@ -10,16 +10,16 @@
   "date_acquired": "2000-12-07",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 12.875,
-  "item_height": 1.5,
-  "item_depth": 9.375,
+  "item_width": 13.0,
+  "item_height": 1.25,
+  "item_depth": 8.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004132",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1004132",
   "provenance_text": "Mrs. Fred C. Foy, Ligonier, PA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3148&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=3148&size=Medium"
     }
   ],
   "creator": [

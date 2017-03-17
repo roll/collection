@@ -14,12 +14,12 @@
   "item_height": 4.875,
   "item_depth": 3.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016194",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016194",
   "provenance_text": "Florence Marinot, Troyes Aube, France",
-  "classification": "Glass",
+  "classification": "containers",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=752&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=752&size=Medium"
     }
   ],
   "creator": [

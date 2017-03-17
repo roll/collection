@@ -14,24 +14,24 @@
   "item_height": 14.813,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001688",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1001688",
   "provenance_text": "Yamanaka & Company,  New York, 1918.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118360&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118360&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118361&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118361&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118362&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118362&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118363&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118363&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24111&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=24111&size=Medium"
     }
   ],
   "creator": [
@@ -42,7 +42,7 @@
       "cited_name": "Utamaro Kitagawa",
       "role": "publisher",
       "nationality": "Japanese",
-      "birth_date": "1754-01-01",
+      "birth_date": "1753-01-01",
       "death_date": "1806-01-01",
       "birth_place": "Kawagoe (Saitama prefecture, Kanto, Japan)",
       "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"

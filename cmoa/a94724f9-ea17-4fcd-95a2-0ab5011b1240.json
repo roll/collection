@@ -11,18 +11,18 @@
   "department": "Contemporary Art",
   "physical_location": "Not on View",
   "item_width": 19.5,
-  "item_height": 25.625,
+  "item_height": 25.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027391",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027391",
   "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34311&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34311&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35046&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=35046&size=Medium"
     }
   ],
   "creator": [

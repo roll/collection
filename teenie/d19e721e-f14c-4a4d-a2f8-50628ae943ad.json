@@ -1,8 +1,8 @@
 {
   "title": "Three Rivers Stadium",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1970-1975",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1975-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.2841",
   "id": "cmoa:things/d19e721e-f14c-4a4d-a2f8-50628ae943ad",
@@ -14,12 +14,12 @@
   "item_height": 2.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4849",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=4849",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17163&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=17163&size=ZoomLarge"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1994-09-22",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 8.0,
-  "item_height": 25.0,
-  "item_depth": 0.0,
+  "item_width": 13.0,
+  "item_height": 24.5,
+  "item_depth": 8.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033864",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1033864",
   "provenance_text": "Conner Rosenkranz, New York, NY",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26528&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=26528&size=Medium"
     }
   ],
   "creator": [

@@ -3,7 +3,7 @@
   "creation_date": "19th century",
   "creation_date_earliest": "1800-01-01",
   "creation_date_latest": "1899-01-01",
-  "medium": "hand-colored and gilded woodcut",
+  "medium": "hand-colored and gilded woodblock print",
   "accession_number": "89.28.680",
   "id": "cmoa:things/cf8d9ee6-55ba-4fa5-822c-aa09634dcd0a",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 10.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028651",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1028651",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98347&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=98347&size=Medium"
     }
   ],
   "creator": [

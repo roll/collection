@@ -12,14 +12,14 @@
   "physical_location": "Not on View",
   "item_width": 16.0,
   "item_height": 2.25,
-  "item_depth": 12.5,
+  "item_depth": 12.625,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015437",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1015437",
   "provenance_text": "Ailsa Mellon Bruce",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1725&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1725&size=Medium"
     }
   ],
   "creator": [

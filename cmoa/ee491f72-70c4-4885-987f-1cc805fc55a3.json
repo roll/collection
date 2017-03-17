@@ -14,16 +14,11 @@
   "item_height": 17.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003088",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003088",
   "provenance_text": "F.P. Wood Books, Saco, Maine",
   "classification": "drawings and watercolors",
   "images": [
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103055&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103054&size=Medium"
-    }
+
   ],
   "creator": [
     {

@@ -10,16 +10,16 @@
   "date_acquired": "2014-10-30",
   "department": "Heinz Architectural Center",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.0,
+  "item_width": 31.375,
+  "item_height": 23.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107066",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=107066",
   "provenance_text": null,
   "classification": "architectural drawings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134979&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=134979&size=Medium"
     }
   ],
   "creator": [

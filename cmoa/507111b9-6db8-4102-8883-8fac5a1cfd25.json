@@ -10,16 +10,16 @@
   "date_acquired": "1971-05-12",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 4.125,
-  "item_height": 4.187,
+  "item_width": 4.25,
+  "item_height": 4.125,
   "item_depth": 3.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016114",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016114",
   "provenance_text": "Mrs. Thomas Childs Wurts",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5877&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5877&size=Medium"
     }
   ],
   "creator": [

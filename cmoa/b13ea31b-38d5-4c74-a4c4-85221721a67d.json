@@ -10,16 +10,16 @@
   "date_acquired": "1960-10-19",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 2.562,
-  "item_depth": 0.0,
-  "item_diameter": 8.688,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011333",
+  "item_width": 8.625,
+  "item_height": 2.5,
+  "item_depth": 8.625,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011333",
   "provenance_text": "Howard Hollis, OH, Cleveland",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1305&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1305&size=Medium"
     }
   ],
   "creator": [

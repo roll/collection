@@ -14,12 +14,12 @@
   "item_height": 8.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027768",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027768",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73595&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=73595&size=Medium"
     }
   ],
   "creator": [
@@ -42,8 +42,8 @@
       "cited_name": "Magohachi Takenouchi",
       "role": null,
       "nationality": "Japanese",
-      "birth_date": null,
-      "death_date": null,
+      "birth_date": "1780-01-01",
+      "death_date": "1854-01-01",
       "birth_place": null,
       "death_place": null
     }

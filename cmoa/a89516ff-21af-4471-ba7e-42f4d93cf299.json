@@ -10,16 +10,16 @@
   "date_acquired": "1977-02-10",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 109.0,
-  "item_height": 105.0,
-  "item_depth": 3.25,
+  "item_width": 108.875,
+  "item_height": 105.125,
+  "item_depth": 3.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018628",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1018628",
   "provenance_text": "David McKee Gallery, New York City, New York",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99590&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99590&size=Medium"
     }
   ],
   "creator": [

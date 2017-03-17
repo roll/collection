@@ -3,7 +3,7 @@
   "creation_date": "c. 1890",
   "creation_date_earliest": "1885-01-01",
   "creation_date_latest": "1895-01-01",
-  "medium": "ink with chinese white highlights on card",
+  "medium": "ink with Chinese white highlights on card",
   "accession_number": "95.48.2",
   "id": "cmoa:things/d0d83eb1-4b63-4b0b-82e0-5021e8baff03",
   "credit_line": "Gift of Stephen Neal Dennis in memory of H. Ward Jandl",
@@ -14,15 +14,15 @@
   "item_height": 9.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035728",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1035728",
   "provenance_text": "Stephen Neal Dennis, Washington, DC",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117120&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=117120&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13072&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=13072&size=Medium"
     }
   ],
   "creator": [

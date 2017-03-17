@@ -14,11 +14,13 @@
   "item_height": 52.0,
   "item_depth": 5.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021551",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021551",
   "provenance_text": "Mr. and Mrs. Emmanuel Fellouzis, Wintersville, Ohio; gift to Museum, February 1982.",
   "classification": "paintings",
   "images": [
-
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=152196&size=Medium"
+    }
   ],
   "creator": [
     {

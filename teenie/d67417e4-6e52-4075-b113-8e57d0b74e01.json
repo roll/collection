@@ -1,8 +1,8 @@
 {
-  "title": "Man swinging golf club on course",
-  "creation_date": "c. 1955",
-  "creation_date_earliest": "1952-01-01",
-  "creation_date_latest": "1958-01-01",
+  "title": "Golfer Roy Gantt posed swinging golf club, possibly at South Park",
+  "creation_date": "July 1945",
+  "creation_date_earliest": "1945-07-01",
+  "creation_date_latest": "1945-07-14",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.6160",
   "id": "cmoa:things/d67417e4-6e52-4075-b113-8e57d0b74e01",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12295",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=12295",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21003&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=21003&size=ZoomLarge"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "2007-12-06",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 11.25,
-  "item_height": 8.25,
+  "item_width": 11.375,
+  "item_height": 8.438,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=51490",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=51490",
   "provenance_text": "George H. Ebbs",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57992&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=57992&size=Medium"
     }
   ],
   "creator": [

@@ -11,15 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 9.0,
-  "item_height": 8.188,
-  "item_depth": 5.687,
+  "item_height": 8.0,
+  "item_depth": 5.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016033",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016033",
   "provenance_text": "Ailsa Mellon Bruce",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2407&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2407&size=Medium"
     }
   ],
   "creator": [

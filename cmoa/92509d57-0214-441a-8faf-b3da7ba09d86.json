@@ -14,15 +14,15 @@
   "item_height": 19.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021731",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021731",
   "provenance_text": "The Art Reference Room, Carnegie Library of Pittsburgh",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105002&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105002&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105003&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105003&size=Medium"
     }
   ],
   "creator": [

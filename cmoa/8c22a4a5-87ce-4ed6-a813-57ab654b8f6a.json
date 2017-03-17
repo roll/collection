@@ -1,6 +1,6 @@
 {
-  "title": "Brocanteur, 4 rue des Anglais",
-  "creation_date": "1910-1911",
+  "title": "Bric-a-Brac Seller, 4 rue des Anglais",
+  "creation_date": "1910-1911, printed later",
   "creation_date_earliest": "1910-01-01",
   "creation_date_latest": "1911-01-01",
   "medium": "gelatin silver print",
@@ -14,15 +14,15 @@
   "item_height": 9.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025238",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1025238",
   "provenance_text": "The Martin S. Ackerman Foundation, NYC",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98589&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=98589&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4038&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4038&size=Medium"
     }
   ],
   "creator": [

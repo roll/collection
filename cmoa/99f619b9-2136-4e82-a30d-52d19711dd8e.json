@@ -8,18 +8,18 @@
   "id": "cmoa:things/99f619b9-2136-4e82-a30d-52d19711dd8e",
   "credit_line": "Gift of Dr. Ford Hill",
   "date_acquired": "1974-05-09",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 16.0,
   "item_height": 20.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016927",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016927",
   "provenance_text": "Dr. Ford Hill",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113278&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113278&size=Medium"
     }
   ],
   "creator": [

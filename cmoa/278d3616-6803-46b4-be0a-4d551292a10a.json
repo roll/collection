@@ -14,20 +14,20 @@
   "item_height": 29.75,
   "item_depth": 1.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026375",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026375",
   "provenance_text": "Gift of Frances and Harry Blum, Pittsburgh, PA, 1988.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8065&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=8065&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/5d6d3e40-b16c-41f2-9833-9b8dc4928194",
       "party_type": "Person",
-      "full_name": "Romare Howard Bearden",
-      "cited_name": "Bearden, Romare Howard",
+      "full_name": "Romare Bearden",
+      "cited_name": "Bearden, Romare",
       "role": null,
       "nationality": "American",
       "birth_date": "1911-01-01",

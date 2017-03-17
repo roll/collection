@@ -14,12 +14,12 @@
   "item_height": 5.625,
   "item_depth": 0.0,
   "item_diameter": 3.438,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022004",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1022004",
   "provenance_text": null,
-  "classification": "Glass",
+  "classification": "containers",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=649&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=649&size=Medium"
     }
   ],
   "creator": [

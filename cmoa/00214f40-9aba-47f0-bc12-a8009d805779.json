@@ -3,7 +3,7 @@
   "creation_date": "c. 1850",
   "creation_date_earliest": "1845-01-01",
   "creation_date_latest": "1855-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.271.3",
   "id": "cmoa:things/00214f40-9aba-47f0-bc12-a8009d805779",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 8.688,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027829",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027829",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 9/29/1967. From the collection of Schraubstadter.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72821&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=72821&size=Medium"
     }
   ],
   "creator": [

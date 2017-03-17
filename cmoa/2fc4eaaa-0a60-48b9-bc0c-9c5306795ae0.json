@@ -3,7 +3,7 @@
   "creation_date": "1835",
   "creation_date_earliest": "1835-01-01",
   "creation_date_latest": "1835-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.342",
   "id": "cmoa:things/2fc4eaaa-0a60-48b9-bc0c-9c5306795ae0",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 10.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027979",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027979",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from H. Yatsuhashi, Inc., Boston, 2/17/1966.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105830&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105830&size=Medium"
     }
   ],
   "creator": [

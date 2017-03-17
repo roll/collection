@@ -8,21 +8,21 @@
   "id": "cmoa:things/4b917b4c-74b3-4920-b4db-eb56d5f1b70e",
   "credit_line": "Gift of Three Rivers Arts Festival",
   "date_acquired": "1986-10-02",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 11.0,
   "item_height": 14.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026093",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026093",
   "provenance_text": "Three Rivers Arts Festival, Pittsburgh",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99219&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99219&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98583&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=98583&size=Medium"
     }
   ],
   "creator": [

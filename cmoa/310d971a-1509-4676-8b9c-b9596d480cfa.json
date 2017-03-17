@@ -10,16 +10,16 @@
   "date_acquired": "1975-10-09",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 1.625,
-  "item_height": 4.5,
-  "item_depth": 0.875,
+  "item_width": 1.5,
+  "item_height": 3.875,
+  "item_depth": 0.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017736",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1017736",
   "provenance_text": "Sotheby Parke Bernet, Monaco, S.A., 5/25-26/75, lot 150",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2509&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2509&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1977-10-12",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 29.0,
+  "item_width": 29.75,
   "item_height": 24.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018547",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1018547",
   "provenance_text": "Alechinsky, Pierre",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121702&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=121702&size=Medium"
     }
   ],
   "creator": [

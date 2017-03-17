@@ -3,7 +3,7 @@
   "creation_date": "December 1939",
   "creation_date_earliest": "1939-01-01",
   "creation_date_latest": "1939-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.840",
   "id": "cmoa:things/eb248f5a-8617-4797-b359-97d004f15fff",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 13.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029014",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1029014",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from C. H. Mitchell, Tokyo, Japan, 1970's.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35777&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=35777&size=Medium"
     }
   ],
   "creator": [
@@ -42,7 +42,7 @@
       "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
       "role": null,
       "nationality": "Japanese",
-      "birth_date": null,
+      "birth_date": "1900-01-01",
       "death_date": null,
       "birth_place": null,
       "death_place": null

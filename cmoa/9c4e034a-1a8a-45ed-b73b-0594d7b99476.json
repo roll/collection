@@ -9,17 +9,26 @@
   "credit_line": "Gift of Peter and Jill Kraus in honor of Laura Hoptman",
   "date_acquired": "2005-04-07",
   "department": "Contemporary Art",
-  "physical_location": "Gallery 14, Scaife Galleries",
+  "physical_location": "Not on View",
   "item_width": 10.25,
   "item_height": 15.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8731",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=8731",
   "provenance_text": "Estate of Dimitrije Bašicevic Mangelos, Zagreb before 2005; (Peter Freeman, Inc), New York, NY, as agent, 2005; Museum purchase, 2005.",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11713&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=154478&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=154479&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=154483&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=154481&size=Medium"
     }
   ],
   "creator": [

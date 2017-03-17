@@ -1,5 +1,5 @@
 {
-  "title": "City Scene I (from American Portfolio, 1979)",
+  "title": "City Scene I",
   "creation_date": "1979",
   "creation_date_earliest": "1979-01-01",
   "creation_date_latest": "1979-01-01",
@@ -14,12 +14,12 @@
   "item_height": 28.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021307",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021307",
   "provenance_text": "The London Arts Group, Detroit, MI",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114339&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114339&size=Medium"
     }
   ],
   "creator": [

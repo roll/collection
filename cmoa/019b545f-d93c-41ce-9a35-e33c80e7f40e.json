@@ -3,7 +3,7 @@
   "creation_date": "1980",
   "creation_date_earliest": "1980-01-01",
   "creation_date_latest": "1980-01-01",
-  "medium": "screen print on paper",
+  "medium": "screenprint on paper",
   "accession_number": "89.28.10",
   "id": "cmoa:things/019b545f-d93c-41ce-9a35-e33c80e7f40e",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 22.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026854",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026854",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan; 5/29/1986.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34152&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34152&size=Medium"
     }
   ],
   "creator": [

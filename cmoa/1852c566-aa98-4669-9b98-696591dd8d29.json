@@ -8,18 +8,18 @@
   "id": "cmoa:things/1852c566-aa98-4669-9b98-696591dd8d29",
   "credit_line": "Gift of the Carnegie Library of Pittsburgh",
   "date_acquired": "1986-04-03",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 13.938,
   "item_height": 11.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025863",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1025863",
   "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6416&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=6416&size=Medium"
     }
   ],
   "creator": [
@@ -30,8 +30,8 @@
       "cited_name": "Lee, Russell",
       "role": null,
       "nationality": "American",
-      "birth_date": "1903-01-01",
-      "death_date": "1986-01-01",
+      "birth_date": "1903-07-21",
+      "death_date": "1986-08-28",
       "birth_place": "Ottawa, IL",
       "death_place": "Austin, TX"
     }

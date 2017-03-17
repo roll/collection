@@ -10,16 +10,16 @@
   "date_acquired": "1970-05-07",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 12.5,
-  "item_height": 9.5,
-  "item_depth": 0.0,
+  "item_width": 12.25,
+  "item_height": 9.75,
+  "item_depth": 8.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015969",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1015969",
   "provenance_text": "Ailsa Mellon Bruce",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2170&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2170&size=Medium"
     }
   ],
   "creator": [

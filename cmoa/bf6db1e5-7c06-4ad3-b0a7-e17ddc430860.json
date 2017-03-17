@@ -10,16 +10,16 @@
   "date_acquired": "1990-12-06",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 24.25,
+  "item_width": 51.0,
   "item_height": 30.75,
-  "item_depth": 51.0,
+  "item_depth": 24.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029353",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1029353",
   "provenance_text": "Kurland-Zabar, New York, NY",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21579&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=21579&size=Medium"
     }
   ],
   "creator": [

@@ -3,7 +3,7 @@
   "creation_date": "1948",
   "creation_date_earliest": "1948-01-01",
   "creation_date_latest": "1948-01-01",
-  "medium": "Ink on paper",
+  "medium": "ink on paper",
   "accession_number": "2011.67.5",
   "id": "cmoa:things/6b1f6efb-be1f-4d6d-8259-b8dde78e0e1e",
   "credit_line": "Gift of Carol and Herbert Diamond",
@@ -14,12 +14,12 @@
   "item_height": 8.938,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98259",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=98259",
   "provenance_text": "Carol and Herb Diamond, Pittsburgh; Exhibited at Roberto Rice Gallery in 1983",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113839&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113839&size=Medium"
     }
   ],
   "creator": [

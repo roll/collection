@@ -14,15 +14,15 @@
   "item_height": 5.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027344",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027344",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104518&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=104518&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104517&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=104517&size=Medium"
     }
   ],
   "creator": [
@@ -33,7 +33,7 @@
       "cited_name": "Utamaro Kitagawa",
       "role": null,
       "nationality": "Japanese",
-      "birth_date": "1754-01-01",
+      "birth_date": "1753-01-01",
       "death_date": "1806-01-01",
       "birth_place": "Kawagoe (Saitama prefecture, Kanto, Japan)",
       "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"

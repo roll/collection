@@ -9,17 +9,17 @@
   "credit_line": "Patrons Art Fund",
   "date_acquired": "1968-04-04",
   "department": "Contemporary Art",
-  "physical_location": "Museum of Art Lobby",
+  "physical_location": "Not on View",
   "item_width": 158.938,
   "item_height": 82.375,
   "item_depth": 4.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012504",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012504",
   "provenance_text": "Galerie Maeght, Paris, from 1967 International",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=470&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=470&size=Medium"
     }
   ],
   "creator": [

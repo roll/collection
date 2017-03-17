@@ -11,15 +11,15 @@
   "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 19.125,
-  "item_height": 15.313,
+  "item_height": 15.375,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003454",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003454",
   "provenance_text": "Val Buttignol, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8303&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=8303&size=Medium"
     }
   ],
   "creator": [

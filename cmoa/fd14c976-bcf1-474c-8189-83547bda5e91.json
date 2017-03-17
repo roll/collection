@@ -3,7 +3,7 @@
   "creation_date": "1983",
   "creation_date_earliest": "1983-01-01",
   "creation_date_latest": "1983-01-01",
-  "medium": "color etching on paper",
+  "medium": "etching on paper",
   "accession_number": "84.22",
   "id": "cmoa:things/fd14c976-bcf1-474c-8189-83547bda5e91",
   "credit_line": "Gift of Albert Stadler in memory of Gene Baro",
@@ -14,12 +14,12 @@
   "item_height": 50.125,
   "item_depth": 1.375,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024646",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1024646",
   "provenance_text": "Albert Stadler, New York, New York",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114566&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114566&size=Medium"
     }
   ],
   "creator": [

@@ -14,11 +14,13 @@
   "item_height": 38.125,
   "item_depth": 1.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009724",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009724",
   "provenance_text": "Lynn Chadwick",
   "classification": "drawings and watercolors",
   "images": [
-
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=149589&size=Medium"
+    }
   ],
   "creator": [
     {

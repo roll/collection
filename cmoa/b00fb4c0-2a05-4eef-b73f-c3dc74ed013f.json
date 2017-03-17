@@ -3,7 +3,7 @@
   "creation_date": "1971",
   "creation_date_earliest": "1971-01-01",
   "creation_date_latest": "1971-01-01",
-  "medium": "color lithograph",
+  "medium": "lithograph on paper",
   "accession_number": "74.39.5",
   "id": "cmoa:things/b00fb4c0-2a05-4eef-b73f-c3dc74ed013f",
   "credit_line": "Leisser Art Fund",
@@ -14,12 +14,12 @@
   "item_height": 24.75,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016994",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016994",
   "provenance_text": "Bill and Deborah Struve, East Haddam, CT.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114333&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114333&size=Medium"
     }
   ],
   "creator": [

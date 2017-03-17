@@ -3,7 +3,7 @@
   "creation_date": "1918",
   "creation_date_earliest": "1918-01-01",
   "creation_date_latest": "1918-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.174",
   "id": "cmoa:things/1dd427b9-e062-474d-8a52-7699d77612e7",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027653",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027653",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from S.H.Mori (Mary Diamond), Chicago, 2/14/1961.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34160&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34160&size=Medium"
     }
   ],
   "creator": [

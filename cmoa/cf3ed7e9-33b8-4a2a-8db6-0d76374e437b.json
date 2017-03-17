@@ -14,12 +14,12 @@
   "item_height": 48.125,
   "item_depth": 2.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020067",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1020067",
   "provenance_text": "Donor, Pittsburgh, PA",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=302&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=302&size=Medium"
     }
   ],
   "creator": [

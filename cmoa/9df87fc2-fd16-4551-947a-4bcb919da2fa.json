@@ -10,16 +10,16 @@
   "date_acquired": "2011-06-02",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 16.0,
-  "item_height": 20.0,
+  "item_width": 15.938,
+  "item_height": 19.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93421",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=93421",
   "provenance_text": "Pace/MacGill Gallery, New York",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114186&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114186&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1955-12-19",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
+  "item_width": 2.5,
   "item_height": 1.75,
-  "item_depth": 0.0,
-  "item_diameter": 2.5,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009502",
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009502",
   "provenance_text": "Gift of Elizabeth B. Taber, 1955.",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2717&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2717&size=Medium"
     }
   ],
   "creator": [

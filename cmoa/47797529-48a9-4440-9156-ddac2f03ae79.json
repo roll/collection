@@ -8,21 +8,21 @@
   "id": "cmoa:things/47797529-48a9-4440-9156-ddac2f03ae79",
   "credit_line": "Gift of Dr. Pierre Casthely",
   "date_acquired": "1983-10-06",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 19.688,
   "item_height": 16.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023929",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1023929",
   "provenance_text": "Metropolitan Image Management, Inc",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99211&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99211&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98665&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=98665&size=Medium"
     }
   ],
   "creator": [

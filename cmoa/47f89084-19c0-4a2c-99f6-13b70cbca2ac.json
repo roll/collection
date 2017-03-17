@@ -14,10 +14,20 @@
   "item_height": 24.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1034272",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1034272",
   "provenance_text": "Bohlin Cywinski Jackson, Pittsburgh, PA",
   "classification": "architectural models",
-  "images": null,
+  "images": [
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=160244&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=160245&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=160246&size=Medium"
+    }
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/8121e7f2-8240-48c7-8151-728a8e30d83a",

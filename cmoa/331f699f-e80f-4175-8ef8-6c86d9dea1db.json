@@ -14,18 +14,18 @@
   "item_height": 3.0,
   "item_depth": 1.375,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011246",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011246",
   "provenance_text": "Mr. And Mrs. George Magee Wyckoff, Sewickley, PA",
-  "classification": "Metals",
+  "classification": "containers",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4777&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4777&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4778&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4778&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4776&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4776&size=Medium"
     }
   ],
   "creator": [

@@ -14,12 +14,12 @@
   "item_height": 14.0,
   "item_depth": 14.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=36847",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=36847",
   "provenance_text": "Grand Central Gallery, Tampa, FL; Willam & Maxine Block, Pittsburgh, PA, before 2006; Gift to Carnegie Museum of Art, 2007.",
   "classification": "Glass",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96218&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96218&size=Medium"
     }
   ],
   "creator": [
@@ -31,7 +31,7 @@
       "role": null,
       "nationality": "American",
       "birth_date": "1938-01-01",
-      "death_date": null,
+      "death_date": "2016-01-15",
       "birth_place": null,
       "death_place": null
     }

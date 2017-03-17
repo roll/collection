@@ -10,28 +10,28 @@
   "date_acquired": "1996-02-01",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 19.5,
-  "item_height": 35.938,
-  "item_depth": 2.875,
+  "item_width": 21.5,
+  "item_height": 35.0,
+  "item_depth": 19.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002833",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002833",
   "provenance_text": "Matz & Pribell, Cambridge, MA",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96470&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96470&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96468&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96468&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96472&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96472&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96473&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96473&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96474&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96474&size=Medium"
     }
   ],
   "creator": [

@@ -14,18 +14,18 @@
   "item_height": 17.75,
   "item_depth": 5.375,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026593",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026593",
   "provenance_text": "Historical Design Collection, New York",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97626&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97626&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97627&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97627&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97628&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97628&size=Medium"
     }
   ],
   "creator": [

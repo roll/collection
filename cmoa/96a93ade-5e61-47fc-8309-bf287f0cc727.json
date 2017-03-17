@@ -14,12 +14,12 @@
   "item_height": 40.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92479",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=92479",
   "provenance_text": "Johnston Marklee, Los Angeles",
   "classification": "collages",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115251&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=115251&size=Medium"
     }
   ],
   "creator": [
@@ -29,7 +29,7 @@
       "full_name": "Johnston Marklee",
       "cited_name": "Johnston Marklee",
       "role": null,
-      "nationality": null,
+      "nationality": "American",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

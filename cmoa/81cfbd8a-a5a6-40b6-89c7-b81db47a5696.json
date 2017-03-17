@@ -14,12 +14,12 @@
   "item_height": 15.0,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002238",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002238",
   "provenance_text": "Bryan E. Steinberg, Lake Charles, LA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1088&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1088&size=Medium"
     }
   ],
   "creator": [
@@ -31,7 +31,7 @@
       "role": null,
       "nationality": "American",
       "birth_date": "1963-01-01",
-      "death_date": null,
+      "death_date": "2016-01-01",
       "birth_place": null,
       "death_place": null
     }

@@ -6,20 +6,20 @@
   "medium": "gelatin silver print",
   "accession_number": "1997.79",
   "id": "cmoa:things/45874008-3044-4cf6-a166-1109a269d558",
-  "credit_line": "Museum Appropriation",
+  "credit_line": "Museum appropriation",
   "date_acquired": "1997-12-04",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 7.0,
+  "item_width": 6.0,
   "item_height": 7.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003476",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003476",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10147&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=10147&size=Medium"
     }
   ],
   "creator": [

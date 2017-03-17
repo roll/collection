@@ -10,16 +10,16 @@
   "date_acquired": "1978-10-12",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 5.438,
-  "item_height": 3.438,
+  "item_width": 5.5,
+  "item_height": 3.25,
   "item_depth": 3.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020028",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1020028",
   "provenance_text": "Gift of Mr. and Mrs. Charles Denby, Osprey, FL, 1978.",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1466&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1466&size=Medium"
     }
   ],
   "creator": [

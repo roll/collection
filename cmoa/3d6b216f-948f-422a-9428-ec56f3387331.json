@@ -3,7 +3,7 @@
   "creation_date": "1962",
   "creation_date_earliest": "1962-01-01",
   "creation_date_latest": "1962-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "62.30",
   "id": "cmoa:things/3d6b216f-948f-422a-9428-ec56f3387331",
   "credit_line": "Gift of the artist",
@@ -14,15 +14,15 @@
   "item_height": 31.0,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011557",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011557",
   "provenance_text": "Gift of the artist Naoko Matsubara, 10/30/1962.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=45702&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=45702&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38877&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=38877&size=Medium"
     }
   ],
   "creator": [

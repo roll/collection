@@ -3,7 +3,7 @@
   "creation_date": "1941",
   "creation_date_earliest": "1941-01-01",
   "creation_date_latest": "1941-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "2010.69.3",
   "id": "cmoa:things/9a75d628-ba2a-4bd7-b410-aaf7ddd8bf80",
   "credit_line": "Gift of the Estate of Charles E. Kaufman",
@@ -14,12 +14,12 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92651",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=92651",
   "provenance_text": "estate of Charles Kaufman",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103483&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=103483&size=Medium"
     }
   ],
   "creator": [

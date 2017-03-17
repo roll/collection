@@ -14,15 +14,15 @@
   "item_height": 8.375,
   "item_depth": 8.438,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004141",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1004141",
   "provenance_text": "John Axelrod, Boston",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4049&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4049&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13432&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=13432&size=Medium"
     }
   ],
   "creator": [

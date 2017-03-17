@@ -8,42 +8,42 @@
   "id": "cmoa:things/8061710f-7cf2-4ff8-aea9-22b04c60f460",
   "credit_line": "The Henry L. Hillman Fund",
   "date_acquired": "2005-06-02",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 10.0,
   "item_height": 8.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15431",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=15431",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128194&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=128194&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128195&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=128195&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128196&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=128196&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128197&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=128197&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128198&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=128198&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128199&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=128199&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128201&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=128201&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128202&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=128202&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128203&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=128203&size=Medium"
     }
   ],
   "creator": [

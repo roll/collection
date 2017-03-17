@@ -12,14 +12,14 @@
   "physical_location": "Gallery 15, Scaife Galleries",
   "item_width": 115.0,
   "item_height": 93.375,
-  "item_depth": 0.0,
+  "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021319",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021319",
   "provenance_text": "Galerie D. Speyer, Paris",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101357&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101357&size=Medium"
     }
   ],
   "creator": [

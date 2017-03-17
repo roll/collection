@@ -14,15 +14,15 @@
   "item_height": 9.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022308",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1022308",
   "provenance_text": "Childs Gallery, Boston, MA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100472&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100472&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100471&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100471&size=Medium"
     }
   ],
   "creator": [

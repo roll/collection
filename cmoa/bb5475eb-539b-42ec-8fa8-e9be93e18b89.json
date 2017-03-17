@@ -10,22 +10,22 @@
   "date_acquired": "1958-11-21",
   "department": "Decorative Arts and Design",
   "physical_location": "Gallery 2, Scaife Galleries",
-  "item_width": 0.0,
+  "item_width": 13.5,
   "item_height": 20.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010726",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1010726",
   "provenance_text": "Baroness Cassel Van Doorn",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135652&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=135652&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135653&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=135653&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135657&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=135657&size=Medium"
     }
   ],
   "creator": [

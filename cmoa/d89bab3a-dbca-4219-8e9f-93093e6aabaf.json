@@ -14,15 +14,15 @@
   "item_height": 19.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024235",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1024235",
   "provenance_text": "John D. Egan, Jr., Wilmington, Delaware",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101271&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101271&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101272&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101272&size=Medium"
     }
   ],
   "creator": [

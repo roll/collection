@@ -1,5 +1,5 @@
 {
-  "title": "Wicked Witch (from the Portfolio \"Myths\")",
+  "title": "Wicked Witch",
   "creation_date": "1981",
   "creation_date_earliest": "1981-01-01",
   "creation_date_latest": "1981-01-01",
@@ -14,12 +14,12 @@
   "item_height": 40.75,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025095",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1025095",
   "provenance_text": "Mr. and Mrs. Arnold Gordon, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115376&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=115376&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1969-09-25",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 5.75,
-  "item_height": 12.063,
-  "item_depth": 3.0,
+  "item_width": 4.75,
+  "item_height": 12.0,
+  "item_depth": 2.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012563",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012563",
   "provenance_text": "Collection of George Swarzenski\nParke-Bernet Galleries, New York, NY. Sale #2855, May 8, 1969, lot 142",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4230&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4230&size=Medium"
     }
   ],
   "creator": [

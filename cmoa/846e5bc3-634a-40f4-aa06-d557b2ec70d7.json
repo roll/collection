@@ -10,16 +10,16 @@
   "date_acquired": "1989-02-02",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 4.5,
-  "item_height": 5.75,
-  "item_depth": 4.562,
+  "item_width": 4.875,
+  "item_height": 4.5,
+  "item_depth": 4.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026554",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026554",
   "provenance_text": "Roger Edwards, San Francisco, CA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2224&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2224&size=Medium"
     }
   ],
   "creator": [

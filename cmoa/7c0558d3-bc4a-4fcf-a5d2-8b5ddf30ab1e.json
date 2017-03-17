@@ -11,15 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 2.0,
-  "item_height": 2.812,
-  "item_depth": 0.188,
+  "item_height": 2.75,
+  "item_depth": 0.125,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019972",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1019972",
   "provenance_text": "John W. Beatty, Jr.",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5364&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5364&size=Medium"
     }
   ],
   "creator": [

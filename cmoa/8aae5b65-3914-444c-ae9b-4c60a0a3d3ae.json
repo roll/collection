@@ -14,12 +14,12 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007453",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1007453",
   "provenance_text": "Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102156&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=102156&size=Medium"
     }
   ],
   "creator": [
@@ -27,13 +27,13 @@
       "artist_id": "cmoa:parties/a83bc6c6-72f0-471a-a2e5-a59709420059",
       "party_type": "Person",
       "full_name": "Jonas Suyderhoef",
-      "cited_name": "Jonas Suyderhoef",
+      "cited_name": "Suyderhoef, Jonas",
       "role": "after",
       "nationality": "Dutch",
-      "birth_date": null,
+      "birth_date": "1608-01-01",
       "death_date": "1686-01-01",
-      "birth_place": "Haarlem, Netherlands",
-      "death_place": "Haarlem, Netherlands"
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Haarlem (North Holland, Netherlands)"
     },
     {
       "artist_id": "cmoa:parties/00582137-383c-459a-827b-a49c62e0d1fd",

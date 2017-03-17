@@ -14,28 +14,40 @@
   "item_height": 14.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012614",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012614",
   "provenance_text": "Ex-collection; Mrs. Mary Thaw Thompson (Mrs. William Reed Thompson) as per Mrs. Barnes, her granddaughter\nMary D. Barnes and Other Descendents, Pittsburgh, PA",
   "classification": "Textiles",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9584&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9584&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9586&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9586&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9589&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9589&size=Medium"
     }
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/800c3711-8c6c-463c-8df7-d574fd8aa24c",
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
       "party_type": "Person",
-      "full_name": "unknown French or Italian",
-      "cited_name": "unknown French or Italian",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": "possibly by",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
+      "party_type": "Person",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": "possibly by",
+      "nationality": "Italian",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

@@ -14,12 +14,12 @@
   "item_height": 11.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026002",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026002",
   "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10014&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=10014&size=Medium"
     }
   ],
   "creator": [

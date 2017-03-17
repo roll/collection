@@ -14,21 +14,21 @@
   "item_height": 16.0,
   "item_depth": 0.0,
   "item_diameter": 6.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021855",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021855",
   "provenance_text": "Jordan Volpe Gallery, NY, New York",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97672&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97672&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97674&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97674&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97677&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97677&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2068&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2068&size=Medium"
     }
   ],
   "creator": [

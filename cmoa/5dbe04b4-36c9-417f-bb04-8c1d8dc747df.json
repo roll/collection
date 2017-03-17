@@ -3,7 +3,7 @@
   "creation_date": "1920",
   "creation_date_earliest": "1920-01-01",
   "creation_date_latest": "1920-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.166.7",
   "id": "cmoa:things/5dbe04b4-36c9-417f-bb04-8c1d8dc747df",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 16.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027642",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027642",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin at auction at Sotheby Parke Bernet & Co., London on 7/27/1983.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35914&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=35914&size=Medium"
     }
   ],
   "creator": [

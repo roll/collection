@@ -3,7 +3,7 @@
   "creation_date": "1946",
   "creation_date_earliest": "1946-01-01",
   "creation_date_latest": "1946-01-01",
-  "medium": "lithograph",
+  "medium": "lithograph on paper",
   "accession_number": "2011.67.1",
   "id": "cmoa:things/b9f2220e-7ee0-4066-b82e-979fbcf909e7",
   "credit_line": "Gift of Carol and Herbert Diamond",
@@ -14,12 +14,12 @@
   "item_height": 12.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98252",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=98252",
   "provenance_text": "Childs Gallery, Boston, MA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113846&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113846&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1971-05-13",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 5.312,
-  "item_height": 10.5,
+  "item_width": 5.5,
+  "item_height": 11.0,
   "item_depth": 5.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016104",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016104",
   "provenance_text": "Given Anonymously by Mrs. Helen C. Frick",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3266&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=3266&size=Medium"
     }
   ],
   "creator": [

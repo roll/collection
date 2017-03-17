@@ -3,7 +3,7 @@
   "creation_date": "c. 1815-1820",
   "creation_date_earliest": "1810-01-01",
   "creation_date_latest": "1825-01-01",
-  "medium": "woodcut; surimono",
+  "medium": "woodblock print; surimono",
   "accession_number": "89.28.368",
   "id": "cmoa:things/614152ad-9a27-43a9-bf29-89ddf7a92d2e",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,15 +14,15 @@
   "item_height": 7.562,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028019",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1028019",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Purchased by Dr. Austin at auction at Sotheby & Son, London, 7/26/1967, Lot 254, through Bluett & Sons, London.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110934&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110934&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26328&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=26328&size=Medium"
     }
   ],
   "creator": [

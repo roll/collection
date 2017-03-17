@@ -14,15 +14,15 @@
   "item_height": 4.875,
   "item_depth": 0.0,
   "item_diameter": 6.125,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016949",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016949",
   "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
-  "classification": "Glass",
+  "classification": "containers",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97798&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97798&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97799&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97799&size=Medium"
     }
   ],
   "creator": [

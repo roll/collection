@@ -10,16 +10,16 @@
   "date_acquired": "1982-06-03",
   "department": "Fine Arts",
   "physical_location": "Gallery 11, Scaife Galleries",
-  "item_width": 29.75,
+  "item_width": 29.5,
   "item_height": 36.5,
   "item_depth": 3.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022303",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1022303",
   "provenance_text": "The artist, Charles Biederman, until 1982; Grace Borgenicht Gallery, New York, 1982; Edith H. Fisher Fund, 1982",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10087&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=10087&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1976-12-09",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 10.5,
-  "item_height": 10.75,
-  "item_depth": 1.313,
+  "item_width": 10.375,
+  "item_height": 10.875,
+  "item_depth": 1.125,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018166",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1018166",
   "provenance_text": "Daniel M.D. Solomon, Los Angeles, CA",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10001&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=10001&size=Medium"
     }
   ],
   "creator": [

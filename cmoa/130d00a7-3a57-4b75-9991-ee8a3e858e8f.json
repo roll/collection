@@ -3,7 +3,7 @@
   "creation_date": "6/27/1930",
   "creation_date_earliest": "1930-06-27",
   "creation_date_latest": "1930-06-27",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.189.6",
   "id": "cmoa:things/130d00a7-3a57-4b75-9991-ee8a3e858e8f",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 14.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027679",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027679",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nPrint acquired by Dr. Austin from T. Z. Shiota Galllery, San Francisco, CA., 9/14/1967.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27924&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=27924&size=Medium"
     }
   ],
   "creator": [

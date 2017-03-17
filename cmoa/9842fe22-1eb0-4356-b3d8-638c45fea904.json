@@ -11,15 +11,15 @@
   "department": "Contemporary Art",
   "physical_location": "Not on View",
   "item_width": 24.0,
-  "item_height": 25.75,
+  "item_height": 26.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101370",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=101370",
   "provenance_text": null,
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120492&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=120492&size=Medium"
     }
   ],
   "creator": [

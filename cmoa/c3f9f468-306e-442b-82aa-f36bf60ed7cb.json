@@ -9,20 +9,20 @@
   "credit_line": "Edward N. Haskell Family Acquisition Fund",
   "date_acquired": "2005-02-03",
   "department": "Contemporary Art",
-  "physical_location": "Gallery One",
+  "physical_location": "Not on View",
   "item_width": 28.75,
   "item_height": 23.25,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=30666",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=30666",
   "provenance_text": "Robert Brown Gallery, Washington, DC",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147497&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=147497&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147496&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=147496&size=Medium"
     }
   ],
   "creator": [

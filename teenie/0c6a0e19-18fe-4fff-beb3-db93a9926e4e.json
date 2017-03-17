@@ -1,8 +1,8 @@
 {
   "title": "Street view with Pentown Pharmacy in background, group of women preparing to board PAT bus",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1950-1975",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1975-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.2517",
   "id": "cmoa:things/0c6a0e19-18fe-4fff-beb3-db93a9926e4e",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4338",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=4338",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16662&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=16662&size=ZoomLarge"
     }
   ],
   "creator": [

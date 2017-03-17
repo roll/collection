@@ -10,22 +10,22 @@
   "date_acquired": "1995-01-19",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 3.0,
+  "item_width": 4.5,
+  "item_height": 2.625,
   "item_depth": 4.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035144",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1035144",
   "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4977&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4977&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4978&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4978&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4976&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4976&size=Medium"
     }
   ],
   "creator": [

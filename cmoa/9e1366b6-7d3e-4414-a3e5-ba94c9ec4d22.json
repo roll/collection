@@ -10,16 +10,16 @@
   "date_acquired": "1989-12-07",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 29.625,
-  "item_height": 21.75,
+  "item_width": 29.812,
+  "item_height": 21.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026991",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026991",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 8/28/1971.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34974&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34974&size=Medium"
     }
   ],
   "creator": [

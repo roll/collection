@@ -10,16 +10,16 @@
   "date_acquired": "1911-01-01",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 1.875,
-  "item_height": 2.75,
+  "item_width": 2.0,
+  "item_height": 2.5,
   "item_depth": 0.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000569",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1000569",
   "provenance_text": "F.J. Kaldenberg and Sons, New York, NY; gift to Carnegie Institute, Pittsburgh, PA, 1911.",
   "classification": "Glass",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1032&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1032&size=Medium"
     }
   ],
   "creator": [

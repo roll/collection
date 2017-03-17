@@ -10,19 +10,19 @@
   "date_acquired": "1996-02-01",
   "department": "Fine Arts",
   "physical_location": "Gallery 10, Scaife Galleries",
-  "item_width": 70.75,
+  "item_width": 0.0,
   "item_height": 121.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035606",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1035606",
   "provenance_text": "Michael Chow, New York, NY",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49290&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=49290&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49291&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=49291&size=Medium"
     }
   ],
   "creator": [

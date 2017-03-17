@@ -8,18 +8,18 @@
   "id": "cmoa:things/5e49435a-267f-4fb4-beeb-b141239bbf2f",
   "credit_line": "Leisser Art Fund",
   "date_acquired": "1984-06-14",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 20.0,
   "item_height": 16.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024652",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1024652",
   "provenance_text": "David Aschkenas, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113287&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113287&size=Medium"
     }
   ],
   "creator": [

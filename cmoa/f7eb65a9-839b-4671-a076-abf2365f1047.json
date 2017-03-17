@@ -10,16 +10,16 @@
   "date_acquired": "1961-09-19",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 12.25,
-  "item_height": 17.5,
+  "item_width": 22.75,
+  "item_height": 28.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011410",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011410",
   "provenance_text": "Erich Lederer;  Mrs. Walter Feilchenfeldt, Zurich, Switzerland\n\n[Erich Lederer, Austrian, fled to Switzerland in 1930s, brought most of his Schiele collection with him (Kallir, Schiele Catalogue raisonne)]",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99653&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99653&size=Medium"
     }
   ],
   "creator": [

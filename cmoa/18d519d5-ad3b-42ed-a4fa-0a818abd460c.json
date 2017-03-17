@@ -12,14 +12,14 @@
   "physical_location": "Not on View",
   "item_width": 5.5,
   "item_height": 4.0,
-  "item_depth": 3.438,
+  "item_depth": 3.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003943",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003943",
   "provenance_text": "Paul Reeves, London, England",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3136&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=3136&size=Medium"
     }
   ],
   "creator": [

@@ -1,8 +1,8 @@
 {
   "title": "Woman holding hat while standing on steps to TWA airplane",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1940-1946",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1946-01-01",
   "medium": "black and white: Agfa Safety Film",
   "accession_number": "2001.35.1954",
   "id": "cmoa:things/e4d9a794-d95c-488e-981d-957bb3711411",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3393",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=3393",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16256&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=16256&size=ZoomLarge"
     }
   ],
   "creator": [

@@ -14,15 +14,15 @@
   "item_height": 14.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012846",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012846",
   "provenance_text": "Harold Obernauer, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110577&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110577&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19012&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=19012&size=Medium"
     }
   ],
   "creator": [
@@ -35,8 +35,8 @@
       "nationality": "French",
       "birth_date": "1839-10-30",
       "death_date": "1899-01-29",
-      "birth_place": "Paris, France",
-      "death_place": "Moret-sur-Loing (Seine-et-Marne, Île-de-France, France)"
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Moret-sur-Loing (Île-de-France, France)"
     }
   ]
 }

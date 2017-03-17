@@ -11,27 +11,27 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 18.0,
-  "item_height": 56.5,
+  "item_height": 51.5,
   "item_depth": 33.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024943",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1024943",
   "provenance_text": "Jordan Volpe Gallery, NY, New York",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11632&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11632&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56788&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=56788&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56789&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=56789&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56790&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=56790&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56791&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=56791&size=Medium"
     }
   ],
   "creator": [

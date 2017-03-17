@@ -14,15 +14,15 @@
   "item_height": 40.0,
   "item_depth": 1.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92800",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=92800",
   "provenance_text": "Peter Steinhauer, Hong Kong (2010)",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118715&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118715&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103789&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=103789&size=Medium"
     }
   ],
   "creator": [

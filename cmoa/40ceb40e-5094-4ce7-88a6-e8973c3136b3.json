@@ -10,37 +10,37 @@
   "date_acquired": "2011-06-02",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 7.0,
-  "item_height": 5.0,
-  "item_depth": 0.0,
+  "item_width": 6.875,
+  "item_height": 4.875,
+  "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93395",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=93395",
   "provenance_text": "Pace/MacGill Gallery, New York",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114166&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114166&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114167&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114167&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114168&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114168&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114169&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114169&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114170&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114170&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114171&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114171&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114172&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114172&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114173&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114173&size=Medium"
     }
   ],
   "creator": [

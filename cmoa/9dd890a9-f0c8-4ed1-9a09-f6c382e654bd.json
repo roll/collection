@@ -10,16 +10,16 @@
   "date_acquired": "1992-06-04",
   "department": "Contemporary Art",
   "physical_location": "Gallery 16, Scaife Galleries",
-  "item_width": 30.125,
+  "item_width": 30.0,
   "item_height": 80.25,
   "item_depth": 1.375,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032517",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1032517",
   "provenance_text": "Max Protech Gallery, New York, NY; Carnegie Museum of Art, Pittsburgh; Founder-Patrons Day Acquisition Fund",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=136199&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=136199&size=Medium"
     }
   ],
   "creator": [

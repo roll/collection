@@ -14,15 +14,15 @@
   "item_height": 59.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003759",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003759",
   "provenance_text": "Steven Kemenyffy, Pittsburgh, PA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101844&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101844&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101845&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101845&size=Medium"
     }
   ],
   "creator": [
@@ -42,7 +42,7 @@
       "artist_id": "cmoa:parties/63e95b3d-d040-42a1-a4b7-ccd912b235ae",
       "party_type": "Person",
       "full_name": "Susan Hale Kemenyffy",
-      "cited_name": "Kemenyffy, Susan H.",
+      "cited_name": "Kemenyffy, Susan Hale",
       "role": null,
       "nationality": "American",
       "birth_date": "1941-01-01",

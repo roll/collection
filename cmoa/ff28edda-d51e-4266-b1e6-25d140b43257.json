@@ -10,16 +10,16 @@
   "date_acquired": "1982-12-02",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 10.938,
-  "item_height": 13.938,
+  "item_width": 11.0,
+  "item_height": 14.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023097",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1023097",
   "provenance_text": "Richard S. Ackerman, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103287&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=103287&size=Medium"
     }
   ],
   "creator": [

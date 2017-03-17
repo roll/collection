@@ -3,7 +3,7 @@
   "creation_date": "c. 1915",
   "creation_date_earliest": "1910-01-01",
   "creation_date_latest": "1915-01-01",
-  "medium": "woodcut on chinese paper",
+  "medium": "woodcut on Chinese paper",
   "accession_number": "16.23.12",
   "id": "cmoa:things/b702ef27-dc87-40ae-98ad-9bc959f69c51",
   "credit_line": "Gift of the artist",
@@ -14,15 +14,15 @@
   "item_height": 14.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001134",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1001134",
   "provenance_text": "Mr. Rudolph Ruzicka",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101204&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101204&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101205&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101205&size=Medium"
     }
   ],
   "creator": [

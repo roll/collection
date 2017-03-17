@@ -13,16 +13,16 @@
   "item_width": 0.0,
   "item_height": 0.0,
   "item_depth": 0.0,
-  "item_diameter": 3.312,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003441",
+  "item_diameter": 3.375,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003441",
   "provenance_text": "Galerie Moderne, London, England",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11314&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11314&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11315&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11315&size=Medium"
     }
   ],
   "creator": [

@@ -11,18 +11,18 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 23.5,
-  "item_height": 28.25,
+  "item_height": 28.375,
   "item_depth": 15.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014492",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1014492",
   "provenance_text": null,
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54449&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=54449&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101866&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101866&size=Medium"
     }
   ],
   "creator": [

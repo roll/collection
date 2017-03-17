@@ -3,7 +3,7 @@
   "creation_date": "1831",
   "creation_date_earliest": "1822-01-01",
   "creation_date_latest": "1881-01-01",
-  "medium": "mezzotint engraving",
+  "medium": "mezzotint on paper",
   "accession_number": "16.24.10",
   "id": "cmoa:things/ae7d3d5b-2f7e-4564-ae9d-b50e47cd4d55",
   "credit_line": "Gift of Andrew Carnegie",
@@ -14,15 +14,15 @@
   "item_height": 13.063,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001147",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1001147",
   "provenance_text": "Basil Dighton, 3 Savile Row, W. London, England",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110708&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110708&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110709&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110709&size=Medium"
     }
   ],
   "creator": [

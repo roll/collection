@@ -10,25 +10,25 @@
   "date_acquired": "2010-06-03",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 3.75,
+  "item_width": 18.5,
+  "item_height": 3.625,
   "item_depth": 0.0,
-  "item_diameter": 18.5,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91828",
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=91828",
   "provenance_text": "Provenance:  Del Mano Gallery, Los Angeles, c. 2001-present [Rachel Delphia, Acquisition Report, 5.11.10]",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100391&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100391&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100392&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100392&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100393&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100393&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100394&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100394&size=Medium"
     }
   ],
   "creator": [

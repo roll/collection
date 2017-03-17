@@ -10,16 +10,16 @@
   "date_acquired": "1980-05-08",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 6.125,
-  "item_height": 8.625,
-  "item_depth": 0.875,
+  "item_width": 6.0,
+  "item_height": 8.5,
+  "item_depth": 0.625,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021088",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021088",
   "provenance_text": null,
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3471&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=3471&size=Medium"
     }
   ],
   "creator": [

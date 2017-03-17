@@ -8,33 +8,33 @@
   "id": "cmoa:things/9b488548-382d-45d8-92d3-cd336904a6b2",
   "credit_line": "The Henry L. Hillman Fund",
   "date_acquired": "2003-06-05",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 10.0,
   "item_height": 8.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4185",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=4185",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12345&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=12345&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12346&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=12346&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12347&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=12347&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12348&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=12348&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12343&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=12343&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12350&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=12350&size=Medium"
     }
   ],
   "creator": [

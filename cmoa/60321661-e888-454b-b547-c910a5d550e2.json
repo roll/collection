@@ -10,16 +10,16 @@
   "date_acquired": "1998-04-02",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 2.562,
-  "item_depth": 0.0,
-  "item_diameter": 6.687,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003671",
+  "item_width": 6.875,
+  "item_height": 2.5,
+  "item_depth": 6.5,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003671",
   "provenance_text": "Barry Friedman, New York, NY",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2683&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2683&size=Medium"
     }
   ],
   "creator": [

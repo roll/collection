@@ -10,19 +10,19 @@
   "date_acquired": "1995-05-25",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 5.687,
-  "item_height": 10.0,
-  "item_depth": 1.188,
+  "item_width": 5.75,
+  "item_height": 10.125,
+  "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035757",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1035757",
   "provenance_text": "Sue Amendolara, Pittsburgh, PA",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6349&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=6349&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6348&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=6348&size=Medium"
     }
   ],
   "creator": [

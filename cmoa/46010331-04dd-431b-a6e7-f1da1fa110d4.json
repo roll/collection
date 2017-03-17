@@ -14,24 +14,24 @@
   "item_height": 77.5,
   "item_depth": 31.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107344",
-  "provenance_text": null,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=107344",
+  "provenance_text": "Charles Long, Los Angeles, CA; (Tanya Bonakdar Gallery, New York, NY); Carnegie Museum of Art, Pittsburgh, PA",
   "classification": "sculpture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146964&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146964&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146957&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146957&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146970&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146970&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146956&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146956&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146965&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=146965&size=Medium"
     }
   ],
   "creator": [

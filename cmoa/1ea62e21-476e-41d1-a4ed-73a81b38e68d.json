@@ -3,7 +3,7 @@
   "creation_date": "1788",
   "creation_date_earliest": "1788-01-01",
   "creation_date_latest": "1788-01-01",
-  "medium": "mezzotint in color",
+  "medium": "stipple printed in color",
   "accession_number": "70.32.2523",
   "id": "cmoa:things/1ea62e21-476e-41d1-a4ed-73a81b38e68d",
   "credit_line": "Ailsa Mellon Bruce Collection",
@@ -14,12 +14,12 @@
   "item_height": 11.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014752",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1014752",
   "provenance_text": "Estate of Mrs. Ailsa Mellon Bruce",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126398&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126398&size=Medium"
     }
   ],
   "creator": [

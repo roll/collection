@@ -3,7 +3,7 @@
   "creation_date": "1929-1932",
   "creation_date_earliest": "1929-01-01",
   "creation_date_latest": "1932-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.72.13",
   "id": "cmoa:things/be44c10b-1c34-4c5e-82e6-f6de720f6a34",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 7.687,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028805",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1028805",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29464&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=29464&size=Medium"
     }
   ],
   "creator": [

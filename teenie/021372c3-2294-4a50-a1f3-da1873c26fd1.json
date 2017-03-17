@@ -1,8 +1,8 @@
 {
-  "title": "Exterior view of Temple #22 Restaurant and Joe's Tavern, on Brushton Avenue lined with cars, Homewood",
-  "creation_date": "c. 1940-1960",
-  "creation_date_earliest": "1940-01-01",
-  "creation_date_latest": "1960-01-01",
+  "title": "Temple 22 Restaurant and Joe's Tavern, 800 block of Brushton Avenue lined with cars, Homewood",
+  "creation_date": "March 1958",
+  "creation_date_earliest": "1958-03-01",
+  "creation_date_latest": "1958-03-29",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.9910",
   "id": "cmoa:things/021372c3-2294-4a50-a1f3-da1873c26fd1",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=18526",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=18526",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25822&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=25822&size=ZoomLarge"
     }
   ],
   "creator": [

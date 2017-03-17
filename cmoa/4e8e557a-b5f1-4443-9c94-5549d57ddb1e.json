@@ -14,12 +14,12 @@
   "item_height": 18.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011234",
-  "provenance_text": "Promised or Given",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011234",
+  "provenance_text": "Promised or Given\n\nUnder review by CGK.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112961&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=112961&size=Medium"
     }
   ],
   "creator": [

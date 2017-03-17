@@ -3,7 +3,7 @@
   "creation_date": "1917",
   "creation_date_earliest": "1917-01-01",
   "creation_date_latest": "1917-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "67.10.3",
   "id": "cmoa:things/f30f7176-1f04-4b44-8a3c-baf333582d92",
   "credit_line": "Gift of Carroll W. Marks and James McClain",
@@ -14,12 +14,12 @@
   "item_height": 14.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012293",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012293",
   "provenance_text": "Carroll W. Marks And James Mcclain, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34935&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34935&size=Medium"
     }
   ],
   "creator": [

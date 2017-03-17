@@ -14,7 +14,7 @@
   "item_height": 51.625,
   "item_depth": 11.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016201",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016201",
   "provenance_text": "Aijiro Wakita, NYC",
   "classification": "sculpture",
   "images": [
@@ -24,7 +24,7 @@
     {
       "artist_id": "cmoa:parties/2140a6c5-c530-49c6-8c73-5fdedf5cae83",
       "party_type": "Person",
-      "full_name": "Wakita, Aijiro",
+      "full_name": "Aijiro Wakita",
       "cited_name": "Wakita, Aijiro",
       "role": null,
       "nationality": "Japanese",

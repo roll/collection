@@ -7,22 +7,22 @@
   "accession_number": "74.7.48.12",
   "id": "cmoa:things/b70e89a2-1347-44ef-8a86-07ab6e26be7a",
   "credit_line": "Bequest of Charles J. Rosenbloom",
-  "date_acquired": "1975-02-14",
+  "date_acquired": "1974-02-14",
   "department": "Fine Arts",
   "physical_location": "Not on View",
   "item_width": 14.25,
   "item_height": 19.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017528",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1017528",
   "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1975.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102607&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=102607&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102608&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=102608&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1994-02-03",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 8.25,
-  "item_height": 5.875,
+  "item_width": 8.125,
+  "item_height": 6.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033380",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1033380",
   "provenance_text": "The artist; his gift to Dr. Joseph W. Hampsey; by descent to his wife, Elizabeth A. Hampsey, Mars, PA, 1982; gift to Museum, February 1994",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106492&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=106492&size=Medium"
     }
   ],
   "creator": [

@@ -8,18 +8,18 @@
   "id": "cmoa:things/a9b31d3f-3487-4536-93eb-7c8564dda1b0",
   "credit_line": "Gift of John Lefebre",
   "date_acquired": "1975-05-08",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 7.75,
   "item_height": 10.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017930",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1017930",
   "provenance_text": "Gift of John Lefebre, New York, NY, 1975.",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13460&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=13460&size=Medium"
     }
   ],
   "creator": [

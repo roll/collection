@@ -10,40 +10,40 @@
   "date_acquired": "1993-05-27",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 12.0,
-  "item_height": 6.75,
-  "item_depth": 9.75,
+  "item_width": 11.5,
+  "item_height": 6.5,
+  "item_depth": 9.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033671",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1033671",
   "provenance_text": "East End Galleries, PA, Pittsburgh",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5227&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5227&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9966&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9966&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9967&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9967&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97634&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97634&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97636&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97636&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97639&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97639&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97640&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97640&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97641&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97641&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97633&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97633&size=Medium"
     }
   ],
   "creator": [

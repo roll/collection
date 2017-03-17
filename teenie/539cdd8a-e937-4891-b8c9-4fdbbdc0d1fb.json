@@ -1,8 +1,8 @@
 {
-  "title": "Group portrait of three men and two women, including woman on right wearing light colored dress and dark hat with wide brim, posed in front of stone wall in interior with wood paneling with raised nail heads, possibly North Park Lodge",
-  "creation_date": "c. 1947",
-  "creation_date_earliest": "1942-01-01",
-  "creation_date_latest": "1952-01-01",
+  "title": "Group, including Dr. Gideon Brown and Mrs. Brown, and possibly Dr. Dudley King and Mrs. King, possibly in North Park Lodge during FROG week",
+  "creation_date": "August 1946",
+  "creation_date_earliest": "1946-08-01",
+  "creation_date_latest": "1946-08-10",
   "medium": "black and white: Ansco Safety Film",
   "accession_number": "2001.35.29710",
   "id": "cmoa:things/539cdd8a-e937-4891-b8c9-4fdbbdc0d1fb",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=42392",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=42392",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48698&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=48698&size=ZoomLarge"
     }
   ],
   "creator": [

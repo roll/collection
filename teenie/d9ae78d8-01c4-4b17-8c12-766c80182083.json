@@ -1,8 +1,8 @@
 {
   "title": "Group portrait of five basketball players with index fingers raised, in gym",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1960-1975",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1975-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.681",
   "id": "cmoa:things/d9ae78d8-01c4-4b17-8c12-766c80182083",
@@ -14,12 +14,12 @@
   "item_height": 2.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2081",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=2081",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17512&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=17512&size=ZoomLarge"
     }
   ],
   "creator": [

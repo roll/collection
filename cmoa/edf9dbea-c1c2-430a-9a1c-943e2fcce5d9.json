@@ -10,16 +10,16 @@
   "date_acquired": "1972-12-07",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 19.812,
+  "item_width": 20.0,
   "item_height": 28.75,
-  "item_depth": 14.875,
+  "item_depth": 15.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016487",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016487",
   "provenance_text": "Charles H. Gershenson sale held by H.O. McNierney MI, Birmingham, lot 153, 10/23/72\nEx. Collection of Frank A. Robart, Newtown, Massachusetts.",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54171&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=54171&size=Medium"
     }
   ],
   "creator": [

@@ -14,15 +14,15 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009628",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009628",
   "provenance_text": "Galerie Gerald Cramer",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108423&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=108423&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108422&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=108422&size=Medium"
     }
   ],
   "creator": [

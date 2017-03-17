@@ -14,7 +14,7 @@
   "item_height": 18.625,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=102028",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=102028",
   "provenance_text": null,
   "classification": "drawings and watercolors",
   "images": [
@@ -25,7 +25,7 @@
       "artist_id": "cmoa:parties/bf30b1fa-c447-444f-97ee-2d01c9ccf485",
       "party_type": "Person",
       "full_name": "Ruth Eleanor Levine",
-      "cited_name": "Ruth Levine",
+      "cited_name": "Levine, Ruth Eleanor",
       "role": null,
       "nationality": "American",
       "birth_date": "1936-01-01",

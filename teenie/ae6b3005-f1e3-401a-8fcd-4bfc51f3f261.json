@@ -1,8 +1,8 @@
 {
-  "title": "Soldiers on parade with flags and guns",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "title": "Soldiers on parade with flags and guns possibly on Kennard Field",
+  "creation_date": "c. 1940-1945",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1945-01-01",
   "medium": "black and white: Agfa supreme pan Film",
   "accession_number": "2001.35.2934",
   "id": "cmoa:things/ae6b3005-f1e3-401a-8fcd-4bfc51f3f261",
@@ -14,12 +14,12 @@
   "item_height": 3.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4979",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=4979",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17654&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=17654&size=ZoomLarge"
     }
   ],
   "creator": [

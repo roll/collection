@@ -12,14 +12,14 @@
   "physical_location": "African Art Gallery",
   "item_width": 14.25,
   "item_height": 47.0,
-  "item_depth": 0.0,
-  "item_diameter": 23.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020046",
+  "item_depth": 23.0,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1020046",
   "provenance_text": "Christie, Manson and Woods, Ltd., England, London, 6/13/78, LOT54",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11673&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11673&size=Medium"
     }
   ],
   "creator": [

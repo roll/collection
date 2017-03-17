@@ -8,18 +8,18 @@
   "id": "cmoa:things/3067398d-0822-482b-b78f-b1ec1f238fba",
   "credit_line": "Gift of the Carnegie Library of Pittsburgh, Lorant Collection",
   "date_acquired": "1982-06-03",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 6.0,
-  "item_height": 4.0,
+  "item_width": 4.125,
+  "item_height": 6.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022888",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1022888",
   "provenance_text": "The Carnegie Library of Pittsburgh",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12159&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=12159&size=Medium"
     }
   ],
   "creator": [

@@ -14,26 +14,23 @@
   "item_height": 23.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015897",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1015897",
   "provenance_text": "Parke-Bernet Galleries, New York, NY",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68824&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126403&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126403&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126404&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126404&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/70b8518e-bb7f-458e-9393-a5a4155c9f55",
       "party_type": "Person",
-      "full_name": "Jean-Baptiste Lemoyne",
-      "cited_name": "Lemoyne, Jean-Baptiste",
+      "full_name": "Jean-Baptiste Lemoyne the Younger",
+      "cited_name": "Lemoyne, Jean-Baptiste, the younger",
       "role": null,
       "nationality": "French",
       "birth_date": "1704-01-01",

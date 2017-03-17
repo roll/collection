@@ -14,42 +14,33 @@
   "item_height": 0.0,
   "item_depth": 0.0,
   "item_diameter": 5.875,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=57385",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=57385",
   "provenance_text": "The artist through Tanya Bonakdar Gallery, New York",
   "classification": "installations",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67720&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=67720&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67719&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=67719&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67718&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=67718&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67721&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=67721&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67722&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=67722&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67723&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=67723&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67724&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=67724&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67725&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=66566&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=66568&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=66567&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=67725&size=Medium"
     }
   ],
   "creator": [

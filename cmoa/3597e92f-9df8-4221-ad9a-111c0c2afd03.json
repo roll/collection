@@ -14,12 +14,12 @@
   "item_height": 5.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002545",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002545",
   "provenance_text": "Pittsburgh Courier Photographic Archives, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5475&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5475&size=Medium"
     }
   ],
   "creator": [

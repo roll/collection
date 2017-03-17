@@ -10,19 +10,19 @@
   "date_acquired": "1992-12-03",
   "department": "Decorative Arts and Design",
   "physical_location": "Gallery 7, Scaife Galleries",
-  "item_width": 0.0,
+  "item_width": 4.875,
   "item_height": 4.25,
-  "item_depth": 0.0,
-  "item_diameter": 4.875,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031371",
+  "item_depth": 4.875,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1031371",
   "provenance_text": "Haslam & Whiteway, London, England",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97578&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97578&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1152&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1152&size=Medium"
     }
   ],
   "creator": [

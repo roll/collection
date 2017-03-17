@@ -14,18 +14,18 @@
   "item_height": 12.375,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010469",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1010469",
   "provenance_text": "Yamada Art Gallery, Kyoto",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34930&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34930&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34931&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34931&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34932&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34932&size=Medium"
     }
   ],
   "creator": [

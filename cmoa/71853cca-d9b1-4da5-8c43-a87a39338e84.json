@@ -14,12 +14,12 @@
   "item_height": 26.0,
   "item_depth": 2.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009880",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009880",
   "provenance_text": "Jean (Hans) Arp",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149518&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=149518&size=Medium"
     }
   ],
   "creator": [
@@ -30,10 +30,10 @@
       "cited_name": "Arp, Jean",
       "role": null,
       "nationality": "French",
-      "birth_date": "1887-01-01",
+      "birth_date": "1886-01-01",
       "death_date": "1966-01-01",
       "birth_place": "Strasburg (Neubrandenburg district, Mecklenburg-Vorpommern, Germany)",
-      "death_place": " Basel (Basel-Stadt, Switzerland)"
+      "death_place": "Basel (Basel-Stadt, Switzerland)"
     }
   ]
 }

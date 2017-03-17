@@ -10,25 +10,25 @@
   "date_acquired": "1986-06-12",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 27.75,
-  "item_depth": 0.0,
-  "item_diameter": 15.25,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026038",
+  "item_width": 15.25,
+  "item_height": 27.625,
+  "item_depth": 15.25,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026038",
   "provenance_text": "G. Randall, VA, Alexandria",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96819&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96819&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96822&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96822&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96825&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96825&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8751&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=8751&size=Medium"
     }
   ],
   "creator": [

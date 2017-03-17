@@ -14,18 +14,18 @@
   "item_height": 14.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002079",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002079",
   "provenance_text": "James Tregaskis",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110572&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110572&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110571&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110571&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54180&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=54180&size=Medium"
     }
   ],
   "creator": [
@@ -34,7 +34,7 @@
       "party_type": "Person",
       "full_name": "Joseph Mallord William Turner",
       "cited_name": "Turner, Joseph M.",
-      "role": "after",
+      "role": "artist",
       "nationality": "English",
       "birth_date": "1775-01-01",
       "death_date": "1851-01-01",
@@ -46,7 +46,7 @@
       "party_type": "Person",
       "full_name": "Frederick Christian Lewis",
       "cited_name": "Lewis, Frederick Christian",
-      "role": "printmaker",
+      "role": "engraver",
       "nationality": "British",
       "birth_date": "1779-01-01",
       "death_date": "1856-01-01",

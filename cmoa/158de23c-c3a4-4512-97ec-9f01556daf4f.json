@@ -10,16 +10,16 @@
   "date_acquired": "1958-04-08",
   "department": "Decorative Arts and Design",
   "physical_location": "Art before 1300 Gallery",
-  "item_width": 0.0,
+  "item_width": 32.0,
   "item_height": 30.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010683",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1010683",
   "provenance_text": "C.T. Loo, NY, New York",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11749&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11749&size=Medium"
     }
   ],
   "creator": [

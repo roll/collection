@@ -11,18 +11,18 @@
   "department": "Fine Arts",
   "physical_location": "Not on View",
   "item_width": 13.875,
-  "item_height": 18.188,
+  "item_height": 18.125,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000522",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1000522",
   "provenance_text": "The Art Society of Pittsburgh; Purchase",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126461&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126461&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126462&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126462&size=Medium"
     }
   ],
   "creator": [

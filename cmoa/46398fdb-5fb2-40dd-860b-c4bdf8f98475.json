@@ -10,19 +10,19 @@
   "date_acquired": "2010-06-03",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 12.063,
-  "item_height": 17.75,
+  "item_width": 16.0,
+  "item_height": 19.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91919",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=91919",
   "provenance_text": "Purchased from Silver Eye Center for Photography 2010 Auction (donated by Anna Marcasiano)",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118711&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118711&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100661&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100661&size=Medium"
     }
   ],
   "creator": [

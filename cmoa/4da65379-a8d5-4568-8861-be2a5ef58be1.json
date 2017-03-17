@@ -11,15 +11,15 @@
   "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 3.25,
-  "item_height": 4.5,
+  "item_height": 4.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26210",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=26210",
   "provenance_text": "Gift of artist's son and subject of photo, Edgar Munhall.",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38744&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=38744&size=Medium"
     }
   ],
   "creator": [

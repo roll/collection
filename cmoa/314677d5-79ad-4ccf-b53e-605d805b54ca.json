@@ -14,15 +14,15 @@
   "item_height": 19.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003075",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003075",
   "provenance_text": "Charles M. Young, Glastonbury, CT",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100444&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100444&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100443&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100443&size=Medium"
     }
   ],
   "creator": [

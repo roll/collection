@@ -1,9 +1,9 @@
 {
   "title": "Kunming Bus",
-  "creation_date": null,
-  "creation_date_earliest": "1934-01-01",
-  "creation_date_latest": "1948-01-01",
-  "medium": "etching",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "etching and aquatint on paper",
   "accession_number": "48.6.2",
   "id": "cmoa:things/e9562ae9-86fa-4c08-ada9-654baa3052df",
   "credit_line": "Leisser Art Fund",
@@ -14,15 +14,15 @@
   "item_height": 14.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008382",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1008382",
   "provenance_text": "Associated American Artists",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100339&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100339&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100338&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100338&size=Medium"
     }
   ],
   "creator": [

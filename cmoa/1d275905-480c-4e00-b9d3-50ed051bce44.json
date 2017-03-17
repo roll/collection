@@ -10,16 +10,16 @@
   "date_acquired": "1993-12-02",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 24.5,
-  "item_height": 29.75,
+  "item_width": 24.75,
+  "item_height": 30.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033152",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1033152",
   "provenance_text": "Gift of Dr. Helen Overs, Dr. Robert Overs and Gareth Griffiths, Chautaqua, NY, 1993.",
   "classification": "Textiles",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10092&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=10092&size=Medium"
     }
   ],
   "creator": [

@@ -14,12 +14,12 @@
   "item_height": 10.5,
   "item_depth": 2.875,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001758",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1001758",
   "provenance_text": "Bryant Fleming",
-  "classification": "Glass",
+  "classification": "containers",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=856&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=856&size=Medium"
     }
   ],
   "creator": [

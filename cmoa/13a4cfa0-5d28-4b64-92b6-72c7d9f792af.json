@@ -14,15 +14,15 @@
   "item_height": 14.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007304",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1007304",
   "provenance_text": "Weyhe Gallery",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100451&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100451&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100450&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100450&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1984-06-14",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.75,
-  "item_depth": 0.0,
+  "item_width": 0.875,
+  "item_height": 0.875,
+  "item_depth": 0.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024923",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1024923",
   "provenance_text": "Miriam M. Steinert, New York, NY",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4858&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4858&size=Medium"
     }
   ],
   "creator": [

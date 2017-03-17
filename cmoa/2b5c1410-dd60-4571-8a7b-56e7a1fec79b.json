@@ -8,18 +8,18 @@
   "id": "cmoa:things/2b5c1410-dd60-4571-8a7b-56e7a1fec79b",
   "credit_line": "Gift of the Carnegie Library of Pittsburgh",
   "date_acquired": "1986-04-03",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 11.0,
   "item_height": 14.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025848",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1025848",
   "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2942&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2942&size=Medium"
     }
   ],
   "creator": [

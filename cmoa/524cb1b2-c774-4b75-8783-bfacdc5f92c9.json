@@ -14,18 +14,18 @@
   "item_height": 8.5,
   "item_depth": 10.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15680",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=15680",
   "provenance_text": "the artist, Berkeley, CA",
   "classification": "Glass",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96191&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96191&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96195&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96195&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26128&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=26128&size=Medium"
     }
   ],
   "creator": [
@@ -37,7 +37,7 @@
       "role": "maestro",
       "nationality": "American",
       "birth_date": "1938-01-01",
-      "death_date": null,
+      "death_date": "2016-01-15",
       "birth_place": null,
       "death_place": null
     },

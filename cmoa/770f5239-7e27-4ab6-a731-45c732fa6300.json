@@ -14,7 +14,7 @@
   "item_height": 28.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009580",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009580",
   "provenance_text": "Marc Mendelson",
   "classification": "prints",
   "images": [
@@ -28,8 +28,8 @@
       "cited_name": "Mendelson, Marc",
       "role": null,
       "nationality": "Belgian",
-      "birth_date": "1915-01-01",
-      "death_date": null,
+      "birth_date": "1915-11-06",
+      "death_date": "2013-12-08",
       "birth_place": "London, England",
       "death_place": null
     }

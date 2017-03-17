@@ -9,17 +9,17 @@
   "credit_line": "Patrons Art Fund",
   "date_acquired": "1925-05-18",
   "department": "Fine Arts",
-  "physical_location": "Gallery 11, Scaife Galleries",
+  "physical_location": "Not on View",
   "item_width": 50.5,
   "item_height": 60.0,
   "item_depth": 4.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005303",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1005303",
   "provenance_text": "The artist [1882-1925], until 1925; Estate of George Wesley Bellows, 1925; purchased by Museum, 1925.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21142&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=21142&size=Medium"
     }
   ],
   "creator": [

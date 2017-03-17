@@ -6,7 +6,7 @@
   "medium": "copper",
   "accession_number": "79.18.5",
   "id": "cmoa:things/a3e2498a-d52b-4913-9bd9-91728988321e",
-  "credit_line": "Museum Appropriation",
+  "credit_line": "Museum appropriation",
   "date_acquired": "1979-05-10",
   "department": "Decorative Arts and Design",
   "physical_location": "The Heinz Architectural Center",
@@ -14,12 +14,12 @@
   "item_height": 37.0,
   "item_depth": 18.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020245",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1020245",
   "provenance_text": "Carnegie Institute Building, PA, Pittsburgh",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13205&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=13205&size=Medium"
     }
   ],
   "creator": [

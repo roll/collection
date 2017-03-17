@@ -10,16 +10,16 @@
   "date_acquired": "1980-02-07",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.812,
-  "item_height": 5.0,
-  "item_depth": 0.562,
+  "item_width": 0.875,
+  "item_height": 5.125,
+  "item_depth": 0.625,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020980",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1020980",
   "provenance_text": "Sands and Reineman (Retailer), PA, Pittsburgh",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6309&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=6309&size=Medium"
     }
   ],
   "creator": [

@@ -6,7 +6,7 @@
   "medium": "unbound wood engraving in clothbound book",
   "accession_number": "1996.82.1.22",
   "id": "cmoa:things/19179ade-ed0a-4e70-95ee-a05650cdae9e",
-  "credit_line": "Museum Appropriation",
+  "credit_line": "Museum appropriation",
   "date_acquired": "1996-12-05",
   "department": "Fine Arts",
   "physical_location": "Not on View",
@@ -14,15 +14,15 @@
   "item_height": 17.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002847",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002847",
   "provenance_text": "By conversion, to Carnegie Museum of Art, Pittsburgh, PA, December 1996.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113663&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113663&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113662&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113662&size=Medium"
     }
   ],
   "creator": [

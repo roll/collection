@@ -10,22 +10,22 @@
   "date_acquired": "1955-02-10",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.0,
-  "item_depth": 0.0,
+  "item_width": 50.0,
+  "item_height": 73.0,
+  "item_depth": 22.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009582",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009582",
   "provenance_text": "Gift of Mr. and Mrs. Henry J. Heinz II, 1955.",
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126334&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126334&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126335&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126335&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126336&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126336&size=Medium"
     }
   ],
   "creator": [

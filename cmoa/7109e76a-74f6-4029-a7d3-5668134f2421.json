@@ -14,15 +14,15 @@
   "item_height": 19.125,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008466",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1008466",
   "provenance_text": "Norman Kent",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101077&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101077&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101078&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101078&size=Medium"
     }
   ],
   "creator": [

@@ -1,8 +1,8 @@
 {
   "title": "Woman standing next to figurative collage in an exhibition",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1960-1975",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1975-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.1138",
   "id": "cmoa:things/6f66cd45-ef59-4c86-8671-e56188d0f748",
@@ -14,12 +14,12 @@
   "item_height": 2.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2538",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=2538",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18206&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=18206&size=ZoomLarge"
     }
   ],
   "creator": [

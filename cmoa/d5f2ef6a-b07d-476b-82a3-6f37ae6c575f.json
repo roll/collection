@@ -6,7 +6,7 @@
   "medium": "oil on board",
   "accession_number": "72.39",
   "id": "cmoa:things/d5f2ef6a-b07d-476b-82a3-6f37ae6c575f",
-  "credit_line": "Museum Appropriation",
+  "credit_line": "Museum appropriation",
   "date_acquired": "1972-10-12",
   "department": "Fine Arts",
   "physical_location": "Not on View",
@@ -14,12 +14,12 @@
   "item_height": 13.0,
   "item_depth": 1.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016423",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016423",
   "provenance_text": "Aaron Henry Gorson [1872-1933]. By conversion, to Museum, 1972 [1]. \nNOTES:1. This work was found in collections storage and accessioned in to the permanent collection in 1972.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=278&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=278&size=Medium"
     }
   ],
   "creator": [

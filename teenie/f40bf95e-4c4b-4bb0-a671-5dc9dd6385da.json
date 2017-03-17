@@ -1,8 +1,8 @@
 {
   "title": "Dorothy Ewell modeling outfit with pinstriped skirt and lapels",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1955-1975",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1975-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.3829",
   "id": "cmoa:things/f40bf95e-4c4b-4bb0-a671-5dc9dd6385da",
@@ -14,12 +14,12 @@
   "item_height": 2.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6386",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=6386",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18476&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=18476&size=ZoomLarge"
     }
   ],
   "creator": [

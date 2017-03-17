@@ -14,12 +14,12 @@
   "item_height": 48.0,
   "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010977",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1010977",
   "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150242&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=150242&size=Medium"
     }
   ],
   "creator": [

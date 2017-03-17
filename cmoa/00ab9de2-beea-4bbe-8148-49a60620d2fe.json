@@ -3,7 +3,7 @@
   "creation_date": "not dated",
   "creation_date_earliest": "1923-01-01",
   "creation_date_latest": "1989-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "89.28.1449",
   "id": "cmoa:things/00ab9de2-beea-4bbe-8148-49a60620d2fe",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,15 +14,15 @@
   "item_height": 14.188,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027358",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027358",
   "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34700&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34700&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34701&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34701&size=Medium"
     }
   ],
   "creator": [

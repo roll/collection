@@ -14,28 +14,28 @@
   "item_height": 12.688,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104956",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=104956",
   "provenance_text": null,
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132214&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=132214&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132213&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=132213&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/40d703c9-6529-4b37-84d3-d312fff5ea9a",
       "party_type": "Person",
-      "full_name": "Stanisław Julian Ignacy, Count Ostroróg",
-      "cited_name": "Ignacy, Stanisław Julian",
+      "full_name": "Walery (Stanislaw Julian Ignacy, Count Ostrorog)",
+      "cited_name": "Walery (Julian Ignacy, Stanislaw, Count Ostrorog)",
       "role": null,
       "nationality": "English",
       "birth_date": "1863-01-01",
       "death_date": "1935-01-01",
-      "birth_place": "England",
+      "birth_place": "Poland",
       "death_place": null
     }
   ]

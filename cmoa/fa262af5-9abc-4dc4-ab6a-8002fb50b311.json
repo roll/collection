@@ -14,15 +14,15 @@
   "item_height": 92.25,
   "item_depth": 74.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012541",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1012541",
   "provenance_text": "Mrs. John Berdan, Pittsburgh, PA",
-  "classification": "Wood",
+  "classification": "furniture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54163&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=54163&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54615&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=54615&size=Medium"
     }
   ],
   "creator": [

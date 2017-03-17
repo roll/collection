@@ -14,15 +14,15 @@
   "item_height": 0.875,
   "item_depth": 0.625,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003702",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003702",
   "provenance_text": "The Donor via Donald Miller, Pittsburgh, PA",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1906&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1906&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1140&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1140&size=Medium"
     }
   ],
   "creator": [

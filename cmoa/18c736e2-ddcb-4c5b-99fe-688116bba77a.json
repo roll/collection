@@ -14,20 +14,20 @@
   "item_height": 36.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006165",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1006165",
   "provenance_text": "Johanna K. W. Hailman, until 1929. Purchased by Museum, February 2, 1929.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150232&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=150232&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/eaa0bbc2-5013-4c80-b484-f3029732c790",
       "party_type": "Person",
-      "full_name": "Johanna K. Hailman",
-      "cited_name": "Hailman, Johanna K.",
+      "full_name": "Johanna K. W. Hailman",
+      "cited_name": "Hailman, Johanna K. W.",
       "role": null,
       "nationality": "American",
       "birth_date": "1871-01-01",

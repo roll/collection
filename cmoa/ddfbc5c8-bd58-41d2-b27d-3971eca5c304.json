@@ -10,16 +10,16 @@
   "date_acquired": "1981-10-01",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 21.438,
-  "item_height": 27.25,
+  "item_width": 26.875,
+  "item_height": 36.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021901",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021901",
   "provenance_text": "John Hoyland, London",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126372&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126372&size=Medium"
     }
   ],
   "creator": [

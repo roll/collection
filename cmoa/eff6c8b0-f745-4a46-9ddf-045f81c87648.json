@@ -6,7 +6,7 @@
   "medium": "oil on card",
   "accession_number": "1996.70.1",
   "id": "cmoa:things/eff6c8b0-f745-4a46-9ddf-045f81c87648",
-  "credit_line": "Museum Appropriation",
+  "credit_line": "Museum appropriation",
   "date_acquired": "1996-10-03",
   "department": "Fine Arts",
   "physical_location": "Not on View",
@@ -14,18 +14,18 @@
   "item_height": 15.125,
   "item_depth": 0.63,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002799",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1002799",
   "provenance_text": "By conversion, to Carnegie Museum of Art, Pittsburgh, PA, October 3, 1996 [1]. \nNOTES: [1] Found in collections storage.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114750&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114750&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114751&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114751&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111900&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111900&size=Medium"
     }
   ],
   "creator": [

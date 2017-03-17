@@ -10,19 +10,19 @@
   "date_acquired": "1992-01-23",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 12.188,
-  "item_depth": 0.0,
+  "item_width": 7.5,
+  "item_height": 12.0,
+  "item_depth": 7.5,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029749",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1029749",
   "provenance_text": "Joseph F. Novak, Pittsburgh, PA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8803&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=8803&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3780&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=3780&size=Medium"
     }
   ],
   "creator": [

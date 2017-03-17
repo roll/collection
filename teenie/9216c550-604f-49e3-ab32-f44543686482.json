@@ -1,8 +1,8 @@
 {
   "title": "Elderly woman in polka dot dress and flowered apron seated next to brick fireplace decorated with photgraphs and jars",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1940-1946",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1946-01-01",
   "medium": "black and white: Ansco Safety Film",
   "accession_number": "2001.35.5821",
   "id": "cmoa:things/9216c550-604f-49e3-ab32-f44543686482",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=10275",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=10275",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21049&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=21049&size=ZoomLarge"
     }
   ],
   "creator": [

@@ -14,12 +14,12 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009317",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009317",
   "provenance_text": "Pierre Bonnard [1867-1947]. Peter H. Deitsch, New York, NY, by 1954; purchased by Museum, October 1954 [1]. \nNOTES:1. Updated by CGK August 2012.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23138&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=23138&size=Medium"
     }
   ],
   "creator": [
@@ -32,8 +32,8 @@
       "nationality": "French",
       "birth_date": "1867-10-03",
       "death_date": "1947-01-27",
-      "birth_place": "Fontenay-aux-Roses, France",
-      "death_place": "Cannet, France"
+      "birth_place": "Fontenay-aux-Roses (Île-de-France, France)",
+      "death_place": "le Cannet (Provence-Alpes-Côte d'Azur, France)"
     }
   ]
 }

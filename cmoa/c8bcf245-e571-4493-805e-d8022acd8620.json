@@ -10,16 +10,16 @@
   "date_acquired": "1962-02-15",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 6.75,
-  "item_height": 11.5,
+  "item_width": 7.0,
+  "item_height": 11.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011489",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011489",
   "provenance_text": "Ginsburg and Leavy, Inc., NY, New York",
   "classification": "Textiles",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9582&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9582&size=Medium"
     }
   ],
   "creator": [

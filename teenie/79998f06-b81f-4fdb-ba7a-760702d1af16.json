@@ -1,8 +1,8 @@
 {
-  "title": "Portrait of sergeant in Pittsburgh Auxiliary Police, badge no. 64, seated in studio",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "title": "Portrait of sergeant in Pittsburgh Auxiliary Police, badge no. 64, seated in Harris Studio",
+  "creation_date": "c. 1945-1950",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1950-01-01",
   "medium": "black and white: Agfa Safety Film",
   "accession_number": "2001.35.5100",
   "id": "cmoa:things/79998f06-b81f-4fdb-ba7a-760702d1af16",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8282",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=8282",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20260&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=20260&size=ZoomLarge"
     }
   ],
   "creator": [

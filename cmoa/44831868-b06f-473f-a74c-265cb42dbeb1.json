@@ -3,7 +3,7 @@
   "creation_date": "1951",
   "creation_date_earliest": "1951-01-01",
   "creation_date_latest": "1951-01-01",
-  "medium": "etching",
+  "medium": "etching on paper",
   "accession_number": "54.13.24",
   "id": "cmoa:things/44831868-b06f-473f-a74c-265cb42dbeb1",
   "credit_line": "Edward Duff Balken Fund",
@@ -14,15 +14,15 @@
   "item_height": 18.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009220",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1009220",
   "provenance_text": "Raymond & Raymond",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103745&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=103745&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78878&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=78878&size=Medium"
     }
   ],
   "creator": [

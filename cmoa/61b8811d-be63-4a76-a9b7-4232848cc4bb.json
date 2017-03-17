@@ -6,7 +6,7 @@
   "medium": "chromogenic print",
   "accession_number": "2013.26.1",
   "id": "cmoa:things/61b8811d-be63-4a76-a9b7-4232848cc4bb",
-  "credit_line": "Purchase: Gift of Elise Jaffe + Jeffrey Brown",
+  "credit_line": "Purchase made possible by Elise Jaffe + Jeffrey Brown",
   "date_acquired": "2013-09-12",
   "department": "Heinz Architectural Center",
   "physical_location": "Not on View",
@@ -14,12 +14,12 @@
   "item_height": 24.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92392",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=92392",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115610&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=115610&size=Medium"
     }
   ],
   "creator": [

@@ -14,12 +14,12 @@
   "item_height": 16.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008729",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1008729",
   "provenance_text": "Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, January 1949.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110942&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110942&size=Medium"
     }
   ],
   "creator": [
@@ -29,7 +29,7 @@
       "full_name": "Léopold Flameng",
       "cited_name": "Flameng, Léopold",
       "role": "after",
-      "nationality": "Belgian",
+      "nationality": "French",
       "birth_date": "1831-01-01",
       "death_date": "1911-01-01",
       "birth_place": "Brussels (Bruxelles region, Belgium)",

@@ -14,12 +14,12 @@
   "item_height": 8.268,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103872",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=103872",
   "provenance_text": null,
   "classification": "mixed media",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129752&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=129752&size=Medium"
     }
   ],
   "creator": [
@@ -31,7 +31,7 @@
       "role": null,
       "nationality": "Serbian",
       "birth_date": "1947-01-01",
-      "death_date": null,
+      "death_date": "2016-01-01",
       "birth_place": "Belgrade, Serbia",
       "death_place": null
     }

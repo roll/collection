@@ -14,15 +14,15 @@
   "item_height": 1.188,
   "item_depth": 30.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103716",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=103716",
   "provenance_text": "The architect.",
   "classification": "architectural models",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133745&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=133745&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133744&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=133744&size=Medium"
     }
   ],
   "creator": [

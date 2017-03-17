@@ -3,7 +3,7 @@
   "creation_date": "c. 1805",
   "creation_date_earliest": "1800-01-01",
   "creation_date_latest": "1810-01-01",
-  "medium": "woodcut on paper",
+  "medium": "woodblock print on paper",
   "accession_number": "77.31.4",
   "id": "cmoa:things/4535b3dc-9387-4c2b-adb7-eda36c88cf8a",
   "credit_line": "Gift of Dr. and Mrs. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 10.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018569",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1018569",
   "provenance_text": "Gift of Dr. and Mrs. James B. Austin, Pittsburgh, PA\nPurchased by Dr. Austin at auction at Sotheby & Son, London, Vever Sale II, 3/26/1975, No. 259, Lot 278\nthrough Bluett & Sons, London.  From the collection of Henri Vever.  See Luht 1381A and 2491A.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105805&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=105805&size=Medium"
     }
   ],
   "creator": [

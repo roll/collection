@@ -14,12 +14,12 @@
   "item_height": 9.0,
   "item_depth": 0.0,
   "item_diameter": 4.5,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015834",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1015834",
   "provenance_text": "Black, Starr and Frost Ltd., PA, Pittsburgh",
-  "classification": "Glass",
+  "classification": "containers",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=767&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=767&size=Medium"
     }
   ],
   "creator": [

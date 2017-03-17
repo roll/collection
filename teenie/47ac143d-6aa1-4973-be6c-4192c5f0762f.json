@@ -1,8 +1,8 @@
 {
   "title": "Man speaking into microphone on desk piled with newspapers",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1960-1975",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1975-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.2614",
   "id": "cmoa:things/47ac143d-6aa1-4973-be6c-4192c5f0762f",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4520",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=4520",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18621&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=18621&size=ZoomLarge"
     }
   ],
   "creator": [

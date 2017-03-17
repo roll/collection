@@ -14,30 +14,30 @@
   "item_height": 10.75,
   "item_depth": 12.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015965",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1015965",
   "provenance_text": "Ailsa Mellon Bruce",
-  "classification": "Metals",
+  "classification": "containers",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97516&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97516&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97518&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97518&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97519&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97519&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97520&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97520&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97521&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97521&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97523&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97523&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4481&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4481&size=Medium"
     }
   ],
   "creator": [

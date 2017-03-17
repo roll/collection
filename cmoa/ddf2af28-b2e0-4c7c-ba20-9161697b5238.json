@@ -11,15 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 16.375,
-  "item_height": 25.125,
+  "item_height": 25.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021497",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1021497",
   "provenance_text": "Mr. And Mrs. James A. Drain, Ligonier, PA",
   "classification": "Textiles",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6491&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=6491&size=Medium"
     }
   ],
   "creator": [

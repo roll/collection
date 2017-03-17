@@ -1,8 +1,8 @@
 {
-  "title": "Woman with sleeve patch \"PHN\" weighing a baby",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "title": "Woman, possibly nurse, wearing uniform with \"PHN\" patch, weighing baby on scale",
+  "creation_date": "c. 1938-1948",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1948-01-01",
   "medium": "black and white: Agfa Safety Film",
   "accession_number": "2001.35.5464",
   "id": "cmoa:things/c876d5ac-1009-4447-b094-b7fda85787e6",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8769",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=8769",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20468&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=20468&size=ZoomLarge"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "2006-06-01",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 15.375,
-  "item_height": 11.625,
+  "item_width": 21.75,
+  "item_height": 19.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=22708",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=22708",
   "provenance_text": "Thomas Dane Limited, London, England",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104623&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=104623&size=Medium"
     }
   ],
   "creator": [

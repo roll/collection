@@ -14,18 +14,18 @@
   "item_height": 53.0,
   "item_depth": 3.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000102",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1000102",
   "provenance_text": "E. Glaenzer and Co., New York, by 1903. Purchased by Museum, 1903.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126413&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126413&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126414&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=126414&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=398&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=398&size=Medium"
     }
   ],
   "creator": [

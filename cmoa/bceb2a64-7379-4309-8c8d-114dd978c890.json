@@ -3,7 +3,7 @@
   "creation_date": null,
   "creation_date_earliest": "1817-01-01",
   "creation_date_latest": "1858-01-01",
-  "medium": "woodcut",
+  "medium": "woodblock print",
   "accession_number": "89.28.231",
   "id": "cmoa:things/bceb2a64-7379-4309-8c8d-114dd978c890",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 9.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027762",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1027762",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 5/6/1968. Ex Coll. Frank Lloyd Wright.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98352&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=98352&size=Medium"
     }
   ],
   "creator": [

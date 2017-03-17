@@ -11,15 +11,15 @@
   "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 9.5,
-  "item_height": 6.5,
+  "item_height": 6.125,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82635",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=82635",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98132&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=98132&size=Medium"
     }
   ],
   "creator": [

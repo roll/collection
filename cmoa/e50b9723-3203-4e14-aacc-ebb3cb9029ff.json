@@ -14,15 +14,15 @@
   "item_height": 21.0,
   "item_depth": 16.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=356",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=356",
   "provenance_text": "Urban Architecture, New York",
-  "classification": "Plastic/Synthetic",
+  "classification": "furniture",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96101&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=96101&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11271&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=11271&size=Medium"
     }
   ],
   "creator": [

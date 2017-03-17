@@ -14,7 +14,7 @@
   "item_height": 0.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018390",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1018390",
   "provenance_text": "Tony Conrad, Buffalo, NY",
   "classification": "films",
   "images": [
@@ -29,9 +29,9 @@
       "role": null,
       "nationality": "American",
       "birth_date": "1940-01-01",
-      "death_date": null,
-      "birth_place": "Concord, NH",
-      "death_place": null
+      "death_date": "2016-01-01",
+      "birth_place": "Concord (Merrimack county, New Hampshire, United States)",
+      "death_place": "Cheektowaga (Erie county, New York state, United States)"
     }
   ]
 }

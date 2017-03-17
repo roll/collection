@@ -14,15 +14,15 @@
   "item_height": 29.25,
   "item_depth": 17.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=16099",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=16099",
   "provenance_text": "Ron Desmett, 2002; Museum purchase, 2002. \n\nTBF November 5, 2014",
   "classification": "Glass",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97717&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=97717&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47652&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=47652&size=Medium"
     }
   ],
   "creator": [
@@ -34,7 +34,7 @@
       "role": null,
       "nationality": "American",
       "birth_date": "1948-01-01",
-      "death_date": null,
+      "death_date": "2016-01-01",
       "birth_place": null,
       "death_place": null
     }

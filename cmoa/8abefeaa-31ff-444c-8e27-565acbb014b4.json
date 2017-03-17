@@ -14,12 +14,12 @@
   "item_height": 7.375,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017009",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1017009",
   "provenance_text": "The 831 Gallery, Birmingham, Mich",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111865&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111865&size=Medium"
     }
   ],
   "creator": [
@@ -30,8 +30,8 @@
       "cited_name": "Evans, Walker",
       "role": null,
       "nationality": "American",
-      "birth_date": "1903-01-01",
-      "death_date": "1975-01-01",
+      "birth_date": "1903-11-03",
+      "death_date": "1975-04-10",
       "birth_place": "St. Louis, Missouri",
       "death_place": "New Haven, Connecticut"
     }

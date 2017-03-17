@@ -8,21 +8,21 @@
   "id": "cmoa:things/0503b10a-3b6b-40e5-bb91-6e8c61029fc6",
   "credit_line": "Patrons Art Fund",
   "date_acquired": "1992-04-02",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 16.0,
   "item_height": 19.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031815",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1031815",
   "provenance_text": "Concept Art Gallery, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113471&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113471&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113470&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113470&size=Medium"
     }
   ],
   "creator": [

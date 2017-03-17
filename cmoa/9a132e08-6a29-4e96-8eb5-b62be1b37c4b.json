@@ -14,12 +14,15 @@
   "item_height": 0.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016577",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016577",
   "provenance_text": "Stan Brakhage, Rollinsville, CO",
   "classification": "films",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121355&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=155308&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=121355&size=Medium"
     }
   ],
   "creator": [

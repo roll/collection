@@ -10,16 +10,16 @@
   "date_acquired": "1993-02-04",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.0,
+  "item_width": 2.625,
+  "item_height": 2.125,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031546",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1031546",
   "provenance_text": "Dr. J. Benjamin Brumberg, Dania, FL",
   "classification": "drawings and watercolors",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114422&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=114422&size=Medium"
     }
   ],
   "creator": [

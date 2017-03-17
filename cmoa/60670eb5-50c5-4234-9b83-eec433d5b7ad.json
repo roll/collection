@@ -6,7 +6,7 @@
   "medium": "earthenware and nails",
   "accession_number": "95.82.1",
   "id": "cmoa:things/60670eb5-50c5-4234-9b83-eec433d5b7ad",
-  "credit_line": "Patrons Art Fund",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 85th Annual Exhibition of the Associated Artists of Pittsburgh",
   "date_acquired": "1995-10-19",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
@@ -14,12 +14,12 @@
   "item_height": 10.0,
   "item_depth": 5.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035819",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1035819",
   "provenance_text": "Jerry Caplan, Pittsburgh, PA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101478&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=101478&size=Medium"
     }
   ],
   "creator": [

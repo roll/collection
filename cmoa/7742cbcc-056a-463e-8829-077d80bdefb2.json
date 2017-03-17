@@ -3,7 +3,7 @@
   "creation_date": "1835",
   "creation_date_earliest": "1835-01-01",
   "creation_date_latest": "1835-01-01",
-  "medium": "color woodcut on paper",
+  "medium": "color woodblock print on paper",
   "accession_number": "84.83.3",
   "id": "cmoa:things/7742cbcc-056a-463e-8829-077d80bdefb2",
   "credit_line": "Gift of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 9.938,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025203",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1025203",
   "provenance_text": "James B. Austin, Pittsburgh, PA",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99137&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=99137&size=Medium"
     }
   ],
   "creator": [

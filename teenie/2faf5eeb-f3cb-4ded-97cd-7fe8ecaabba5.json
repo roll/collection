@@ -1,8 +1,8 @@
 {
-  "title": "Man shoveling coal into furnace, possibly at mill",
-  "creation_date": "c. 1947",
-  "creation_date_earliest": "1942-01-01",
-  "creation_date_latest": "1952-01-01",
+  "title": "\"Jim Anthony shoveling coal into stationary boiler",
+  "creation_date": "July 1946",
+  "creation_date_earliest": "1946-07-01",
+  "creation_date_latest": "1946-07-13",
   "medium": "black and white: Ansco Safety Film",
   "accession_number": "2001.35.5907",
   "id": "cmoa:things/2faf5eeb-f3cb-4ded-97cd-7fe8ecaabba5",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=10877",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=10877",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21596&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=21596&size=ZoomLarge"
     }
   ],
   "creator": [

@@ -8,18 +8,18 @@
   "id": "cmoa:things/6d93a558-6483-479d-a9c6-9c4c6aa6e0ef",
   "credit_line": "Gift of the artist",
   "date_acquired": "1998-10-08",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 19.875,
   "item_height": 16.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003767",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003767",
   "provenance_text": "Clyde Hare, Pittsburgh, PA",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7761&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=7761&size=Medium"
     }
   ],
   "creator": [

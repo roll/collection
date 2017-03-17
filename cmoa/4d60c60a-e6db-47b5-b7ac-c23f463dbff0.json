@@ -1,8 +1,8 @@
 {
   "title": "Dead Spot",
-  "creation_date": null,
-  "creation_date_earliest": "1934-01-01",
-  "creation_date_latest": "1959-01-01",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
   "medium": "lithograph on paper",
   "accession_number": "59.55",
   "id": "cmoa:things/4d60c60a-e6db-47b5-b7ac-c23f463dbff0",
@@ -14,12 +14,12 @@
   "item_height": 33.0,
   "item_depth": 0.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011089",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011089",
   "provenance_text": "Vittoria Augustini, via dei Liburni 14, Rome",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121494&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=121494&size=Medium"
     }
   ],
   "creator": [

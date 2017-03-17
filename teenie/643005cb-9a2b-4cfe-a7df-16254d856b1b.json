@@ -1,8 +1,8 @@
 {
   "title": "Group of school boys displaying tools and ironwork",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1945-1950",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1950-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.2677",
   "id": "cmoa:things/643005cb-9a2b-4cfe-a7df-16254d856b1b",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4583",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=4583",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17305&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=17305&size=ZoomLarge"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1973-05-09",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.313,
+  "item_width": 0.375,
   "item_height": 1.125,
   "item_depth": 0.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016648",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016648",
   "provenance_text": "Mrs. Edgar C. Bain",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2994&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=2994&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1975-10-09",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 7.75,
-  "item_height": 8.938,
-  "item_depth": 0.0,
-  "item_diameter": 5.187,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017705",
+  "item_width": 5.25,
+  "item_height": 1.125,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1017705",
   "provenance_text": "Mr. And Mrs. H.E. Hoelscher",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1428&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1428&size=Medium"
     }
   ],
   "creator": [

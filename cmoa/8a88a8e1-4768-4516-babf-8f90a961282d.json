@@ -10,16 +10,16 @@
   "date_acquired": "2010-06-03",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 7.562,
-  "item_height": 11.438,
+  "item_width": 19.75,
+  "item_height": 15.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91820",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=91820",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100600&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=100600&size=Medium"
     }
   ],
   "creator": [

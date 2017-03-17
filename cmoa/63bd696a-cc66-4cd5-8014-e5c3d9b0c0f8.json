@@ -12,17 +12,17 @@
   "physical_location": "Gallery 6, Scaife Galleries",
   "item_width": 15.0,
   "item_height": 23.0,
-  "item_depth": 0.0,
+  "item_depth": 2.375,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018030",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1018030",
   "provenance_text": "Ira Spanierman [1928-], New York, by 1975; purchased by Museum, 1976.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113314&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=113314&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=193&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=193&size=Medium"
     }
   ],
   "creator": [

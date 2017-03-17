@@ -14,18 +14,12 @@
   "item_height": 12.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001100",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1001100",
   "provenance_text": "F. Meder, 15 East 40th St., New York City, NY",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118728&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99302&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68815&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=118728&size=Medium"
     }
   ],
   "creator": [

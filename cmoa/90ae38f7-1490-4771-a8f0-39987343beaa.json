@@ -10,40 +10,40 @@
   "date_acquired": "2007-10-04",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 8.375,
+  "item_width": 8.5,
   "item_height": 11.5,
-  "item_depth": 0.0,
+  "item_depth": 0.75,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=89414",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=89414",
   "provenance_text": "George Ebbs",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110682&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110682&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110680&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110680&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110687&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110687&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110684&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110684&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110685&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110685&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110686&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110686&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110681&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110681&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110679&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110679&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110683&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=110683&size=Medium"
     }
   ],
   "creator": [

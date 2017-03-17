@@ -10,16 +10,16 @@
   "date_acquired": "2011-10-06",
   "department": "Decorative Arts and Design",
   "physical_location": "Gallery 7, Scaife Galleries",
-  "item_width": 68.0,
+  "item_width": 69.0,
   "item_height": 39.0,
   "item_depth": 25.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93731",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=93731",
   "provenance_text": null,
   "classification": "Wood",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115998&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=115998&size=Medium"
     }
   ],
   "creator": [

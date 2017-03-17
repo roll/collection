@@ -11,15 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 7.25,
-  "item_height": 10.188,
+  "item_height": 10.0,
   "item_depth": 5.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016905",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1016905",
   "provenance_text": "Ex-coll: Andrew Carnegie\nEx-coll: Florence Nightengale Carnegie, Andrew Carnegie's niece\nEx-coll: Cynthia Cooper (Mrs. David P.), Florence Nightengale Carnegie's granddaughter.",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5952&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5952&size=Medium"
     }
   ],
   "creator": [

@@ -8,18 +8,18 @@
   "id": "cmoa:things/5e5b67e0-6db1-4b0f-9e9e-ce9b92f2a2da",
   "credit_line": "Gift of Ben Wunsch",
   "date_acquired": "1984-12-06",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 11.0,
   "item_height": 14.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024468",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1024468",
   "provenance_text": "The Martin S. Ackerman Foundation, NYC",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111777&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111777&size=Medium"
     }
   ],
   "creator": [

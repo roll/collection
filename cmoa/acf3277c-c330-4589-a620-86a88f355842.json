@@ -10,40 +10,40 @@
   "date_acquired": "2011-06-02",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 7.0,
-  "item_height": 5.0,
-  "item_depth": 0.0,
+  "item_width": 6.875,
+  "item_height": 4.875,
+  "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93372",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=93372",
   "provenance_text": "Pace/MacGill Gallery, New York",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111885&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111885&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111886&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111886&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111887&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111887&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111888&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111888&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111889&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111889&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111890&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111890&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111891&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111891&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111892&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111892&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111893&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111893&size=Medium"
     }
   ],
   "creator": [

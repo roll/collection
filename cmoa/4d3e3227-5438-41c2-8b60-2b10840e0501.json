@@ -10,16 +10,16 @@
   "date_acquired": "1983-06-09",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 5.0,
+  "item_width": 4.75,
   "item_height": 4.5,
   "item_depth": 3.625,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023829",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1023829",
   "provenance_text": "Sarah Van Voorhis Rogers",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6193&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=6193&size=Medium"
     }
   ],
   "creator": [

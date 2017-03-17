@@ -10,22 +10,22 @@
   "date_acquired": "1991-12-05",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 8.313,
-  "item_height": 6.75,
-  "item_depth": 6.562,
+  "item_width": 8.5,
+  "item_height": 6.875,
+  "item_depth": 6.625,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029723",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1029723",
   "provenance_text": "Mr. And Mrs. Joshua C. Whetzel, Jr., Pittsburgh, PA",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9097&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9097&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9098&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9098&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9096&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=9096&size=Medium"
     }
   ],
   "creator": [

@@ -14,15 +14,15 @@
   "item_height": 22.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010479",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1010479",
   "provenance_text": "Yoshinobu Masuda, Tokyo",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83566&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=83566&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33783&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=33783&size=Medium"
     }
   ],
   "creator": [

@@ -1,5 +1,5 @@
 {
-  "title": "Pittsburgh, 2004",
+  "title": "Pittsburgh (man cutting grass)",
   "creation_date": "2004",
   "creation_date_earliest": "2004-01-01",
   "creation_date_latest": "2004-01-01",
@@ -14,36 +14,12 @@
   "item_height": 0.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101912",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=101912",
   "provenance_text": null,
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125395&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125397&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125398&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125399&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125401&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125402&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125403&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125405&size=Medium"
-    },
-    {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125406&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=125398&size=Medium"
     }
   ],
   "creator": [

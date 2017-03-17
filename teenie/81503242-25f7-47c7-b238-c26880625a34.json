@@ -1,8 +1,8 @@
 {
-  "title": "Back of brick structure with porch and wooden staircase, construction debris on ground",
-  "creation_date": "c. 1958",
-  "creation_date_earliest": "1955-01-01",
-  "creation_date_latest": "1961-01-01",
+  "title": "Wooden staircase entrance to Juicy Plum Club speakeasy behind 1719 Centre Avenue on Roberts Street, Hill District",
+  "creation_date": "August 1958",
+  "creation_date_earliest": "1958-08-01",
+  "creation_date_latest": "1958-08-30",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.48302",
   "id": "cmoa:things/81503242-25f7-47c7-b238-c26880625a34",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=62390",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=62390",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=70799&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=70799&size=ZoomLarge"
     }
   ],
   "creator": [

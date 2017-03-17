@@ -10,16 +10,16 @@
   "date_acquired": "1970-12-17",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
+  "item_width": 3.0,
   "item_height": 2.0,
   "item_depth": 3.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015873",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1015873",
   "provenance_text": "Mrs. Fred C. Foy, Rector, PA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3221&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=3221&size=Medium"
     }
   ],
   "creator": [

@@ -10,16 +10,16 @@
   "date_acquired": "1978-02-09",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 4.812,
+  "item_width": 2.25,
   "item_height": 5.0,
-  "item_depth": 1.688,
+  "item_depth": 1.375,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019088",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1019088",
   "provenance_text": "Stanley and Charlotte Bernstein",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4790&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4790&size=Medium"
     }
   ],
   "creator": [

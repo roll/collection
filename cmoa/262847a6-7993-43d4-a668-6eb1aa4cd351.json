@@ -10,16 +10,16 @@
   "date_acquired": "1999-02-04",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 5.0,
+  "item_width": 4.938,
   "item_height": 3.188,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003961",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1003961",
   "provenance_text": "Anonymous donor, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February, 1999.",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107349&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=107349&size=Medium"
     }
   ],
   "creator": [

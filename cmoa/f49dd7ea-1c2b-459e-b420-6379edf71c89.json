@@ -10,22 +10,22 @@
   "date_acquired": "1977-10-12",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
+  "item_width": 3.5,
   "item_height": 2.75,
-  "item_depth": 0.0,
-  "item_diameter": 3.5,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018882",
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1018882",
   "provenance_text": "Mr. and Mrs. Sidney M. Feldman, Pittsburgh, PA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4503&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4503&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4504&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4504&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4502&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=4502&size=Medium"
     }
   ],
   "creator": [

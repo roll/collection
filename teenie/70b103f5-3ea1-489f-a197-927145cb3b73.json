@@ -1,8 +1,8 @@
 {
-  "title": "Portrait of Cheryl \"Tiny\" Harris wearing duck patterned dress, lying back on small chair, in Charles \"Teenie\" Harris' house at 7604 Mulford Street",
-  "creation_date": "c. 1956",
-  "creation_date_earliest": "1953-01-01",
-  "creation_date_latest": "1959-01-01",
+  "title": "Cheryl \"Tiny\" Harris wearing duck patterned dress lying back on small chair, in home of Charles \"Teenie\" Harris, 7604 Mulford Street, Homewood",
+  "creation_date": "December 1955",
+  "creation_date_earliest": "1955-12-01",
+  "creation_date_latest": "1955-12-24",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.24013",
   "id": "cmoa:things/70b103f5-3ea1-489f-a197-927145cb3b73",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=36666",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=36666",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=42544&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=42544&size=ZoomLarge"
     }
   ],
   "creator": [

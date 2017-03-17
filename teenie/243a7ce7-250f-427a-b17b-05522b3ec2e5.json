@@ -1,8 +1,8 @@
 {
   "title": "Woman standing on stone wall possibly in Schenley Park, seen from below",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1940-1946",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1946-01-01",
   "medium": "black and white: Agfa Safety Film",
   "accession_number": "2001.35.3795",
   "id": "cmoa:things/243a7ce7-250f-427a-b17b-05522b3ec2e5",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6352",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=6352",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18343&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=18343&size=ZoomLarge"
     }
   ],
   "creator": [

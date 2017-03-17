@@ -1,8 +1,8 @@
 {
-  "title": "Small church with narrow bricks, light colored double doors, cross, and two rows of five awning windows",
-  "creation_date": "c. 1957",
-  "creation_date_earliest": "1954-01-01",
-  "creation_date_latest": "1960-01-01",
+  "title": "Emmanuel Baptist Church, 245 3rd Avenue, Rankin",
+  "creation_date": "July 1957",
+  "creation_date_earliest": "1957-07-01",
+  "creation_date_latest": "1957-07-13",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.46660",
   "id": "cmoa:things/77a533ac-768f-4e96-a6c5-36b96c94f623",
@@ -14,12 +14,12 @@
   "item_height": 4.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=60559",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=60559",
   "provenance_text": null,
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=69079&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=69079&size=ZoomLarge"
     }
   ],
   "creator": [

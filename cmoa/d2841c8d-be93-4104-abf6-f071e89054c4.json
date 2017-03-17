@@ -14,15 +14,15 @@
   "item_height": 132.125,
   "item_depth": 1.375,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026044",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026044",
   "provenance_text": "Michael Werner Gallery, Koln",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37207&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=37207&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57643&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=57643&size=Medium"
     }
   ],
   "creator": [

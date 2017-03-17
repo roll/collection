@@ -10,16 +10,16 @@
   "date_acquired": "1990-06-03",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 6.187,
-  "item_height": 7.187,
-  "item_depth": 6.187,
+  "item_width": 6.125,
+  "item_height": 7.25,
+  "item_depth": 6.125,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022957",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1022957",
   "provenance_text": "Mr. And Mrs. Alan G. Lehman, Pittsburgh, PA",
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1514&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=1514&size=Medium"
     }
   ],
   "creator": [

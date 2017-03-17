@@ -3,7 +3,7 @@
   "creation_date": "1997",
   "creation_date_earliest": "1997-01-01",
   "creation_date_latest": "1997-01-01",
-  "medium": "gelatin silver print mounted on museum board",
+  "medium": "gelatin silver print",
   "accession_number": "2014.79.7",
   "id": "cmoa:things/657bbf76-bc68-46e9-8adb-8f0aa1c22449",
   "credit_line": "Gift of Rachel and Harmony Korine",
@@ -14,15 +14,15 @@
   "item_height": 25.0,
   "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107119",
-  "provenance_text": null,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=107119",
+  "provenance_text": "Mike Kelley and Cameron Jamie; Patrick Painter Gallery, Santa Monica, CA; Rachel and Harmony Korine; Carnegie Museum of Art, Pittsburgh, PA.",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135389&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=135389&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135388&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=135388&size=Medium"
     }
   ],
   "creator": [

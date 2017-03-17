@@ -11,15 +11,15 @@
   "department": "Contemporary Art",
   "physical_location": "Not on View",
   "item_width": 27.0,
-  "item_height": 21.5,
+  "item_height": 21.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026927",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026927",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 3/20/1967.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34963&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=34963&size=Medium"
     }
   ],
   "creator": [

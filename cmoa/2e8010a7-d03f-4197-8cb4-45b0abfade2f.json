@@ -14,12 +14,12 @@
   "item_height": 23.25,
   "item_depth": 1.25,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011529",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1011529",
   "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
   "classification": "textile art",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150479&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=150479&size=Medium"
     }
   ],
   "creator": [
@@ -27,11 +27,11 @@
       "artist_id": "cmoa:parties/9be2b8fb-7bde-4efb-aaa2-f33e2b6fd5a0",
       "party_type": "Person",
       "full_name": "Marie Tuiccillo Kelly",
-      "cited_name": "Kelly, Marie T.",
+      "cited_name": "Kelly, Marie Tuiccillo",
       "role": null,
       "nationality": "American",
       "birth_date": "1916-01-01",
-      "death_date": "2001-01-01",
+      "death_date": "2000-01-01",
       "birth_place": null,
       "death_place": null
     }

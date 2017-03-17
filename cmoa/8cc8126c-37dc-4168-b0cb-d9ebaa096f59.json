@@ -10,19 +10,19 @@
   "date_acquired": "2001-04-05",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 2.562,
-  "item_depth": 0.0,
-  "item_diameter": 1.875,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004211",
+  "item_width": 1.75,
+  "item_height": 1.75,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1004211",
   "provenance_text": "The Donor, Brakel, Germany",
   "classification": "Metals",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5555&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5555&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5546&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=5546&size=Medium"
     }
   ],
   "creator": [

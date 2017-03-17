@@ -8,18 +8,18 @@
   "id": "cmoa:things/cc8a78a7-587f-4dff-bc70-5578fa6e6b32",
   "credit_line": "Gift of the Carnegie Library of Pittsburgh, Lorant Collection",
   "date_acquired": "2000-10-19",
-  "department": "Contemporary Art",
+  "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 8.75,
-  "item_height": 13.875,
+  "item_height": 13.375,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022834",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1022834",
   "provenance_text": "Stefan Lorant Estate",
   "classification": "photographs",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13352&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=13352&size=Medium"
     }
   ],
   "creator": [

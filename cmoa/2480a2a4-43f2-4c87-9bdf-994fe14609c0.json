@@ -14,15 +14,15 @@
   "item_height": 19.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004515",
-  "provenance_text": "M. Knoedler & Co., New York, NY; purchased by Museum, July 1920.",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1004515",
+  "provenance_text": "M. Knoedler & Co., New York, NY; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, July 1920.",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111028&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111028&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111027&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=111027&size=Medium"
     }
   ],
   "creator": [

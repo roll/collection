@@ -3,7 +3,7 @@
   "creation_date": "1861",
   "creation_date_earliest": "1861-01-01",
   "creation_date_latest": "1861-01-01",
-  "medium": "woodcut on paper (triptych)",
+  "medium": "woodblock print on paper (triptych)",
   "accession_number": "89.28.1149",
   "id": "cmoa:things/b37b61c4-e1be-499f-8b88-11f3e7319e53",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -14,12 +14,12 @@
   "item_height": 14.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026914",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=1026914",
   "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23270&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=23270&size=Medium"
     }
   ],
   "creator": [

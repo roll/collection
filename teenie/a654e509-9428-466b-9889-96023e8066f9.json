@@ -1,8 +1,8 @@
 {
   "title": "Group portrait of six basketball players with basketballs in gym",
-  "creation_date": "c. 1930-1970",
-  "creation_date_earliest": "1930-01-01",
-  "creation_date_latest": "1970-01-01",
+  "creation_date": "c. 1965-1977",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1977-01-01",
   "medium": "black and white: Kodak Safety Film",
   "accession_number": "2001.35.704",
   "id": "cmoa:things/a654e509-9428-466b-9889-96023e8066f9",
@@ -14,12 +14,12 @@
   "item_height": 2.25,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2104",
+  "web_url": "http://teenie.cmoa.org/CollectionSearch.aspx?itemIRN=2104",
   "provenance_text": "The Estate of Charles H. Harris, Pittsburgh",
   "classification": "Photographic Negative",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17515&size=ZoomLarge"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=17515&size=ZoomLarge"
     }
   ],
   "creator": [

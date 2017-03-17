@@ -3,7 +3,7 @@
   "creation_date": "2005",
   "creation_date_earliest": "2005-01-01",
   "creation_date_latest": "2005-01-01",
-  "medium": "42-color screenprint",
+  "medium": "screenprint on paper",
   "accession_number": "2006.65",
   "id": "cmoa:things/623de0de-ba57-4682-a763-848502e7a9f4",
   "credit_line": "Gift of Rita Gould in memory of Diane Haber March",
@@ -14,12 +14,12 @@
   "item_height": 60.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=33717",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=33717",
   "provenance_text": "The artist through Gemini G.E.L., Los Angeles",
   "classification": "prints",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38745&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=38745&size=Medium"
     }
   ],
   "creator": [

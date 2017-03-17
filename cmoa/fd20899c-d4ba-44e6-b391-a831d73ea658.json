@@ -14,15 +14,42 @@
   "item_height": 0.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
-  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92770",
+  "web_url": "http://collection.cmoa.org/CollectionDetail.aspx?item=92770",
   "provenance_text": "John White Alexander [1856-1915] by commission, 1905; purchased by Museum, 1907.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148566&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=148566&size=Medium"
     },
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148567&size=Medium"
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=148567&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=14420&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=151496&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=151497&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=151498&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=151499&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=151500&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=151501&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=151502&size=Medium"
+    },
+    {
+      "image_url": "http://collection.cmoa.org/CollectionImage.aspx?irn=151503&size=Medium"
     }
   ],
   "creator": [
