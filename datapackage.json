@@ -84,7 +84,6 @@
           {
             "name" : "id",
             "type": "string",
-            "format": "uuid",
             "unique": true,
             "constraints": {
               "required": true
@@ -336,7 +335,6 @@
           {
             "name" : "id",
             "type": "string",
-            "format": "uuid",
             "unique": true,
             "constraints": {
               "required": true
