@@ -110,8 +110,7 @@
             "name" : "department",
             "type": "string",
             "constraints": {
-              "required": false,
-              "enum": ["Contemporary Art", "Decorative Arts and Design", "Photography", "Fine Arts", "Heinz Architectural Center", "CA/DA", "Film and Video"]
+              "required": false
             },
             "description": "The department within the museum that is responsible for the item."
           },
@@ -201,8 +200,7 @@
             "name": "party_type",
             "type": "string",
             "constraints": {
-              "required": true,
-              "enum": ["Organization","Person","Collaboration"]
+              "required": true
             },
             "description": "This is the type of entity represented."
           },
@@ -361,8 +359,7 @@
             "name" : "department",
             "type": "string",
             "constraints": {
-              "required": false,
-              "enum": ["Contemporary Art", "Decorative Arts and Design", "Photography", "Fine Arts", "Heinz Architectural Center", "CA/DA", "Film and Video"]
+              "required": false
             },
             "description": "The department within the museum that is responsible for the item."
           },
@@ -452,8 +449,7 @@
             "name": "party_type",
             "type": "string",
             "constraints": {
-              "required": true,
-              "enum": ["Organization","Person","Collaboration"]
+              "required": true
             },
             "description": "This is the type of entity represented."
           },
