@@ -45,12 +45,12 @@
           },
           {
             "name" : "creation_date_earliest",
-            "type": "date",
+            "type": "string",
             "description": "This is the earliest date the object could have been created. May be null if no date known. May be the same as creation_date_latest, which indicates an exact date known."
           },
           {
             "name" : "creation_date_latest",
-            "type": "date",
+            "type": "string",
             "description": "This is the latest date the object could have been created. May be null if no date known. May be the same as creation_date_earlier, which indicates an exact date known."
           },
           {
@@ -76,7 +76,7 @@
           },
           {
             "name" : "date_acquired",
-            "type": "date",
+            "type": "string",
             "description": "The date the object became the legal property of the museum."
           },
           {
@@ -91,22 +91,22 @@
           },
           {
             "name" : "item_width",
-            "type": "number",
+            "type": "string",
             "description": "The maximum width of the artwork/object in inches."
           },
           {
             "name" : "item_height",
-            "type": "number",
+            "type": "string",
             "description": "The maximum height of the artwork/object in inches."
           },
           {
             "name" : "item_depth",
-            "type": "number",
+            "type": "string",
             "description": "The maximum depth of the artwork/object in inches."
           },
           {
             "name" : "item_diameter",
-            "type": "number",
+            "type": "string",
             "description": "The maximum diameter of the artwork/object in inches."
           },
           {
@@ -207,12 +207,12 @@
           },
           {
             "name" : "creation_date_earliest",
-            "type": "date",
+            "type": "string",
             "description": "This is the earliest date the object could have been created. May be null if no date known. May be the same as creation_date_latest, which indicates an exact date known."
           },
           {
             "name" : "creation_date_latest",
-            "type": "date",
+            "type": "string",
             "description": "This is the latest date the object could have been created. May be null if no date known. May be the same as creation_date_earlier, which indicates an exact date known."
           },
           {
@@ -238,7 +238,7 @@
           },
           {
             "name" : "date_acquired",
-            "type": "date",
+            "type": "string",
             "description": "The date the object became the legal property of the museum."
           },
           {
@@ -253,22 +253,22 @@
           },
           {
             "name" : "item_width",
-            "type": "number",
+            "type": "string",
             "description": "The maximum width of the artwork/object in inches."
           },
           {
             "name" : "item_height",
-            "type": "number",
+            "type": "string",
             "description": "The maximum height of the artwork/object in inches."
           },
           {
             "name" : "item_depth",
-            "type": "number",
+            "type": "string",
             "description": "The maximum depth of the artwork/object in inches."
           },
           {
             "name" : "item_diameter",
-            "type": "number",
+            "type": "string",
             "description": "The maximum diameter of the artwork/object in inches."
           },
           {
